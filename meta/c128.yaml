@@ -1,0 +1,50 @@
+globals:
+  last: c128
+includes:
+- from: c128.png
+  to: images/c128.png
+- from: t128.png
+  to: images/t128.png
+pages:
+- _id: c128
+  _path: 128.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c127
+  next: c129
+  datetime: 2011-10-17 05:00:00
+  src: images/c128.png
+  thumbnail: images/t128.png
+  width: 845
+  height: 660
+  name: Signage
+  facebook: 1
+  description: #OccupyTortBunnies
+  alt: Hash tags are so 2010.
+  notes: |
+    <p><b><date></b>. The flow on this comic didn't come out exactly the way I wanted, but I'm too tired to fix it. I did have fun with the signs though.</p>
+    <p>I want to minimize my use of Tort Bunnies as a soapbox outside of law school, but I have a few scattered thoughts I'd like to share.</p>
+    <p>Occupy Wall Street / Occupy Together is an incredible example of self-organization. There's very little (if any) hierarchy, but the protesters have managed <a href="http://inhabitat.com/nyc/understanding-occupy-wall-street-as-an-ecosystem-with-spurse-the-bmw-guggenheim-lab/">to establish basic security, governance, medical care, waste management, and other services on their own.</a> There's even a <a href="http://www.cjr.org/the_news_frontier/occupy_wall_streets_media_team.php">press team</a>. Most of this seems to be driven by random people just stepping up and taking initative for something. I'm curious if there was a group who sat down beforehand and thought of all these things you would need to keep a protest going over an extended period of time. Or is everyone really just playing it by ear?</p>
+    <p>Either way, there's a lot of experimentation and innovation going on. One of my favorite innovations is the "mic check". Apparently, you need a permit to use a megaphone and OWS doesn't have one. To get around this, people have started playing a game of telephone. When someone shouts something, it gets repeated throughout the crowd so everyone can hear. It's a hack, but it's absolutely brilliant. Brief aside: It's also a good model for how something like Twitter should be structured. If there's no central server, it becomes much harder for authoritarian governments (or democratic governments for that matter) to control.</p>
+    <p>One more aside: What would happen if you got OSW and the Tea Party to sit down in a room for the weekend and talk about how to fix America? One possibility is that they'd both dismiss the other as extremists, and nothing would change. I'm not so sure though. Although politicians have attemped to coopt both OSW and Tea Party, both movements arguably remain driven by ordinary people fed up with the powers that be. And there's a bit of research showing that <a href="http://cdd.stanford.edu/polls/docs/summary/">when ordinary people talk about the issues for a while, they make better (or at least different) decisions</a> than when they're just relying on clever slogans and 30-second soundbites put out by politicians.</p>
+    <p>Anyhow, I'm positive there are grad students drooling at the chance to write a dissertation about this -- not me though, unless I get to include bunnies.</p>    
+  transcript: |
+    Lucy Usagi carries around a sign at a protest that reads "Adversely Possess Wall $treet". ;
+    In the background, there are signs that say "Free speech! Except for non-traditional media corporations", "Regulatory capture makes me angry", and "Iqbal is icky!". ;
+    Lucy Usagi: Evil multinational corporations suck! ;
+    -----
+    Brown Rabbit: What are you saying?! Evil multinational
+                  corporations are our clients! If your firm
+                  hears about this, you could lose your-- ;
+    More signs in the background -- "We distrust B-Corps., L3Cs, and FPCs too!" and "With Limited Liability comes Limited Responsibility". ;
+    -----
+    Negligent Lop: Bad news bro! Our firm's 
+                   revoking offers because
+                   of the economic downturn! ;
+    More signage -- "IRC § 101 unfairly subsidizes rich insurance companies". ;
+    Negligent Lop is holding a sign that reads, "Your mother was a hamster, and your father smelt of elderberries." ;
+    -----
+    Lucy continues angrily protesting. ;
+    Brown Rabbit holds a cardboard sign reading, "Will Bluebook for carrots". ;
+    More signs in the background -- "AT&T v. Concepcion was a poorly decided case" and "Tort Bunny stole my lunch" ;
+revision: 128

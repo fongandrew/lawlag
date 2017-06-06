@@ -1,0 +1,38 @@
+globals:
+  last: c94
+includes:
+- from: c94.png
+  to: images/c94.png
+- from: t94.png
+  to: images/t94.png
+pages:
+- _id: c94
+  _path: 94.html
+  _template: page.html
+  _post_to_facebook: I would have posted this earlier if I didn't have a final today.
+  prev: c93
+  next: c95
+  datetime: 2011-05-04 05:00:00
+  src: images/c94.png
+  thumbnail: images/t94.png
+  width: 900
+  height: 340
+  name: Epic Interruption
+  facebook: 1
+  description: All quiet on the central front
+  alt: Something you already knew unless you were hiding in a secret compound without Internet or telephone service for the last few days
+  notes: |
+    <p><b><date></b>. This isn't the follow-up to Monday's <a href="http://<domain>/93.html">"to be continued."</a> That's still coming on Thursday.</p>
+    <p>But hey! U-S-A! U-S-A!</p>
+    <p>Shout-out to Danielle.</p>
+  transcript: |
+    Caption: We interrupt your regularly scheduled
+             Tort Bunnies to tell you something 
+             you already knew. ;
+    Caption: Osama bin Laden is dead. ;
+    -----
+    Negligent Lop and Brown Rabbit (together): U-S-A! U-S-A! ;
+    -----
+    Lucy Usagi: Shhhhhhhh. ;
+    Lucy Usagi: Studying. ;
+revision: 94

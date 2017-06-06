@@ -1,0 +1,65 @@
+globals:
+  last: c155
+includes:
+- from: c155.png
+  to: images/c155.png
+- from: t155.png
+  to: images/t155.png
+pages:
+- _id: c155
+  _path: 155.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c154
+  next: c156
+  datetime: 2012-04-23 05:00:00
+  src: images/c155.png
+  thumbnail: images/t155.png
+  width: 900
+  height: 660
+  name: Gilbert's
+  facebook: 1
+  description: Brown Rabbit knows his stuff but goes to the review session anyway.
+  alt: I'd prefer an exam on matters vegetable, animal, and mineral over some law school exams.
+  notes: |
+    <p><b><date></b>. An unofficial sequel of sorts to <a href="http://<domain>/154.html">last week's ditty</a>.</p>
+  transcript: |
+    To the tune of "I Am the Very Model of a Modern Major-General" from Gilbert and Sullivan's The Pirates of Penzance. ;
+    Brown Rabbit: I am the very model of a
+                  student Juris Doctoral. ;
+    Brown Rabbit: I know all that's unlawful,
+                  liable, and criminal. ;
+    -----
+    Brown Rabbit: I'm in seven study groups, and
+                  I quote the rules procedural,
+                   ;
+    Brown Rabbit: In all matters contractual,
+                  my offers are considerable.
+                   ;
+    -----
+    Brown Rabbit: I've strong opinions on this
+                  case and injuries cognizable,
+                   ;
+    Brown Rabbit: My highlighting's quite colorful
+                  on matters constitutional.
+                   ;
+    -----
+    Brown Rabbit: My outline started months ago,
+                  which some folks find unbearable,
+                  
+                   ;
+    Brown Rabbit: Ridiculous and terrible, but
+                  all of this just goes to show
+                   ;
+    -----
+    Brown Rabbit: In spotting issues unlawful,
+                  liable, and criminal,
+                   ;
+    Brown Rabbit: I am the very model of a
+                  student Juris Doctoral.
+                   ;
+    -----
+    Caption: After the review session ;
+    Brown Rabbit: Well, I'm boned. ;
+    Negligent Lop: Want to grab a drink? ;
+revision: 155

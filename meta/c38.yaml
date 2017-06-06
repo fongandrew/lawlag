@@ -1,0 +1,46 @@
+globals:
+  last: c38
+includes:
+- from: c38.png
+  to: images/c38.png
+pages:
+- _id: c38
+  _path: 38.html
+  _template: page.html
+  prev: c37
+  next: c39
+  alt: "Negligent Lop broke into the building in order to commit tax fraud, so he's guilty of burglary too."
+  datetime: 2010-06-14 05:00:00
+  width: 900
+  height: 650
+  name: Felonious
+  notes: |
+    <p><b><date></b>. The <a href="http://en.wikipedia.org/wiki/Felony_murder_rule">felony murder rule</a> basically says, if you're doing something sufficiently naughty (e.g. a felony) and you happen to kill someone, even accidentally, you're guilty of murder (as opposed to manslaughter). Not all felonies trigger the felony murder rule however. Generally, it's limited to a small class of felonies that are either inherently violent or have the strong potential to become violent (e.g. arson, burglary, and kidnapping). In other words, you can't burn down a building and say, "I'm not guilty of murder because I seriously thought there was no one inside the building!" Tax fraud, on the other hand, will probably not serve as predicate offense for the felony murder rule.</p>
+    <p>In the state of Rabbitonia however, tax fraud is <b>an inherently violent offense</b>, especially if Tort Bunny's involved. Also, ignore all the causation problems.</p>
+    <p>Oh, and the honor code that Brown Rabbit mentions is something that's implemented at a number of schools, <a href="http://www.law.berkeley.edu/819.htm">including Berkeley Law</a>. The honor code is a <i>quid pro quo</i> with the students, saying, "If everyone swears to obey and enforce community standards of honesty and fair dealing, we won't implement strict and somewhat arbitrary rule-based guidelines to deter dishonesty." I think it works pretty well--high school is proof that peer pressure is much more effective than authorities telling you what you can't do. Also, it has some nice benefits. Berkeley Law students get to take exams using laptops. You're generally not permitted to look for answers online, but since the school trusts that students will abide by the honor code, it doesn't disable the Wi-Fi or force students to install invasive software.</p>
+  src: images/c38.png
+  description: Negligent Lop commits a felony. And then some.
+  transcript: |
+    Negligent Lop shows Brown Rabbit his tax returns. ;
+    Negligent Lop: Look Brown Rabbit, I'm
+                   committing tax fraud! ;
+    Brown Rabbit: Gasp! A felony! The honor
+                  code requires that I tell-- ;
+    -----
+    Brown Rabbit clutches his heart and falls backward. ;
+    Brown Rabbit: Urk! Heart attack! ;
+    -----
+    Tort Bunny appears from stage right. ;
+    Tort Bunny: Brown Rabbit has died in the
+                course of your felonious act! ;
+    Tort Bunny: You've committed felony murder! ;
+    -----
+    Brown Rabbit: Actually, I'm still alive. Can
+                  someone call an ambulance? ;
+    -----
+    Tort Bunny picks up a baseball bat and whacks Brown Rabbit. ;
+    Wham! ;
+    -----
+    Tort Bunny: Felony murder! ;
+    Brown Rabbit: Ow ... ;
+revision: 38

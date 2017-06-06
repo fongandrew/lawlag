@@ -1,0 +1,56 @@
+globals:
+  last: c165
+includes:
+- from: c165.png
+  to: images/c165.png
+- from: t165.png
+  to: images/t165.png
+pages:
+- _id: c165
+  _path: 165.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c164
+  next: c166
+  datetime: 2012-06-21 05:00:00
+  src: images/c165.png
+  thumbnail: images/t165.png
+  width: 845
+  height: 660
+  name: RAC Cluster
+  facebook: 1
+  description: Negligent Lop offers BarBri some advice.
+  alt: RAC stands for Real Application Cluster. So a RAC Cluster must be like an ATM Machine.
+  notes: |
+    <p><b><date></b>. For context, here's the full BarBri e-mail:</p>
+    <blockquote>
+      <p>As you are aware, the BARBRI website has recently required emergency reboots.  Many students have suggested that we deploy additional servers to handle the student load.   These reboots have not been caused by lack of server capacity, but rather a third-party software issue.</p>
+      
+      <p>Specifically, the issue is one of configuration of the three-node Oracle RAC cluster that drives the BARBRI website.  Our tech team has been working very closely with technical support teams from Oracle as well as other third-party experts to engineer a solution to the problem.  We have isolated the problem and are pursuing a multi-track solution that includes both upgrading the Oracle clusterware and/or replacing the existing database software and hardware.  We have added additional staff, Oracle has sent in additional resources, and all are working 24 hours a day until this problem is solved.</p>
+      
+      <p>As of the writing of this email, one of the three nodes in the Oracle RAC cluster is showing signs of failure.  This will require a reboot of the BARBRI website at midnight Eastern time tonight.  The site will be unavailable for approximately one hour.</p>
+
+      <p>We know your study time is precious, and hope this advance notice will allow you to plan accordingly.</p>
+    </blockquote>
+    <p><a href="http://knowyourmeme.com/memes/you-must-construct-additional-pylons">Pylons.</a> Yeah, I know.</p>
+    <p>On the plus side, the BarBri support staff are remarkably level-headed -- almost as if they've had lots of experience dealing with irate law students.</p>
+  transcript: |
+    Negligent Lop (typing): Dear BarBri, ;
+    Negligent Lop (typing): Why is your website down? ;
+    -----
+    BarBri (via Internet): Dear Students, ;
+    BarBri (via Internet): We are having configuration
+                           issues with the three-node
+                           Oracle RAC cluster that
+                           drives the BarBri website. ;
+    BarBri (via Internet): We have isolated the problem and are pursuing
+                           a multi-track solution that includes both up-
+                           grading the Oracle clusterware and/or replacing
+                           the existing database software and hardware. ;
+    -----
+    Negligent Lop scratches his chin. ;
+    Negligent Lop: Yes, yes, I see ... ;
+    -----
+    Negligent Lop (typing): Dear BarBri, ;
+    Negligent Lop (typing): You must construct additional pylons. ;
+revision: 165

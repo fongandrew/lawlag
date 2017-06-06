@@ -1,0 +1,55 @@
+globals:
+  last: c132
+includes:
+- from: c132.png
+  to: images/c132.png
+- from: t132.png
+  to: images/t132.png
+pages:
+- _id: c132
+  _path: 132.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c131
+  next: c133
+  datetime: 2011-11-14 05:00:00
+  src: images/c132.png
+  thumbnail: images/t132.png
+  width: 900
+  height: 650
+  name: Fwoosh
+  facebook: 1
+  description: Brown Rabbit learns to label his charts.
+  alt: There are days I wish I could set things on fire by looking at them. Like, everyday.
+  notes: |
+    <p><b><date></b>. <a href="http://www.law.cornell.edu/uscode/5/706.html">Section 706 of the Administrative Procedure Act</a> allows courts to overturn decisions by government agencies that are arbitrary or capricious. Courts try to avoid looking at the substance of a regulation and instead review the process by which a decision was made. <i>See <a href="http://scholar.google.com/scholar_case?case=759595841034114890">Motor Vehicle Mfr. Ass'n v. State Farm Mut. Auto. Ins. Co.</a></i>, 463 U.S. 29 (1983). Commentators refer to this as a "hard look" review -- that is, did the agencies take a "hard look" at the underlying facts and policy? If not, a court may (with some exceptions) set aside the agency's decision as arbitrary and capricious.</p>
+    <p>I'm experimenting with coloring in the speech bubbles (rectangles?). Let me know if it affects readability for you.</p>
+  transcript: |
+    Brown Rabbit points to a chart. ;
+    Brown Rabbit: As this unlabeled chart shows,
+                  the nutritional value of carrots
+                  will drastically decline once
+                  the proposed rule takes effect. ;
+    -----
+    Commissioner McDickerson: Thank you Mr. Rabbit. As
+                              everyone knows, nutritious
+                              is the opposite of delicious. ;
+    Commissioner McDickerson: Therefore, I assume you support
+                              our delicious proposed rule. ;
+    Superbunny: Not so fast Administrator! ;
+    -----
+    Commissioner McDickerson: I'm a Commissioner. ;
+    Superbunny: Whatever. ;
+    Superbunny: The law demands we take a
+                hard look at the data before
+                we finalize our rule. ;
+    -----
+    Superbunny gives Brown Rabbit and his chart a hard look, complete with red laser eye. ;
+    -----
+    FWOOSH. ;
+    -----
+    The chart has a burning hole, and Brown Rabbit runs around aflame. ;
+    Commissioner McDickerson: That seemed excessive. ;
+    Superbunny: Fear my look!
+                Fear it hard! ;
+revision: 132

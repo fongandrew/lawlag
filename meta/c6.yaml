@@ -1,0 +1,38 @@
+globals:
+  last: c6
+includes:
+- from: c6.png
+  to: images/c6.png
+pages:
+- _id: c6
+  _path: 6.html
+  _template: page.html
+  alt: Tort Bunny wants specific performance
+  datetime: 2009-11-02 05:00:00
+  height: 480
+  name: Estoppel
+  description: Chair-jousting is made of awesome.
+  next: c7
+  disqus_url: http://share.tortbunnies.com/6.html
+  notes: '<p><b><date></b>. See <a href="http://en.wikipedia.org/wiki/Estoppel#Promissory_estoppel">promissory
+    estoppel</a>. This was in response to a prompt by Alyssa. She wanted one for <a
+    href="http://www.lawnix.com/cases/feinberg-pfeiffer.html"><i>Feinberg v. Pfeiffer</i></a>,
+    322 S.W.2d 163 (Mo. App. 1959), but all I could think about was this generic promissory
+    estoppel one.</p>
+
+    <p>If you''re unfamiliar with office chair jousting, see <a href="http://<domain>/4.html#notes">last
+    week</a>. Waste assets I do not. Also, this weekend was pretty busy, so that''s
+    why you''re only getting one panel and an idea yanked from a previous week''s
+    brainstorming.</p>
+
+    <p>You may also have noticed background colors and speech bubbles (rectangles).
+    I''m not sure if these will be permanent mainstays -- they''re a little too time-consuming
+    for an otherwise hacked together webcomic, but the bubbles were useful for showing
+    interrupion.</p>'
+  prev: c5
+  src: images/c6.png
+  transcript: "Brown Rabbit: I don't this is a good idea. ;\nTort Bunny: But you've\
+    \ estopped me from finding some\n            other way of hurting you this week!\
+    \ ;\nBrown Rabbit: Well that's hardy-- ;\nTort Bunny: NO TAKESIES BACKSIES! ;\n"
+  width: 900
+revision: 6

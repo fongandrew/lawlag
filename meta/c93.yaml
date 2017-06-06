@@ -1,0 +1,76 @@
+globals:
+  last: c93
+includes:
+- from: c93.png
+  to: images/c93.png
+- from: t93.png
+  to: images/t93.png
+pages:
+- _id: c93
+  _path: 93.html
+  _template: page.html
+  _post_to_facebook: EXAMS!!!
+  prev: c92
+  next: c94
+  datetime: 2011-05-02 05:00:00
+  src: images/c93.png
+  thumbnail: images/t93.png
+  width: 900
+  height: 650
+  name: Epic I
+  facebook: 1
+  description: Tort Bunny loses it during exams.
+  alt: Don't you just hate it when you're left hang--
+  notes: |
+    <p><b><date></b>. To be continued means "check back Thursday."</p>
+  transcript: |
+    Tort Bunny stares at her exam. ;
+    -----
+    We see part of a crim law hypo. ;
+    It goes something like this: ;
+    Final Exam ;
+    Question 1. In order to lose weight for a new role, actor Keanu Cruise has been on strict vegan
+    diet. After a leading film critic lambasted his acting abilities however, Cruise broke down, went
+    to the only Nathan's Famous in Texahoma, and consumed three pounds of hot dogs. ;
+
+    While leaving Nathan's, Cruise saw his friend Angelina Smith. He waved at her and said, "I ate
+    too many wieners." Smith then pulled a gun out of her purse and shouted, "This one's for you
+    Mr. Anderson!" ;
+
+    Terrified, Cruise dived through the window of a closed gun store. The owner of the store, who
+    was standing behind the counter at the time, told investigators that Cruise grabbed a gun off the
+    counter, stepped out, aimed at Smith, and fired off six shots. ;
+
+    Smith dodged all of the bullets. One bullet, however, hit and killed a Girl Scout standing behind
+    Smith. Another bullet ricocheted off a wall, bounced off a metal pole, and lodged itself in the
+    bagel of a sassy passing bassist. The bassist would later inadvertently eat the bullet and die of
+    lead poisoning. ;
+
+    After Cruise fired the shots, both Cruise and Smith were both tackled by bystanders and arrested.
+    During her interrogation, Smith said that she thought Cruise looked like Tom Anderson, the man
+    suspected of murdering her son a week earlier. Anderson has been on the run from police but had
+    been calling Smith on the phone every night since the murder to taunt her. He was last sighted
+    near Nathan's Famous. When she saw Cruise / Anderson, she believed that he was giving her the
+    finger and saying, "Neener neener neener." Enraged, she pulled out her gun and pointed it at him.
+    Although the gun was not loaded, Smith said that she thought it was. When asked if she intended
+    to pull the trigger, she said, "I don't know. I was still thinking about it." ;
+
+    Dave B. Oppy, a reasonable man standing next to Smith, thinks that Cruise looked absolutely
+    nothing like Anderson. ;
+
+    You are a clerk to the District Attorney. Write a memo to the DA, analyzing Cruise's and
+    Smith's possible criminal liability and possible defenses. Recommend which charges, if any,
+    should be filed and explain why. Include, as part of your recommendation, your views of the
+    most appropriate disposition of the case in light of the actors' conduct, the harm caused, and
+    the purposes served by any prosecution. Note that excerpts from some Texahoma statutes are
+    attached. ;
+    -----
+    The exam becomes gibberish. ;
+    -----
+    Tort Bunny notices the words are beginning to pool around her. ;
+    -----
+    Tort Bunny begins to drown in words. Her single desperate black paw juts out of the sea of words. ;
+    -----
+    Brown Rabbit grabs her paw. ;
+    Caption: to be continued ... ;
+revision: 93

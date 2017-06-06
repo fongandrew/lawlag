@@ -1,0 +1,41 @@
+globals:
+  last: c151
+includes:
+- from: c151.png
+  to: images/c151.png
+- from: t151.png
+  to: images/t151.png
+pages:
+- _id: c151
+  _path: 151.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c150
+  next: c152
+  datetime: 2012-03-26 05:00:00
+  src: images/c151.png
+  thumbnail: images/t151.png
+  width: 900
+  height: 660
+  name: Substantive
+  facebook: 1
+  description: Tort Bunny violates 40 U.S.C. S. 6135.
+  alt: Substantive Due Process is the I-can't-believe-it's-not-butter of judicial cookery.
+  notes: |
+    <p><b><date></b>. Today, the Supreme Court begins hearing oral arguments over <a href="http://www.seattlepi.com/business/article/Battle-over-Obama-health-law-reaches-high-court-3433242.php">the constitutionality of the Affordable Care Act</a>, also known as Obama-care. The case will probably revolve around the meaning of the <a href="http://en.wikipedia.org/wiki/Commerce_Clause">Commerce Clause</a>. But the argument that a lot of conservatives are making, that the government shouldn't force people to buy something they don't want to buy, sounds like the "liberty of contract" or economic due process advanced in <a href="http://en.wikipedia.org/wiki/Lochner_v._New_York"><i>Lochner v. New York</i></a>. The Supreme Court rejected this idea in <a href="http://en.wikipedia.org/wiki/West_Coast_Hotel_Co._v._Parrish"><i>West Coast Hotel Co. v. Parrish</i></a>, but the underlying idea, that due process could encompass more that just process,  lived on. In particular, substantive due process guarantees the right "to be free from unwarranted governmental intrusion into matters . . . fundamentally affecting a person [such] as the decision whether to bear or beget a child," and by extension, the right to abortion. <a href="http://en.wikipedia.org/wiki/Planned_Parenthood_v._Casey"><i>Planned Parenthood of Southeastern Pa. v. Casey</i></a> (quoting <a href="http://en.wikipedia.org/wiki/Eisenstadt_v._Baird"><i>Eisenstadt v. Baird</i></a>).</p>
+    <p>Also, you totally can't do <a href="http://codes.lp.findlaw.com/uscode/40/II/C/61/IV/6135">what Tort Bunny is doing</a>.</p>
+  transcript: |
+    Caption: U.S. Supreme Court (of Bunnies) ;
+    Tort Bunny is outside, wearing a sandwich board that reads "PAR TEA", and holding a protest sign that reads "Something Something Socialism". You know, like a dirty dirty hippy.
+    -----
+    Supreme Court: Behold, we have invented
+                   substantive due process! ;
+    Tort Bunny: Bwuh? ;
+    -----
+    Supreme Court: Big government can no longer
+                   violate your economic rights! ;
+    Tort Bunny: Yay! ;
+    -----
+    Supreme Court: Also, you can't ban abortion. ;
+    Tort Bunny: Bwuh? ;
+revision: 151

@@ -1,0 +1,65 @@
+globals:
+  last: c16
+includes:
+- from: c16.png
+  to: images/c16.png
+pages:
+- _id: c16
+  _path: 16.html
+  _template: page.html
+  alt: I once referred to my friend Ken Ho as &quot;my Ho in the front row.&quot;
+    This was misinterpreted.
+  datetime: 2010-01-11 05:00:00
+  updated: 2010-02-10 11:20:00
+  height: 750
+  name: Front Row
+  next: c17
+  description: Four reasons why sitting in the front row of class is a bad idea.
+  notes: '<p><b><date></b>. This one''s been stewing for a while. I figured that the
+    start of a new semester would be a good time to whip it out.</p>
+
+    <p>I''m not quite sure how Brown Rabbit and Tort Bunny switched places in the
+    top right panel. Perhaps they sit next to each other in two different classes
+    -- meaning Brown Rabbit and Tort Bunny probably have a weird relationship (or
+    stalker-ship) going on.</p>
+
+    <p>Also, I don''t have Torts this semester -- I have a few Torts-related comics
+    lined up, but expect the next weeks to be predominantly based on some combination
+    of Civil Procedure, Constitutional Law, and Criminal Law. The name of the strip,
+    however, will not change (again). CivPro Bunnies just doesn''t quite have the
+    same ring. That said, the Google juice for Tort Bunnies is not as high as it could
+    be. So if you have a blog or something, please link to tortbunnies.com!</p>
+    
+    <p><b>Update (February 10, 2010):</b> Half the class hopping on <a href="http://buzz.google.com/">Google Buzz</a> at the same time is not good for productivity.</p>
+    <p><b>Update (August 6, 2010):</b> Buzz sucks. Back to chat.</p>
+
+    '
+  prev: c15
+  src: images/c16.png
+  transcript: |
+    Caption: Reasons Not to Sit in the Front Row ;
+    -----
+    Caption: Your classmates think you're a gunner. ;
+    Brown Rabbit waves his paw around frantically. ;
+    Tort Bunny looks on from his left with a mixture
+    of disgust, fear, and panic on her face. ;
+    -----
+    Caption: Folks in the back can't hear you. ;
+    For some reason, Tort Bunny is now on Brown Rabbit's right. ;
+    Brown Rabbit (quietly): The standard of care for knife throwing--
+    Negligent Lop (loudly): Speak up! ;
+    -----
+    Caption: More people can see your laptop screen. ;
+    Brown Rabbit is looking at Emo Vampire Rabbit Saga Fan Fiction. ;
+    -----
+    Caption: Buzz. ;
+    (formerly) Caption: Chat. ;
+    Tort Bunny is back on Brown Rabbit's left. ;
+    Brown Rabbit is looking down at his laptop. ;
+    Off screen professor: Can someone tell me why an
+                          insanity defense in a murder-- ;
+    (formerly) Off screen professor: Can someone explain why
+                                     mesothelioma damages can-- ;
+    Brown Rabbit (loudly): LOL.
+  width: 640
+revision: 16

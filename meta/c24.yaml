@@ -1,0 +1,42 @@
+globals:
+  last: c24
+includes:
+- from: c24.png
+  to: images/c24.png
+pages:
+- _id: c24
+  _path: 24.html
+  _template: page.html
+  prev: c23
+  next: c25
+  alt: "This will come back to bite me in the ass one day."
+  datetime: 2010-03-08 05:00:00
+  width: 900
+  height: 400
+  name: Pleading
+  notes: |
+    <p><b><date></b>. Apparently, Tort Bunny is <a href="8.html">no longer a minor</a>. See the <a href="http://en.wikipedia.org/wiki/Barristers'_Ball">Barristers' Ball</a>. If you're a Boalt student, go get your tickets for this Friday (Mar. 12).</p>
+    <p>See also <a href="http://en.wikipedia.org/wiki/Pleading">pleading</a>, <i><a href="http://scholar.google.com/scholar_case?case=9596654457159505828">Access Now v. Southwest Airlines, Co.</a></i>, 227 F.Supp.2d 1312 (2002), and <a href="http://en.wikipedia.org/wiki/All_your_base_are_belong_to_us">All your base are belong to us</a>.</p>
+  src: images/c24.png
+  description: Brown Rabbit asks Tort Bunny out to Law School Prom. Again.
+  transcript: |
+    Tort Bunny is busy looking at her laptop. ;
+    Brown Rabbit: You are a bunny. ;
+    Tort Bunny: Admit. ;
+    Brown Rabbit: You wear a pink bow. ;
+    Tort Bunny: Admit. ;
+    -----
+    Brown Rabbit: Carrots are crunchy. ;
+    Tort Bunny: Admit. ;
+    Brown Rabbit: A website is not a place of
+                  public accommodation. ;
+    Tort Bunny: Admit. ;
+    -----
+    Brown Rabbit: All your base are belong to us. ;
+    Tort Bunny: Admit. ;
+    Brown Rabbit: You are going to law
+                  school prom with me. ;
+    Tort Bunny: Deny. ;
+    Brown Rabbit: Dammit. ;
+    Tort Bunny: Admit. ;
+revision: 24

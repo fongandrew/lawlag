@@ -1,0 +1,44 @@
+globals:
+  last: c89
+includes:
+- from: c89.png
+  to: images/c89.png
+- from: t89.png
+  to: images/t89.png
+pages:
+- _id: c89
+  _path: 89.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c88
+  next: c90
+  datetime: 2011-04-04 05:00:00
+  src: images/c89.png
+  thumbnail: images/t89.png
+  width: 900
+  height: 340
+  name: Inconsiderate
+  facebook: 1
+  description: Brown Rabbit tries to split a bill.
+  alt: Brown Rabbit is just relieved that he's not the one being stabbed for once.
+  notes: |
+    <p><b><date></b>. The doctrine of <a href="http://en.wikipedia.org/wiki/Consideration">consideration</a> is the idea that a valid contract requires an actual bargain of some sorts. That is, both parties must give <i>something</i> to the other. This makes the more paranoid law student wary of receiving anything of value -- there might be strings attached.</p>
+    <p>Obviously, there has to be more than someone doing something nice for you for there to be a contract, but this is how a typical contract law hypothetical starts. What if Lucy had promised to buy Brown Rabbit a car earlier in the day, but forgot to revoke her offer? Would paying the bill signal the acceptance of that earlier offer? Suppose both bunnies get wasted later and agree to all sorts of things? What result?</p>
+    <p>The answer: Probably nothing. But some of us are paranoid.</p>
+    <p>Oh, if you need help outlining for contracts, may I suggest <a href="http://www.zazzle.com/attack_outline_poster-228774994603061369">this handy-dandy poster</a>?</p>
+    <p>Shout-out to Hugo.</p>
+  transcript: |
+    Brown Rabbit, Tort Bunny, and Lucy Usagi are at a pizza parlor. ;
+    Brown Rabbit: Well, that was tasty. Hey, I
+                  have to hurry out now, but
+                  here's my share of the bill. ;
+    Lucy Usagi: Wait wait wait, that's too much. ;
+    -----
+    Brown Rabbit: Oh, don't worry about it. I really-- ;
+    Lucy Usagi: No, you can't overpay. ;
+    Brown Rabbit: What? Why not? ;
+    -----
+    Lucy Usagi: Because that might be considera-- ;
+    Tort Bunny pulls out a knife. ;
+    Tort Bunny: I cut you! I cut you now! ;
+revision: 89

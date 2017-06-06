@@ -1,0 +1,44 @@
+globals:
+  last: c176
+includes:
+- from: c176.png
+  to: images/c176.png
+- from: t176.png
+  to: images/t176.png
+pages:
+- _id: c176
+  _path: 176.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c175
+  next: c177
+  datetime: 2012-07-31 05:00:00
+  src: images/c176.png
+  thumbnail: images/t176.png
+  width: 900
+  height: 340
+  name: Barmageddon Epilogue
+  continuation: c170
+  facebook: 1
+  description: Lucy gets good news. Sort of.
+  alt: Whenever is apparently Tuesday.
+  notes: |
+    <p><b><date></b>. Just kidding about the previous comic being the last one before I take a break. This one is. Good luck to everyone waiting to hear back about offers!</p>
+    <p>In case anyone is interested in making their own Tort Bunnies, I've also taken the liberty
+    of posting <a href="http://<domain>/source/">the "source code" for each Tort Bunnies comic.</a> Each comic is an SVG file created
+    in <a href="http://inkscape.org/">Inkscape</a> (which is free to use). I don't feel like posting a how-to just yet, but feel free to dabble around. And if you're interested,
+    shoot me an e-mail and I'll explain how to go about editing stuff.</p>
+  transcript: |
+    Mr. Lop: Good news! ;
+    Lucy Usagi: You've decided to offer
+                me permanent employment? ;
+    Mr. Lop: What? No, the end of the
+             world has been averted! ;
+    -----
+    Lucy gives Mr. Lop the not-sure-if-trolling look. ;
+    -----
+    Lucy Usagi: Did you also save a bunch of
+                money on your car insurance? ;
+    Mr. Lop: How'd you guess? ;
+    Lucy Usagi: Just a hunch. ;
+revision: 176

@@ -1,0 +1,50 @@
+globals:
+  last: c111
+includes:
+- from: c111.png
+  to: images/c111.png
+- from: t111.png
+  to: images/t111.png
+pages:
+- _id: c111
+  _path: 111.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c110
+  next: c112
+  datetime: 2011-07-25 05:00:00
+  src: images/c111.png
+  thumbnail: images/t111.png
+  width: 900
+  height: 650
+  name: Wexis
+  facebook: 1
+  description: Brown Rabbit does some late night legal searching.
+  alt: Wexis employs some wascally wabbits.
+  notes: |
+    <p><b><date></b>. LexisNexis and WestLaw dominate the legal search engine business in the U.S. In law school, searches are a free all-you-can-eat affair. But once you start working for actual law firms, you have to pay per search. Or per hour. Either way, it's a travesty. We're not talking a buck or two per search but hundreds of dollars gone with a couple clicks looking up the legislative history of the word "so".</p>
+    <p>The Lexis and WestLaw representatives tell me not to worry. My firm's on a "flat rate" plan, which really means "we charge you a flat rate but charge your clients for each search you make." I guess that's better?</p>
+    <p>Imagine if Google worked that way. People would actually start using Bing!</p>
+    <p>The sad thing is that there's some incredible innovation going on in the legal search space with these two companies. WestlawNext has some nifty tools for highlighting and annotating cases, plus a cool iPad app. But I really can't justify reading a case on Westlaw when it costs $10 - $20 more than looking it up on Google.</p>
+    <p>Lexis and WestLaw really should just charge a flat fee. If the marginal cost of searching for or retreiving a document is anywhere near what they're charging, they're doing something very very wrong.</p>
+  transcript: |
+    Image of Wexis Legal Search.
+    -----
+    Brown Rabbit: *YAWN* ;
+    Brown Rabbit knocks over a cup of hot coffee. ;
+    Brown Rabbit's Laptop: !!! ;
+    -----
+    Brown Rabbit's Laptop: ARGH! ERROR! ;
+    Brown Rabbit's Laptop: asdf!!@#!** ;
+    -----
+    Brown Rabbit's Laptop: Searching for ... booty. ;
+    -----
+    Brown Rabbit's Laptop: Your client has been billed
+                           $160 for this search. ;
+    Brown Rabbit does that thing where he raises his arms and panics. ;
+    -----
+    Brown Rabbit's Laptop: Looking up negative
+                           history for ... booty. ;
+    Brown Rabbit: Cancel! Cancel! ;
+    Brown Rabbit's Laptop: Your client has been billed $260. ;
+revision: 111

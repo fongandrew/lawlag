@@ -1,0 +1,37 @@
+globals:
+  last: c117
+includes:
+- from: c117.png
+  to: images/c117.png
+- from: t117.png
+  to: images/t117.png
+pages:
+- _id: c117
+  _path: 117.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c116
+  next: c118
+  datetime: 2011-08-22 05:00:00
+  src: images/c117.png
+  thumbnail: images/t117.png
+  width: 900
+  height: 340
+  name: 3L I
+  facebook: 1
+  description: Negligent Lop learns something.
+  alt: Yes, I got lazy and copied #77.
+  notes: |
+    <p><b><date></b>. 3L year is supposed to be easy. But I'm sure I'll find a way to stress myself out anyway.</p>
+  transcript: |
+    Negligent Lop: It's great being a
+                   3L. I can kick back
+                   and relax now. ;
+    -----
+    Negligent Lop: I bet I won't even have to
+                   attend classes. They're
+                   all pass / fail anyway. ;
+    -----
+    Brown Rabbit: They could fail you, you know. ;
+    Negligent Lop: Seriously?! They can do that? ;
+revision: 117

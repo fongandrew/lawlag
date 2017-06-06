@@ -1,0 +1,39 @@
+globals:
+  last: c104
+includes:
+- from: c104.png
+  to: images/c104.png
+- from: t104.png
+  to: images/t104.png
+pages:
+- _id: c104
+  _path: 104.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c103
+  next: c105
+  datetime: 2011-06-20 05:00:00
+  src: images/c104.png
+  thumbnail: images/t104.png
+  width: 845
+  height: 340
+  name: Vox Passive
+  facebook: 1
+  description: Brown Rabbit gets some writing tips.
+  alt: But I will take credit for any solutions to these mistakes.
+  notes: |
+    <p><b><date></b>. I was told that in legal writing, <a href="http://en.wikipedia.org/wiki/English_passive_voice">the passive voice</a> is to be avoided.</p>
+  transcript: |
+    Partner (off-panel): You should always strive
+                         to use the active instead
+                         of the passive voice.
+                          ;
+    Brown Rabbit: Always? ;
+    Partner (off-panel): Almost always. ;
+    -----
+    Journalist (off-panel): Congressman, how do you
+                            explain these photos? ;
+    Congressman McDickerson: Mistakes were made! ;
+    Congressman McDickerson: It was blown! ;
+    Congressman McDickerson: Up was ****ed! ;
+revision: 104

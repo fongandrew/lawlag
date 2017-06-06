@@ -1,0 +1,69 @@
+globals:
+  last: c164
+includes:
+- from: c164.png
+  to: images/c164.png
+- from: t164.png
+  to: images/t164.png
+pages:
+- _id: c164
+  _path: 164.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c163
+  next: c165
+  datetime: 2012-06-18 17:00:00
+  src: images/c164.png
+  thumbnail: images/t164.png
+  width: 845
+  height: 660
+  name: Pierre
+  facebook: 1
+  description: Brown Rabbit studies for BarBri.
+  alt: No, there is no actual French exception in the UCC.
+  notes: |
+    <p><b><date></b>. Our legal code is exceptional -- created by the same people who make up rules like <a href="http://en.wikipedia.org/wiki/I_before_E_except_after_C">"I before E except after C unless it's weird"</a> no doubt. </p>
+  transcript: |
+    Question 12 ;
+        Horatio and Pierre are competing lettuce
+    vendors. Horatio is convinced that his lettuce is
+    superior and believes that if Pierre just tastes his
+    lettuce, Pierre will give up at life. Horatio offers
+    to give Pierre one free head of lettuce, valued at
+    $890, and Pierre accepts. Is there a contract? ;
+    (A) No, Pierre did not take on any legal
+        detriment as consideration. ;
+    (B) No, unless Pierre actually gives up at life. ;
+    (C) Yes, Pierre is giving up at life. Therefore,
+        there is consideration.
+    -----
+    Brown Rabbit: Oh, I know this.
+                  The answer is A! ;
+    -----
+    (A) is incorrect. Pierre is obviously French.
+    Under the UCC, consideration is not required
+    in contracts between merchants for goods over
+    $727 when one of the merchants is French. ;
+    
+    Explanations for the other choies are blurred out but they read as follows. ;
+    
+    (D) is correct. Under the UCC, Horatio made
+    an offer to Pierre, who is obviously French,
+    and Pierre accepted. Because the contract
+    was for goods (lettuce), between vendors
+    (lettuce vendors), and over $727, consid-
+    eration is not required. ;
+    
+    (B) is incorrect for the reasons stated in A.
+    Moreover, Pierre is obviously French, and the
+    French never give up, except against the British..
+    And the Prussians. And during the Russian
+    winter. And when trying to build a canal in
+    Panama. Also, Vichy French don't count. ;
+    
+    (C) is incorrect. Pierre did not actually give up
+    at anything. Except invading Russia during the
+    winter. And the Maginot line. ;
+    -----
+    Brown Rabbit: Stupid French. ;
+revision: 164

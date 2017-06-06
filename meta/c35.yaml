@@ -1,0 +1,51 @@
+globals:
+  last: c35
+includes:
+- from: c35.png
+  to: images/c35.png
+pages:
+- _id: c35
+  _path: 35.html
+  _template: page.html
+  prev: c34
+  next: c36
+  alt: "Instead of going outside, I spent today working on this comic."
+  datetime: 2010-05-24 05:00:00
+  width: 900
+  height: 1160
+  name: Frolic
+  notes: |
+    <p><b><date></b>. It's summer and finals are over, but I'm working on the California Law Review write-on. It's a grueling process in which students spend a week or so after finals writing and editing, all for the right to spend the next two years doing even more writing and editing. Go me.</p>
+    <p>Also, I altered the borders and formatting somewhat. The older comics may look a little off until I get around to updating the images.</p>
+    <p>Thanks to Rachel and Cara.</p>
+  src: images/c35.png
+  description: It's sunny outside!
+  transcript: |
+    Brown Rabbit is diligently working at his laptop. ;
+    Type type type. ;
+    -----
+    Tort Bunny pops up at the window. ;
+    Tort Bunny: It's sunny outside! ;
+                Come out and play! ;
+    -----
+    Fwip! ;
+    Brown Rabbit closes the window screen on Tort Bunny. ;
+    -----
+    Brown Rabbit continues to work. ;
+    Type type type. ;
+    -----
+    Meanwhile, Tort Bunny frolics. ;
+    Tort Bunny frolics right. ;
+    -----
+    Tort Bunny frolics left. ;
+    -----
+    Tort Bunny's ears get large. ;
+    Tort Bunny: Oh no! I've spent too much time in
+                the sun. Now I have ear cancer! ;
+    -----
+    Psych. The last panel was just in Brown Rabbit's sadistic grinning head. ;
+    -----
+    Brown Rabbit sighs. ;
+    -----
+    Brown Rabbit and Tort Bunny frolic outside. ;
+revision: 35

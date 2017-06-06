@@ -1,0 +1,46 @@
+﻿globals:
+  last: c63
+includes:
+- from: c63.png
+  to: images/c63.png
+pages:
+- _id: c63
+  _path: 63.html
+  _template: page.html
+  prev: c62
+  next: c64
+  datetime: 2010-11-15 05:00:00
+  src: images/c63.png
+  width: 900
+  height: 650
+  name: Behind the Curtain
+  description: What many of you dream of doing
+  alt: Burn baby burn!
+  notes: |
+    <p><b><date></b>. Replace the papers with briefs, memos, journal edits, data entry, problem sets, or whatever it is you're currently procrastinating on. Some rabbits see things as they are and say why. Negligent Lop dreams things that never were and says, "F*ck it, let's do it live!"</p>
+    <p>Tort Bunnies does not endorse smoking, lying, cheating, procrastination, (excessive) alcohol consumption, or pyromania.</p>
+    <p>Thanks to Danielle for the prompt.</p>
+  transcript: |
+    Negligent Lop stares at his computer. ;
+    On his desk next to him lies a stack of papers. ;
+    Negligent Lop's Laptop: Reminder to Teaching Assistants:
+                            Remember to give your students
+                            feedback about their papers! ;
+    Negligent Lop: Sigh. ;
+    -----
+    Negligent Lop pushes the papers off his desk into a waste bin / garbage can. ;
+    -----
+    Negligent Lop pulls out a green bottle of alcohol and a lit cigarette. ;
+    -----
+    Negligent Lop pours the alcohol on the papers. ;
+    -----
+    Negligent Lop takes a swig from the bottle and tosses the cigarette into the trash can. ;
+    -----
+    While the paper burns, Negligent Lop types away. ;
+    Negligent Lop: Dear student, this paper is a slight
+                   improvement over your last one. ;
+    Negligent Lop: But I can't help but feel
+                   you rushed this out at
+                   the very last second ... ;
+revision: 63
+

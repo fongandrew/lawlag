@@ -1,0 +1,48 @@
+globals:
+  last: c161
+includes:
+- from: c161.png
+  to: images/c161.png
+- from: t161.png
+  to: images/t161.png
+pages:
+- _id: c161
+  _path: 161.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c160
+  next: c162
+  datetime: 2012-05-28 08:00:00
+  src: images/c161.png
+  thumbnail: images/t161.png
+  width: 900
+  height: 660
+  name: Exemption 
+  facebook: 1
+  description: Tort Bunny steals Brown Rabbit's carrot.
+  alt: Tort Bunny should just insist the entire conversation was a settlement negotiation.
+  notes: |
+    <p><b><date></b>. Whoever wrote the bar exam apparently thinks it's important that we know the difference between hearsay exemptions (not hearsay) and exceptions (hearsay, but still admissible). That's like asking a vegetarian what dipping sauce they'd like with their chicken nuggets.</p>
+  transcript: |
+    Tort Bunny: Ha, I've stolen your carrot! ;
+    -----
+    Brown Rabbit: Ha, you've admitted fault! ;
+    -----
+    Tort Bunny: Ha, you're offering out-of-court
+                hearsay for the truth of the matter! ;
+    Brown Rabbit: Ha, it's not hearsay because the F.R.E.
+                  exempts party opponent admissions! ;
+    -----
+    Tort Bunny: Ha, there's no federal subject matter
+                jurisdiction and we're in a state where
+                admissions still count as hearsay. ;
+    Brown Rabbit: Ha, this state's evidence rules may
+                  not exempt admissions but it still
+                  provides an exception to the rule
+                  so your admission is admissible! ;
+    -----
+    Tort Bunny: Well, ha, I still have your carrot. ;
+    -----
+    Brown Rabbit: Can I get my carrot back please? ;
+    Tort Bunny: No. No, you may not. ;
+revision: 161

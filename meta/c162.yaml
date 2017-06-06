@@ -1,0 +1,62 @@
+globals:
+  last: c162
+includes:
+- from: c162.png
+  to: images/c162.png
+- from: t162.png
+  to: images/t162.png
+pages:
+- _id: c162
+  _path: 162.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c161
+  next: c163
+  datetime: 2012-06-04 05:00:00
+  src: images/c162.png
+  thumbnail: images/t162.png
+  width: 900
+  height: 660
+  name: Armadillo
+  facebook: 1
+  description: Brown Rabbit and Negligent Lop see an armadillo rap.
+  alt: With apologies to Jay-Z.
+  notes: |
+    <p><b><date></b>. Some context:</p>
+    <p>BarBri has been having <a href="https://www.facebook.com/barbri/posts/418498531515278">issues</a> with its AMP software.</p>
+    <p>BarBri lecturer <a href="http://en.wikipedia.org/wiki/David_G._Epstein">David G. Epstein</a> uses the phrase <a href="http://lawhog.blogspot.com/2008/07/1-day.html">&quot;Armadillos From Texas Play Rap, Eating Tacos&quot;</a> as a mnemoic for the major areas of contract law: Applicable law, Formation, Terms, Performance, Remedies, Excused performance, and Third party issues. His hypos almost always involve grits, his 1973 Cadillac, Sharon Stone, Kinky Friedman, or <a href="http://www.kentlaw.iit.edu/faculty/full-time-faculty/richard-j-conviser">Professor Richard J. Conviser</a>.</p>
+    <p>Under the Uniform Commercial Code, in a shipment contract, the risk of loss passes from seller to buyer when the seller (1) gets the goods to a common carrier, (2) makes reasonable arrangements for delivery, and (3) notifies the buyer. The phrase F.O.B., followed by the seller's location, indicates a shipment contract.</p>
+  transcript: |
+    Brown Rabbit: BarBri AMP is down again!
+                  This is outrageous! What
+                  are we paying them for? ;
+    -----
+    Negligent Lop: We did get an armadillo
+                   from Texas who performs
+                   rap and eats tacos. ;
+    -----
+    Armadillo: Alright, hit me. ;
+    Armadillo: Contract with Conviser,
+               sold a bag full of grits
+               He calls me to complain,
+               "Boy, what the hell is this?" ;
+    -----
+    Armadillo: Says on inspectin' the sack,
+               he saw rats takin' a piss.
+               But my grits weren't shit
+               when the carrier shipped it ;
+    Armadillo: So I say, "F.O.B. me,
+               it's a shipment contract.
+               I gave you grits in a sack,
+               you owe me a Cadillac." ;
+    -----
+    Armadillo: If you having contract problems,
+               I feel bad for you son.
+               I got 99 problems,
+               but a breach ain't one. ;
+    *munch*
+    *munch* ;
+    The armadillo eats the taco. ;
+    -----
+    Brown Rabbit: Well, that was different. ;
+revision: 162

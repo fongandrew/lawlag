@@ -1,0 +1,64 @@
+globals:
+  last: c91
+includes:
+- from: c91.png
+  to: images/c91.png
+- from: t91.png
+  to: images/t91.png
+pages:
+- _id: c91
+  _path: 91.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c90
+  next: c92
+  datetime: 2011-04-18 05:00:00
+  src: images/c91.png
+  thumbnail: images/t91.png
+  width: 900
+  height: 650
+  name: Misconceptions
+  facebook: 1
+  description: Some common misconceptions about the law (and bunnies)
+  alt: No, I'm not going to mention penumbras or religion.
+  notes: |
+    <p><b><date></b>. <a href="http://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution">The 16th Amendment makes very clear that income taxes are constitutional.</a></p>
+    <p>The <a href="http://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution">14th Amendment</a> does not cover private actors or individuals. It only prevents state actors from discriminating. <a href="http://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964">Non-discrimination laws covering employers and businesses</a> are actually passed under Congress's <a href="http://en.wikipedia.org/wiki/Commerce_Clause">Commerce Clause powers</a>, not its <a href="http://en.wikipedia.org/wiki/Congressional_power_of_enforcement">14th Amendment powers</a>.</p>
+    <p>In a <i>civil suit</i> for battery (i.e. the victim suing you for money, rather than the government trying to throw you in jail), the standard is <a href="http://en.wikipedia.org/wiki/Legal_burden_of_proof#Preponderance_of_the_evidence">"preponderance of the evidence"</a>, not <a href="http://en.wikipedia.org/wiki/Legal_burden_of_proof#Beyond_reasonable_doubt">"beyond a reasonable doubt"</a>.</p>
+    <p>You don't have a constitutional right to jury trials for "petty" offenses. <a href="http://scholar.google.com/scholar_case?case=18288918337645155847"><i>Baldwin v. New York</i></a>, 399 U.S. 66 (1970).</p>
+    <p>The <a href="http://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution">First Amendment</a> only prevents Congress (and via the 14th Amendment, the states) from limiting freedom of speech. Facebook can ban you for being an ass just fine.</p>
+    <p>On a different note, I'd like to share this image of <a href="http://zoopremecourt.org/post/3920966922/thurgood-marshvole-1967-1991">Thurgood Marshvole</a> from <a href="http://zoopremecourt.org/">Zoopreme Court</a>. Is this not amazing? I think it's amazing.</p>
+    <p style="text-align:center;"><a href="http://zoopremecourt.org/post/3920966922/thurgood-marshvole-1967-1991"><img height="500" width="500" src="http://<domain>/images/marshvole.gif" /></a></p>
+  transcript: |
+    Caption: The income tax is unconstitutional. ;
+    Brown Rabbit tries to collect from Tort Bunny. ;
+    -----
+    Caption: The 14th Amendment made it
+             illegal for people to discriminate. ;
+    Tort Bunny points to a sign saying "No douchebags allowed". ;
+    -----
+    Caption: When someone sues you for kicking
+             him in the balls, he has to prove
+             beyond a reasonable doubt that it
+             wasn't an accident. ;
+    BATTERY! ;
+    Tort Bunny kicks Brown Rabbit in the balls. ;
+    -----
+    Caption: You can demand a jury trial
+             when charged with speeding. ;
+    Tort Bunny runs Brown Rabbit down in a car. ;
+    -----
+    Caption: The First Amendment protects your
+             right to be an ass on the Internet. ;
+    On Facebook, Brown Rabbit says: In the hospital. 32 stitches! ;
+    Tort Bunny replies: Brown Rabbit eats babies
+                        and smells like poop. POOOPPPP!!!!!!!
+                        To see who else thinks you're a total
+                        douchebag (and win a free iPad), visit
+                        tortbunnies.com/dbag.html. ;
+    -----
+    Tort Bunny: And the Easter Bunny will bring you
+                chocolate if you eat your vegetables. ;
+    A Young Bunny That Looks Suspiciously Like Lucy: Really? ;
+    Tort Bunny: No, the Easter Bunny is a lie. ;
+revision: 91

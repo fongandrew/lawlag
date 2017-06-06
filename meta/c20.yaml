@@ -1,0 +1,41 @@
+globals:
+  last: c20
+includes:
+- from: c20.png
+  to: images/c20.png
+pages:
+- _id: c20
+  _path: 20.html
+  _template: page.html
+  prev: c19
+  next: c21
+  alt: Boom. Headshot.
+  datetime: 2010-02-08 05:00:00
+  width: 900
+  height: 700
+  name: Serve
+  notes: |
+    <p><b><date></b>. Assume that this is a very special tennis ball that meets the requirement for <a href="http://en.wikipedia.org/wiki/Service_of_process">service of process</a>. In ye olde days, in order for a state court to have jurisdiction over a person, they had to serve them with process within the territorial limits of the state. <i><a href="http://en.wikipedia.org/wiki/Pennoyer_v._Neff">Pennoyer v. Neff</a></i>, 95 U.S. 714 (1878).</p>
+    <p>Also, Brown Rabbit got <a href="http://en.wikipedia.org/wiki/You_Got_F'd_in_the_A">F'd in the A</a>. <a href="http://www.cartoonstock.com/newscartoons/cartoonists/mpc/lowres/mpcn20l.jpg">Instant replay</a>. <a href="http://www.nfl.com/videos/nfl-cant-miss-plays/09000d5d81646143/SB-XLIV-Can-t-Miss-Play-Saints-surprise">Congrats Saints</a>.</p>
+  src: images/c20.png
+  description: Tort Bunny serves Brown Rabbit.
+  transcript: |
+    Tort Bunny bounces a tennis ball on the ground. ;
+    She has an intent look on her face. ;
+    -----
+    Tort Bunny throws the ball up in the air. ;
+    -----
+    Tort Bunny serves the ball. ;
+    -----
+    Brown Rabbit is hit by the tennis ball. ;
+    -----
+    A still-video frame of Brown Rabbit being hit by a tennis ball ;
+    -----
+    Negligent Lop is dressed a referee
+    instant-reviewing a play. ;
+    Negligent Lop: Upon further review,
+                   Defendant got served
+                   within state lines.
+    Tort Bunny: It's on!
+
+revision: 20

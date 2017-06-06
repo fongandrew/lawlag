@@ -1,0 +1,50 @@
+globals:
+  last: c160
+includes:
+- from: c160.png
+  to: images/c160.png
+- from: t160.png
+  to: images/t160.png
+pages:
+- _id: c160
+  _path: 160.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c159
+  next: c161
+  datetime: 2012-05-21 05:00:00
+  src: images/c160.png
+  thumbnail: images/t160.png
+  width: 900
+  height: 660
+  name: Circumstance
+  facebook: 1
+  description: Negligent Lop foresees Brown Rabbit's future. 
+  alt: And then we become lawyers.
+  notes: |
+    <p><b><date></b>. So, I should probably comment a bit on the future of this comic strip now that I've graduated. I think I'll keep this going for a little while, at least until the bar. But at some point in the near future, Tort Bunnies will come to a conclusion. Or be on a hiatus. Or something. Tort Bunnies has always been informed by my day-to-day life, or the day-to-day lives of the people around me, so once I start working, client confidentiality and all that jazz will probably make that sort of commentary difficult.</p>
+    <p>That's not to say I'll be all memo and no drawing. The thought of being (only) a lawyer absolutely terrifies me. I fully intend to find the time to be creative. It just might not be Tort Bunnies anymore.</p>
+    <p>On a more positive note, I want to thank you, my readers. Since I've started this webcomic, I've never failed to post a new comic each Monday. And that's largely because of the feedback and kind words I get from all of you. So thank you.</p>
+    <p>I'm planning a cross-country road trip after the bar, August to September-ish. If you want me to come visit, let me know. No promises, but I'll see if I can swing by and say hi. Or if you're in the San Francisco Bay Area, let me know and we can work something out too.</p>
+    <p>-- Andrew</p>
+  transcript: |
+    Negligent Lop: Don't say it. ;
+    Brown Rabbit: Say what? ;
+    -----
+    Negligent Lop: You know what I mean. ;
+    Brown Rabbit: No, I actually don-- ;
+    Tort Bunny (off-panel): Free at last! ;
+    -----
+    Tort Bunny: Hey guys! I just finished that paper
+                I should have finished two weeks
+                ago. I'm finally done with law school! ;
+    Tort Bunny: No more papers!
+                No more classes!
+                No more exams! ;
+    -----
+    Brown Rabbit: Well, there's still the bar. ;
+    -----
+    Caption: BATTERY! ;
+    -----
+    Negligent Lop: Told you not to say it. ;
+revision: 160

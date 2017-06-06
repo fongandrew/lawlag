@@ -1,0 +1,45 @@
+globals:
+  last: c166
+includes:
+- from: c166.png
+  to: images/c166.png
+- from: t166.png
+  to: images/t166.png
+pages:
+- _id: c166
+  _path: 166.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c165
+  next: c167
+  datetime: 2012-06-25 05:00:00
+  src: images/c166.png
+  thumbnail: images/t166.png
+  width: 900
+  height: 340
+  name: Focus
+  facebook: 1
+  description: Professor Hobbes helps students prepare for the bar.
+  alt: Also, stop raising your hand. We don't do that in BarBri.
+  notes: |
+    <p><b><date></b>. Next month's bar exam forecast calls for a low of a 42% pass rate with a high of 61% and a 90% chance that students will be freaking out the entire time.</p>
+  transcript: |
+    Professor Hobbes gives a BarBri lecture on Carrot Law. ;
+    Professor Hobbes: Make sure you study
+                      specific performance
+                      of a carrot contract. ;
+    Professor Hobbes: 60% of the bar exams over
+                      the past 12 years have had
+                      an essay question on that. ;
+    -----
+    Professor Hobbes: And also study parol
+                      carrot exceptions. ;
+    Professor Hobbes: We haven't had a question
+                      on that in over 8 years, so
+                      we're long overdue for one. ;
+    -----
+    Brown Rabbit: What about topics that have occasionally
+                  appeared in the last few years but not so
+                  frequently as to be on every other exam? ;
+    Professor Hobbes (off-panel): Yeah, study those too. ;
+revision: 166

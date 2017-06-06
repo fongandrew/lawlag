@@ -1,0 +1,63 @@
+﻿globals:
+  last: c60
+includes:
+- from: c60.png
+  to: images/c60.png
+pages:
+- _id: c60
+  _path: 60.html
+  _template: page.html
+  prev: c59
+  next: c61
+  datetime: 2010-11-01 05:00:00
+  src: images/c60.png
+  width: 900
+  height: 650
+  name: Ultrahazardous
+  description: Brown Rabbit has a hangover.
+  alt: Yo momma jokes are ultrahazardous.
+  notes: |
+    <p><b><date></b>. <a href="http://<domain>/7.html">I've referenced this before</a>, but see <a href="http://www.discourse.net/archives/2003/10/why_lawyers_fear_minks.html"><i>Foster v. Preston Mill Co.</i></a>, 268 P.2d 645 (Wash. 1954) and <a href="http://www.debmark.com/rabbits/faq/eatyoung.htm">this</a>. Under tort law, you are strictly liable for the consequences of "ultrahazardous" activities. In contrast, when engaged in less-than-ultra-hazardous activities, you are only liable if you are negligent and breach a standard of care. Modern tort law uses the term "inherently dangerous" rather than "ultrahazardous," but I think ultrahazardous sounds funnier.</p>
+    <p style="text-align:center;">And one more thing.</p>
+    <a name="giants" id="giants"></a>
+    <p style="text-align:center;"><img style="margin-left:auto; margin-right:auto;" src="http://<domain>/images/giants.png" width="670" height="250" alt="Go Giants!" /></p>
+    
+  transcript: |
+    Brown Rabbit wakes up next to a Beer-pong / Beirut table with plastic beer cups.
+    Negligent Lop: I see you had a fun night. ;
+    Brown Rabbit: I'm holding you liable
+                  for this headache. ;
+    Negligent Lop: Come again? ;
+    Brown Rabbit: Strictly liable. ;
+    -----
+    Brown Rabbit (off-panel): Everclear and Tort Bunny
+                              have two things in common. ;
+    Brown Rabbit (off-panel): One, they are both 
+                              ultrahazardous.  Two,
+                              you brought them both
+                              to last night's party. ;
+    -----
+    Negligent Lop: Tort Bunny isn't
+                   ultrahazardous. ;
+    Brown Rabbit: She hit me in the face. Also,
+                  her name is Tort Bunny. ;
+    Brown Rabbit has a black eye. ;
+    -----
+    Negligent Lop: Well, my name is Negligent Lop. ;
+    Brown Rabbit: If you want to dig that hole,
+                  I will gladly hand you a shovel
+                  once my hangover is done
+                  hitting me on the head with it. ;
+    -----
+    Negligent Lop: You know what's inherently
+                   dangerous? Yo momma. ;
+    Brown Rabbit: That's actually true. My
+                  mother was startled by
+                  an explosion when I was
+                  born and instinctively
+                  tried to eat me. ;
+    -----
+    Negligent Lop: I ... I had no idea. ;
+    Brown Rabbit: No one ever does. ;
+revision: 60
+

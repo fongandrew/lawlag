@@ -1,0 +1,56 @@
+globals:
+  last: c131
+includes:
+- from: c131.png
+  to: images/c131.png
+- from: t131.png
+  to: images/t131.png
+pages:
+- _id: c131
+  _path: 131.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c130
+  next: c132
+  datetime: 2011-11-07 05:00:00
+  src: images/c131.png
+  thumbnail: images/t131.png
+  width: 900
+  height: 660
+  name: Law of the Horse
+  facebook: 1
+  description: Tort Bunny shows off her degree in rhetoric from the Thomas L. Friedman School of Writing.
+  alt: The world is flat guys! It's really really flat!
+  notes: |
+    <p><b><date></b>. There's enough inside baseball in this one to kill a horse, but I'll focus on this one tree in the forest: This comic is about the Internet.</p>
+    <p>During my 1L year, I had to write a brief for my Written and Oral Advocacy class that a "place of public accommodation" under the American Disabilities Act did not encompass websites. You can find my thoughts about <a href="http://andrewfong.com/blog/2010/03/24/tort-bunnies-is-now-accessible-to-the-blind/">the public policy implications of that here</a>.</p>
+    <p>One of the issues I dealt with in that brief surrounded the use and abuse of metaphors. Sometimes the Internet is a collection of places in cyberspace. Sometimes it's an information superhighway. Sometimes it's a web, sometimes it's a cloud, and, of course, sometimes it's a series of tubes. A judge's choice of metaphors has substantial implications for how she will apply the law. Judges like to say that they're merely applying the law, and that legislatures make the hard policy choices. In practice though, something as simple as thinking of the Internet as a series of tubes instead of as a place has substantial public policy implications.</p> 
+    <p>Some references: Frank Easterbrook, <a href="http://www.law.upenn.edu/fac/pwagner/law619/f2001/week15/easterbrook.pdf"><i>Cyberspace and the Law of the Horse</i></a>, 1996 U. Chi. Legal F. 207 (1996); Lawrence Lessig, <a href="http://www.lessig.org/content/articles/works/finalhls.pdf"><i>The Law of the Horse: What Cyberlaw Might Teach</i></a>, 113 Harv. L. Rev. 501 (1999).</p>
+    <p>Also, I'd like to call your attention to some pending legislation that threatens to <a href="http://news.cnet.com/8301-31921_3-20126590-281/rep-lofgren-copyright-bill-is-the-end-of-the-internet/">turn the Internet into sausage</a>. <a href="http://andrewfong.com/blog/2011/11/07/sopa/ ">You can read my thoughts about it here.</a> If you think the bills are a bad idea, <a href="https://wwws.whitehouse.gov/petitions#!/petition/stop-e-parasite-act/SWBYXX55">sign the White House petition</a> or write your Congressperson and Senator.</p>
+  transcript: |
+    Tort Bunny is moseying along. ;
+    In the background, we see a series of tubes from Super Mario Bros. ;
+    Tort Bunny: We don't want judges making policy
+                because policy is inherently political. ;
+    -----
+    Tort Bunny: Policy making presents a series of
+                Hobson's choices. The straight and
+                narrow puts folks between a rock
+                and a hard place, so we have to
+                sweeten the pot through half-assed
+                horse-trading. ;
+    -----
+    Tort Bunny: You can't declare that something is
+                just. You have to make the sausage.
+                The process is messy, but the end
+                product is acceptable to the masses.
+                And courts should respect that. ;
+    -----
+    Tort Bunny's on a horse.
+    -----
+    Horse Edwards: I confess I'm a little unnerved by
+                   how quickly you went from
+                   horse-trading to sausage-making. ;
+    -----
+    Tort Bunny: That's why horses don't make policy. ;
+revision: 131

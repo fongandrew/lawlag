@@ -1,0 +1,42 @@
+globals:
+  last: c170
+includes:
+- from: c170.png
+  to: images/c170.png
+- from: t170.png
+  to: images/t170.png
+pages:
+- _id: c170
+  _path: 170.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c169
+  next: c171
+  datetime: 2012-07-22 05:00:00
+  src: images/c170.png
+  thumbnail: images/t170.png
+  width: 845
+  height: 340
+  name: Barmageddon I
+  facebook: 1
+  description: Brown Rabbit asks for last-minute tips from Professor Hobbes.
+  alt: The judge doesn't have jurisdiction over the asteroid. Yet.
+  notes: |
+    <p><b><date></b>. Birthday party, cheesecake, jelly bean, boom! Tort Bunnies will update daily through bar exam week.</p>
+  transcript: |
+    Brown Rabbit: The bar exam is this week sir. Do
+                  you have any last-minute advice? ;
+    Professor Hobbes: I would say, "Don't worry,
+                      you'll pass." But frankly,
+                      Mr. Rabbit, you're an idiot. ;
+    Professor Hobbes: So I'll just say this: Pass or fail,
+                      it's not the end of the world. ;
+    -----
+    The front of the New Bunderstam Times newspaper with a picuture of an asteroid. ;
+    New Bunderstam Times: BIG ASS ASTEROID
+                          HEADED FOR EARTH.
+                          Yup, It's the End of the World. ;
+    Sidebar: President asks judge to
+             enjoin asteroid. Judge
+             laughs, asks for sandwich. ;
+revision: 170

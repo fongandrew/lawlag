@@ -1,0 +1,74 @@
+globals:
+  last: c129
+includes:
+- from: c129.png
+  to: images/c129.png
+- from: t129.png
+  to: images/t129.png
+pages:
+- _id: c129
+  _path: 129.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c128
+  next: c130
+  datetime: 2011-10-24 05:00:00
+  src: images/c129.png
+  thumbnail: images/t129.png
+  width: 900
+  height: 650
+  name: Premature
+  facebook: 1
+  description: Brown Rabbit has an embarassing moment.
+  alt: Spit-takes are hard to draw.
+  notes: |
+    <p><b><date></b>. This isn't <a href="http://<domain>/26.html">the first time I've done this</a>.</p>
+    <p>Anyhow, if you've taken Fed Courts, you can skip this, but for those who haven't, a quick summary of what's going on in today's comic:</p>
+    <p>A big part of a Federal Courts course is learning when federal courts decline to decide an issue. Some of this is straightforward enough. For example, if a drunken driver crashes into your house, courts will generally decline to hear a case brought by your neighbor on your behalf. We say that he lacks <a href="http://en.wikipedia.org/wiki/Standing_(law)">"standing"</a> to sue, because it was you that suffered the injury, not him, and so it should be you that sues instead.</p>
+    <p>Another reason is that the actual injury you're suing about hasn't happened yet. You can't sue someone who owes you money when the deadline to pay you back hasn't passed yet. Even if you're fairly sure that you're not getting your money back, courts will often decline to decide the issue because it isn't <a href="http://en.wikipedia.org/wiki/Ripeness">"ripe"</a> yet. You might say that courts don't want to engage in "premature ajudication".</p>
+    <p>Other reasons for decling to rule on the merits deal the U.S. having two sources of law -- the federal government and individual state governments. What makes the two-sources-of-law really confusing is that the U.S. also has both federal courts and state courts, and that federal courts can decide state law issues while state courts can decide federal law issues.</p>
+    <p>Because of the potential for conflicting judgments, federal courts will often <a href="http://en.wikipedia.org/wiki/Abstention_doctrine">"abstain"</a> from ruling on certain issues and leave these to state courts. To deal with the complex interaction between federal courts and state law, many states have enacted a <a href="http://en.wikipedia.org/wiki/Certified_question">certification</a> procedure, which permit federal courts to simply ask state courts what they think, rather than have everyone make their own independent rulings and hope for the best.</p>
+    <p>On an unrelated note, y'all should check out <a href="http://en.wikipedia.org/wiki/Bethel_School_District_v._Fraser"><i>Bethel School District v. Fraser</i></a>, 478 U.S. 675 (1986).</p>
+  transcript: |
+    Caption: Hey there federal judges! ;
+    Caption: Worried that your cases
+             won't compare favorably
+             with state court rulings? ;
+    Brown Rabbit's folder is dwarfed by Negligent Lop's stack of research. ;
+    -----
+    Caption: Unhappy with oral arguments? ;
+    Caption: Unable to reach the merits
+             of an issue because your
+             plaintiffs lack standing? ;
+    Brown Rabbit takes a sip of water. ;
+    -----
+    Caption: Are you abstaining from ruling beause
+             you're afraid of premature ajudication? ;
+    Brown Rabbit does a spit-take. ;
+    -----
+    Brown Rabbit: I'm sorry. That's never
+                  happened before. ;
+    Caption: Now there's a way to avoid
+             those awkward conversations
+             with your state court! ;
+    -----
+    Caption: Introducing Certification(TM)! ;
+    Brown Rabbit dances through a field. ;
+    Caption: Certification is the only Supreme
+             Court-endorsed way to enjoy
+             longer, more satisfying cases! ;
+    -----
+    Caption: Side effects may include delay, un-
+             favorable rulings, unclear law, and
+             loss of jurisdiction. Do not drink
+             alcohol and operate heavy machinery
+             while certifying. Certification is not
+             for every case. Talk to your state
+             courts about whether certification
+             is constitutional in your district
+             Consult all case law before certifying.
+             Do not certify a question if binding
+             authority already exists. If oral
+             arguments last more than four hours,
+             call your doctor immediately. ;
+revision: 129

@@ -1,0 +1,54 @@
+globals:
+  last: c27
+includes:
+- from: c27.png
+  to: images/c27.png
+pages:
+- _id: c27
+  _path: 27.html
+  _template: page.html
+  prev: c26
+  next: c28
+  alt: "Tort Bunny has never fired a gun before, but I suspect she would be awesome at it."
+  datetime: 2010-03-29 05:00:00
+  width: 900
+  height: 700
+  name: Punk
+  notes: |
+    <p><b><date></b>. See <a href="http://www.youtube.com/watch?v=FnMLGkj91Og">Dirty Harry</a>.</p>
+    <p>Homicide is occasionally <a href="http://en.wikipedia.org/wiki/Justifiable_homicide">justifiable</a>, but deadly force is generally not condoned in the <a href="http://en.wikipedia.org/wiki/Defence_of_property">defense of property</a> -- except maybe in <a href="http://www.statutes.legis.state.tx.us/Docs/PE/htm/PE.9.htm#9.42">Texas</a>. See <a href="http://en.wikipedia.org/wiki/Joe_Horn_shooting_controversy">the Joe Horn case</a>.</p>
+    <p>Note that had Brown Rabbit broken into Tort Bunny's home to steal her carrot, the <a href="http://en.wikipedia.org/wiki/Castle_Doctrine_in_the_United_States">Castle Doctrine</a> may have come into play. The Castle Doctrine states, that as a person's home is her castle, she is entitled to use deadly force to defend it. Castle Doctrines differ from state to state however, and not all states have a Castle Doctrine.</p>
+    <p>Appropriately enough, Colorado calls their Castle Doctrine the <a href="http://www.youtube.com/watch?v=o6-Snl4a1RI">"Make My Day"</a> law.</p>
+    <p>Two other things: First, Tort Bunnies is now <a href="http://andrewfong.wordpress.com/2010/03/24/tort-bunnies-is-now-accessible-to-the-blind/">accessible to the blind</a>. Second, YOU CAN NOW BUY TORT BUNNIES T-SHIRTS (and some other stuff too) at <a href="http://zazzle.com/tortbunnies">Zazzle</a>. I also have an alternate shop at <a href="http://www.mysoti.com/mysoti/designer/tortbunnies">MySoti</a> that I'm experimenting with. <a href="http://andrewfong.wordpress.com/2010/03/26/buy-tort-bunnies-schwag/">See here for a comparison of the two.</a></p>
+    <p>Tort Bunnies does cost me a small amount of money each month to pay for hosting and no small amount of time, so I'm selling the t-shirts at slightly above cost. Much thanks to anyone who buys one. Also, if you want to support Tort Bunnies but don't really need another t-shirt, please consider <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=paypal%40andrewfong%2ecom&amp;lc=US&amp;item_name=Tort%20Bunnies&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">donating</a>. Anything is appreciated!</p>
+  src: images/c27.png
+  description: Tort Bunny threatens to shoot Brown Rabbit. She threatens to shoot him hard.
+  transcript: |
+    A defenseless carrot sits alone in the night. It is illuminated by a cone of light coming from, well, it's not clear where the light's coming from, but that carrot is most definitely illuminated. ;
+    -----
+    Brown Rabbit reaches into the light to grab the carrot. ;
+    Tort Bunny: Ah ah. ;
+    A menacing click is heard. ;
+    -----
+    Tort Bunny points a black revolver with a pink handle. ;
+    Tort Bunny: I know you're thinking. "Would she be
+                justified or unjustified in stopping a
+                carrot thief with a bullet to the face?" ;
+    Tort Bunny: Well, to tell you the truth, with all these different
+                state laws, I'm not really sure myself. But being as
+                this is a gun with very big bullets, relative to your
+                tiny skull, and you are one wascally wabbit, you've
+                got to ask yourself one question: "Do I feel lucky?" ;
+    Tort Bunny: Well, do ya, punk? ;
+    -----
+    Brown Rabbit: Well, only Texas permits deadly
+                  force in the defense of one's
+                  carrot, and this is not Texas.;
+    Brown Rabbit: So yes, yes, I do feel lucky. ;
+    -----
+    Brown Rabbit makes off with the carrot. ;
+    Brown Rabbit: You are thwarted!
+                  BWA HA HA HA! ;
+    -----
+    Tort Bunny hurls her pistol through the air. It hits Brown Rabbit in the back of his head. ;
+revision: 27

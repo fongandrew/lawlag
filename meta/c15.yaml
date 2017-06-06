@@ -1,0 +1,47 @@
+globals:
+  last: c15
+includes:
+- from: c15.png
+  to: images/c15.png
+pages:
+- _id: c15
+  _path: 15.html
+  _template: page.html
+  alt: Some portion of Negligent Lop's dialogue is written while drunk.
+  datetime: 2010-01-04 05:00:00
+  height: 700
+  name: Honest Work
+  next: c16
+  description: Tort Bunny tries to get a job from Negligent Lop
+  notes: '<p><b><date></b>. Whoa, it''s a new year! Time for new beginnings, or in
+    our case, a rehashing of <a href="http://share.tortbunnies.com/1.html">Tort Bunnies
+    #1</a>.</p>
+
+    <p>Anyhow, is the Lop liable for Tort Bunny''s tort against Brown Rabbit? It depends
+    on whether the battery was in the course of her employment. See <a href="http://en.wikipedia.org/wiki/Respondeat_superior">the
+    doctrine of respondeat superior</a>. I''ll leave the question of what Tort Bunny''s
+    job was up to your imagination (or a future comic strip).</p>
+
+    <p>You also might be wondering how Tort Bunny has no assets, when we''ve already
+    established that she <a href="http://share.tortbunnies.com/4.html">drives</a>
+    <a href="http://share.tortbunnies.com/14.html">a red car-shaped box</a>. Two answers:
+    (1) She isn''t the actual owner; (2) Continuity is not my top priority.</p>
+
+    <p>Happy New Year all!</p>
+
+    '
+  prev: c14
+  src: images/c15.png
+  transcript: "Negligent Lop: Fortune pats my\n               furry little head!\n\
+    \               I've won the lottery! ;\n-----\nNegligent Lop: Tort Bunny, my\
+    \ friend, a\n               lop cannot refuse a request\n               on his\
+    \ lottery-winning day.\n               Ask and I shall give. ;\n-----\nTort Bunny:\
+    \ I wish only to reform my\n            tortious ways. Honest work\n         \
+    \   and steady pay should suffice! ;\nNegligent Lop: Agreed! I shall call upon\
+    \ you\n               to do a service for me. ;\n-----\nTort Bunny walks up behind\
+    \ Brown Rabbit. ;\nTort Bunny: Must resist ... must resist ... ;\nTort Bunny:\
+    \ Ah, balls. ;\n-----\nBattery! ;\nTort Bunny kicks Brown Rabbit in the balls.\
+    \ ;\n-----\nTort Bunny: I still have no assets but\n            my employer recently\n\
+    \            won the lottery. ;\n"
+  width: 900
+revision: 15

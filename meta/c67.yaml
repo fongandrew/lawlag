@@ -1,0 +1,48 @@
+﻿globals:
+  last: c67
+includes:
+- from: c67.png
+  to: images/c67.png
+pages:
+- _id: c67
+  _path: 67.html
+  _template: page.html
+  prev: c66
+  next: c68
+  datetime: 2010-12-13 05:00:00
+  src: images/c67.png
+  width: 900
+  height: 650
+  name: Jumper
+  description: Friends don't talk to friends about exams.
+  alt: No. Big. Deal.
+  notes: |
+    <p><b><date></b>. Fine, y'all get one comic about exams.</p>
+  transcript: |
+    Tort Bunny and Negligent Lop are chatting outside a classroom after exams. ;
+    Brown Rabbit is in the background. ;
+    Negligent Lop: Yeah, that question on comparative
+                   negligence in part two was nasty. ;
+    Brown Rabbit: Part two had a question on
+                  comparative negligence? ;
+    -----
+    Brown Rabbit runs off. ;
+    Brown Rabbit: Part two had a question on
+                  comparative negligence! ;
+    -----
+    Brown Rabbit runs down the road. ;
+    Brown Rabbit: Part two had a question on
+                  comparative negligence! ;
+    -----
+    Brown Rabbit has three bottles in front of him. ;
+    Brown Rabbit: Part two had a question on
+                  comparative negligence! ;
+    -----
+    Brown Rabbit jumps off a building. ;
+    Brown Rabbit: Part two had a question on
+                  comparative negligence! ;
+    -----
+    Negligent Lop: Wait, was he even in that class? ;
+    Tort Bunny: Nope. ;
+revision: 67
+

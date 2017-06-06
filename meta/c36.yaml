@@ -1,0 +1,46 @@
+globals:
+  last: c36
+includes:
+- from: c36.png
+  to: images/c36.png
+pages:
+- _id: c36
+  _path: 36.html
+  _template: page.html
+  prev: c35
+  next: c37
+  alt: "You know who my favorite Simpsons character is? Ralph Wiggum."
+  datetime: 2010-05-31 05:00:00
+  width: 900
+  height: 650
+  name: Review Session
+  notes: |
+    <p><b><date></b>. I think this one speaks for itself.</p>
+  src: images/c36.png
+  description: A reflection on what we've learned so far.
+  transcript: |
+    Caption: Now that the school year's over, it's
+             time to reflect on what we learned! ;
+    Tort Bunny looks down, a little bashfully perhaps. ;
+    Tort Bunny: Kicking someone between the
+                legs will probably get you sued. ;
+    Caption: An important lesson indeed! ;
+    -----
+    Brown Rabbit: The period in an id. citation
+                  should be italicized! ;
+    Caption: Most true Brown Rabbit! ;
+    -----
+    Negligent Lop stares blankly forward. ;
+    -----
+    Negligent Lop rises his paw and opens his mouth. ;
+    -----
+    Nope. False alarm. Nothing to say. ;
+    Caption: . . . ;
+    Negligent Lop looks down in thought. ;
+    -----
+    Caption: Perhaps you've learned that post-finals
+             binge drinking has an adverse effect
+             on your memory? ;
+    Negligent Lop: Outlines are tasty! ;
+    Caption: No, guess not. ;
+revision: 36

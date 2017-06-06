@@ -1,0 +1,63 @@
+﻿globals:
+  last: c68
+includes:
+- from: c68.png
+  to: images/c68.png
+pages:
+- _id: c68
+  _path: 68.html
+  _template: page.html
+  prev: c67
+  next: c69
+  datetime: 2010-12-20 05:00:00
+  src: images/c68.png
+  width: 900
+  height: 960
+  continuation: c67
+  name: The Ghost of Mimi Vuvu
+  description: A Law School Carol.
+  alt: Brown Rabbit is justifiably skeptical after Comic 13.
+  notes: |
+    <p><b><date></b>. Hey, so it turns out <a href="http://<domain>/67.html">last week's comic</a> was the beginning of an arc! Who knew? Silly question. I did of course. Anyhow, check back tomorrow for more!</p>
+    <p>Oh yes, one more thing: This strip is for charity. Mimi Vu's cameo is courtesy of her winning bid at this year's Berkeley Law Foundation auction.</p>
+  transcript: |
+    Brown Rabbit is falling through the night sky. ;
+    Brown Rabbit (thinking): Hmmm ... I appear to be falling. ;
+    A Mysterious Voice (off-panel): Hello. ;
+    -----
+    An erie female bunny appears. ;
+    Chained to her feet are two heavy balls with the letter "D" engraved upon them. ;
+    Brown Rabbit: Oh hello. ;
+    Ghost: I'm here to save you. ;
+    -----
+    Brown Rabbit: From falling? You don't
+                  seem particularly well-
+                  equipped to do that. ;
+    Ghost: If you refer to these
+           chains, these are the
+           ones I built in life. ;
+    -----
+    Ghost: I am the ghost of Mimi Vuvu,
+           and I have been condemned
+           by my gunnery to bear the
+           heavy burdens of debt and
+           drudgery for all eternity. ;
+    Ghost: I seek to save you from a similar fate. ;
+    -----
+    . . .
+    -----
+    Brown Rabbit: Bah! Humbug! ;
+    -----
+    Brown Rabbit: Although the ground is approaching
+                  quickly. I could use a hand right now. ;
+    Ghost of Mimi Vuvu: In that case, I call upon ... ;
+    -----
+    Ghost of Mimi Vuvu: ... THE GHOST OF
+                        LAW SCHOOL PAST! ;
+    -----
+    The Ghost of Law School Past and Brown Rabbit now appear as ethereal figures in a coffee shop. ;
+    The Ghost of Law School Past looks somewhat like Mimi Vuvu wearing a white sheet. ;
+    Brown Rabbit: You look familiar. ;
+    The Ghost of Law School Past: I need the hours. ;
+revision: 68
+

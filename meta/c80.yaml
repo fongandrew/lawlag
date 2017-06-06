@@ -1,0 +1,35 @@
+globals:
+  last: c80
+includes:
+- from: c80.png
+  to: images/c80.png
+- from: t80.png
+  to: images/t80.png
+pages:
+- _id: c80
+  _path: 80.html
+  _template: page.html
+  prev: c79
+  next: c81
+  datetime: 2011-02-01 05:00:00
+  src: images/c80.png
+  thumbnail: images/t80.png
+  width: 900
+  height: 340
+  name: Awkward
+  facebook: 1
+  description: Lucy makes a wisecrack.
+  alt: And I'm never mistaken.
+  notes: |
+    <p><b><date></b>. Follow-up from <a href="http://<domain>/79.html">yesterday's</a> -- yeah, I couldn't resist.</p>
+  transcript: |
+    Professor Hobbes: No Ms. Usagi, there is absolutely
+                      no money anywhere in the budget
+                      for your proposal. I'm sorry. ;
+    -----
+    Lucy Usagi: Well, couldn't we tap into
+                the faculty pension plan? ;
+    -----
+    Professor Hobbes: Unless I'm mistaken, you're
+                      on call in my class tomorrow. ;
+revision: 80

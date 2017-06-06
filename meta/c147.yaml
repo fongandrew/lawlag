@@ -1,0 +1,40 @@
+globals:
+  last: c147
+includes:
+- from: c147.png
+  to: images/c147.png
+- from: t147.png
+  to: images/t147.png
+pages:
+- _id: c147
+  _path: 147.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c146
+  next: c148
+  datetime: 2011-02-27 05:00:00
+  src: images/c147.png
+  thumbnail: images/t147.png
+  width: 900
+  height: 340
+  name: Deposition III
+  facebook: 1
+  description: Negligent Lop deposes Doc Brown.
+  alt: Hey lawyer, can you explain this contract in plain English? No.
+  notes: |
+    <p><b><date></b>. <a href="http://www.youtube.com/watch?v=I5cYgRnfFDA">1.21 Gigawatts?!</a></p>
+  transcript: |
+    Negligent Lop: Dr. Brown, in paragraph seventeen
+                   of this patent, you mention a "flux
+                   capacitor". What does that do? ;
+    -----
+    Dr. Brown (off-panel): A flux capacitor disperses temporal flux
+                           around a stainless steel enclosure ... ;
+    Dr. Brown (off-panel): ... by capturing the tachyon particles
+                           emitted from channeling 1.21 giga-
+                           watts of electricity through a set of
+                           Geissler tubes in a Y combinator. ;
+    -----
+    Negligent Lop: Can you say that in plain English? ;
+    Dr. Brown (off-panel): No. ;
+revision: 147

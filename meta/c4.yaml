@@ -1,0 +1,55 @@
+globals:
+  last: c4
+includes:
+- from: c4.png
+  to: images/c4.png
+pages:
+- _id: c4
+  _path: 4.html
+  _template: page.html
+  alt: In which we establish that Tort Bunny drives a red car-shaped box and Brown
+    Rabbit does not have an iPhone
+  description: Brown Rabbit wants out of a phone he owns with Tort Bunny.
+  datetime: 2009-10-26 05:00:00
+  height: 748
+  name: Oust!
+  next: c5
+  disqus_url: http://static.lawlag.com/4.html
+  notes: '<p><b><date></b>. See <i><a href="http://<domain>/cases/martin_v_martin.html">Martin
+    v. Martin</a></i>, 878 S.W.2d 30 (Ky. Ct. App. 1994) for a description of how
+    <a href="http://en.wikipedia.org/wiki/Concurrent_estate">ouster</a> works.</p>
+
+    <p>I originally wanted to have Tort Bunny and Brown Rabbit engaged in a joust
+    for word-play reasons but got hung up on the facial expressions of the rabbits''
+    steeds. I then considered having them ride bicycles, but my rabbits do not have
+    long enough legs to reach the pedals (although <a href="http://www.originalbigwheel.com/">Big
+    Wheels</a> might have worked). I then tried making a sketch of Tort Bunny jousting
+    on an office chair.</p>
+
+    <p style="text-align: center"><img src="http://<domain>/images/joustbunny.png"
+    height="316" width="355" alt="Joust bunny!" title="Shut up and joust" /></p>
+
+    <p>It occurred to me, however, that not everyone would recognize the time-honored
+    tradition of <a href="http://www.youtube.com/watch?v=Xll48Ir1btE">office</a> <a
+    href="http://www.youtube.com/watch?v=G4EMeyOmQGY">chair</a> <a href="http://www.stupidvideos.com/video/stunts/Office_Chair_Jousting/#41429">jousting</a>
+    (or the closely related sport of <a href="http://www.youtube.com/watch?v=L0G_tYd5sDU">mattress
+    jousting</a>), so I went with a car plowing into a phone booth. <i>See</i> <i><a
+    href="http://<domain>/cases/bigbee_v_pacific_telephone.html">Bigbee v. Pacific
+    Telephone and Telegraph Co.</a></i>, 93 Cal. App. 3d 451 (1979).</p>
+
+    '
+  prev: c3
+  src: images/c4.png
+  transcript: "Brown Rabbit: Tort Bunny and I are tenants\n              in common\
+    \ a phone booth\n              we own together. ;\n-----\nBrown Rabbit: But now\
+    \ that I have a mobile phone, I no\n              longer have need of this property.\
+    \ How can\n              I make Tort Bunny pay me rent for the\n             \
+    \ share of the phone booth I no longer use? ;\n-----\nNegligent Lop: Tort Bunny\
+    \ has to oust you from\n               the phone booth before you can\n      \
+    \         charge rent. ;\nBrown Rabbit: And how would that work? ;\nNegligent\
+    \ Lop: Lemme talk to Tort\n               Bunny about that.;\n-----\nBrown Rabbit\
+    \ is trapped inside a red telephone booth with his mobile phone. ;\nTort Bunny\
+    \ is driving a red car-shaped box towards him very quickly. ;\nBrown Rabbit has\
+    \ an exclamation point over his head. ;\n"
+  width: 900
+revision: 4

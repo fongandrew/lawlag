@@ -1,0 +1,48 @@
+globals:
+  last: c134
+includes:
+- from: c134.png
+  to: images/c134.png
+- from: t134.png
+  to: images/t134.png
+pages:
+- _id: c134
+  _path: 134.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c133
+  next: c135
+  datetime: 2011-11-28 05:00:00
+  src: images/c134.png
+  thumbnail: images/t134.png
+  width: 900
+  height: 875
+  name: Studying
+  facebook: 1
+  description: Brown Rabbit asks too many questions.
+  alt: "Law and Order: Injunctive Relief didn't really catch on."
+  notes: |
+    <p><b><date></b>. Yup, it's that time of year again. Thanks Jessica!</p>
+  transcript: |
+    Title card for Law & Order - Carrot Theft. ;
+    TV: Dum dum! ;
+    -----
+    Brown Rabbit: What're you doing? ;
+    Negligent Lop: Studying criminal law. ;
+    -----
+    Brown Rabbit meets Lucy at an Occupy protest. ;
+    Brown Rabbit: What're you doing? ;
+    Lucy Usagi: Studying constitutional law! ;
+    There's a "Don't Spray Me, Bro!" sign in the background. ;
+    -----
+    Brown Rabbit and Tort Bunny are in a Walmart. There are $2 Waffle Irons on sale. ;
+    Brown Rabbit: What're you doing? ;
+    Tort Bunny: Studying contract law! ;
+    -----
+    Store Clerk (off-panel): Here's your bat Ms. Bunny. ;
+    Tort Bunny: Thank you! ;
+    -----
+    Tort Bunny: Now I'm studying torts. ;
+    -----
+    Tort Bunny chases Brown Rabbit with a bat. ;
+revision: 134

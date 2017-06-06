@@ -1,0 +1,6 @@
+revision: 1
+pages:
+- _id: search
+  _path: search.html
+  _template: search.html
+  name: Search

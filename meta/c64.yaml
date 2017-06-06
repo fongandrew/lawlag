@@ -1,0 +1,54 @@
+﻿globals:
+  last: c64
+includes:
+- from: c64.png
+  to: images/c64.png
+pages:
+- _id: c64
+  _path: 64.html
+  _template: page.html
+  prev: c63
+  next: c65
+  datetime: 2010-11-22 05:00:00
+  src: images/c64.png
+  width: 900
+  height: 650
+  name: Favorite Things
+  description: Lucy sings a song.
+  alt: Brown Rabbit finished his outlines six weeks ago.
+  notes: |
+    <p><b><date></b>. It's that time of year again.</p>
+    <p>Quick rant: As 1Ls are well aware, <a href="http://www.nalp.org/fulltextofnalpprinciplesandstandards">NALP forbid employers from interviewing or offering jobs to 1Ls before December 1st.</a> The flipside to that is there's this mad rush on December 1st to send everything out, especially for judicial externships. Unfortunately, this also tends to coincide with the beginning of exams and the due dates for papers, memos, and other important school stuff. I really don't see why they can't push the December 1st date to February 1st. That would permit 1Ls to focus on their exams without the spectre of job hunting hanging over their heads. They'd have all of winter break to prepare their applications, and they'd probably have grades by then too. I mean, is there a reason why judges feel a need to fill their extern positions by the end of the year?</p>
+    <p>Inspired by Peggy</p>
+  transcript: |
+    Lucy Usagi starts singing in front of Brown Rabbit.
+    Lucy Usagi: Hot apple cider and
+                warm pumpkin butter ;
+    Lucy Usagi: Winter's first snowfall
+                and doves all a-flutter ;
+    -----
+    Negligent Lop: Football and nachos and
+                   kegs filled with beer ;
+    Negligent Lop: Some favorite things
+                   I wanted to share! ;
+    -----
+    Tort Bunny: Black Friday, black eyes,
+                and my fluffy pink bow ;
+    Tort Bunny: A kick 'tween your legs
+                and a punch to the nose ;
+    -----
+    Lucy Usagi: Holiday cheer with
+                unrestrained singing ;
+    Lucy Usagi: These are a few of
+                my favorite things. ;
+    -----
+    Lucy Usagi: When I need sleep,
+                When I'm stressing,
+                When I'm feeling sad ... ;
+    Lucy Usagi: I simply remember my favorite things
+                And then I don't feel so badddddd!!!!! ;
+    -----
+    Brown Rabbit: Shouldn't you be outlining? ;
+    Brown Rabbit: Or job hunting or something? ;
+revision: 64
+

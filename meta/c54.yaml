@@ -1,0 +1,52 @@
+﻿globals:
+  last: c54
+includes:
+- from: c54.png
+  to: images/c54.png
+pages:
+- _id: c54
+  _path: 54.html
+  _template: page.html
+  prev: c53
+  next: c55
+  datetime: 2010-10-04 05:00:00
+  src: images/c54.png
+  width: 900
+  height: 650
+  name: Perchance
+  description: Lucy is sleepy.
+  alt: "The wisdom of listening to disembodied voices in Comic Sans is debatable."
+  notes: |
+    <p><b><date></b>. Dear 1Ls, you don't have to <a href="http://en.wikipedia.org/wiki/Brief_(law)#Professional_vs._student_briefs">brief cases</a> if you don't want to. Highlighting your book, asking a friend for help, using a Westlaw brief, Googling the case, or just taking the day off are all perfectly acceptable ways to prepare for class.</p>
+    <p>The haiku in the first panel comes from <a href="http://www.law.berkeley.edu/php-programs/faculty/facultyProfile.php?facID=7062">Professor Neil Levy</a>'s description of <a href="http://en.wikipedia.org/wiki/Palsgraf_v._Long_Island_Railroad_Co.">Palsgraf v. Long Island R.R. Co.</a>, 248 N.Y. 339 (1928):</p>
+    <p>A man, a package<br />
+    Push, bang, the scales are falling<br />
+    Poor Helen Palsgraf</p>
+    <p>Also, in case you couldn't tell, this is a homage to <a href="http://www.youtube.com/watch?v=2LTsvOHq3xc">Star Wars</a>.</p>
+  transcript: |
+    Lucy Usagi is briefing Palsgraf v. Long Island R.R. Co. ;
+    It's late at night. The windows are dark. ;
+    Her laptop screen has a haiku on it. ;
+    A man, a package ;
+    Push, bang, the scales are falling ;
+    Poor Helen Palsgraf ;
+    -----
+    Lucy's eyes are bloodshot. ;
+    Disembodied Voice: Use the force Lucy. ;
+    -----
+    Lucy looks up. ;
+    Disembodied Voice: Let go. ;
+    Disembodied Voice: Lucy, trust me ;
+    -----
+    Lucy turns off her laptop. ;
+    Brown Rabbit: Her computer's off! ;
+    -----
+    Brown Rabbit: Lucy, you've switched off your
+                  computer. What's wrong? ;
+    Lucy Usagi: Nothing, I'm alright. ;
+    -----
+    Lucy falls backward. ;
+    Thwump! ;
+    Lucy Usagi: ZZZZZZZZ ;
+revision: 54
+

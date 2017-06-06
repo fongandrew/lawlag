@@ -1,0 +1,53 @@
+globals:
+  last: c84
+includes:
+- from: c84.png
+  to: images/c84.png
+- from: t84.png
+  to: images/t84.png
+pages:
+- _id: c84
+  _path: 84.html
+  _template: page.html
+  _post_to_facebook: Interstate commerce!
+  prev: c83
+  next: c85
+  datetime: 2011-02-28 05:00:00
+  src: images/c84.png
+  thumbnail: images/t84.png
+  width: 900
+  height: 650
+  name: Fart Jokes
+  facebook: 1
+  description: Negligent Lop lets one loose.
+  alt: Say what? Chickenbutt.
+  notes: |
+    <p><b><date></b>. The U.S. Constitution creates a federal government of limited enumerated powers. One of those powers is the <a href="http://en.wikipedia.org/wiki/Commerce_Clause">regulation of interstate commerce</a>. The scope of the power has changed over time. In <a href="http://en.wikipedia.org/wiki/Schechter_Poultry_Corp._v._United_States"><i>Schechter Poultry Corp v. United States</i></a>, the Court held that the federal government could not outlaw the sale of sick chickens if those chickens were not sold across state lines. However, seven years later, in <a href="http://en.wikipedia.org/wiki/Wickard_v._Filburn"><i>Wickard v. Filburn</i></a>, the Court held that a farmer's growing of wheat to feed his cattle affected interstate commerce, because by growing wheat, he no longer had to purchase wheat from the larger interstate market. See also <a href="http://en.wikipedia.org/wiki/United_States_v._Lopez"><i>United States v. Lopez</i></a>, <a href="http://en.wikipedia.org/wiki/United_States_v._Morrison"><i>United States v. Morrison</i></a>, and <a href="http://en.wikipedia.org/wiki/Gonzales_v._Raich"><i>Gonzales v. Raich</i></a>.</p>
+    <p><a href="http://games.adultswim.com/robot-unicorn-attack-twitchy-online-game.html">And live in harmony harmony oh love ....</a></p>
+  transcript: |
+    Professor Fluffybottom: Mr. Lop, can you reconcile Wickard v.
+                            Filburn's understanding of interstate
+                            commerce with the Schechter case? ;
+    Negligent Lop is playing Robot Unicorn Attack on his laptop. ;
+    Negligent Lop: Uh ... ;
+    -----
+    Negligent Lop: Yes ... if I could just check
+                   my notes, uh ... so Wickard
+                   is really about wheat ... ;
+    Negligent Lop: ... fed to cows. Wheat fed to cows. ;
+    -----
+    Negligent Lop: And cows fart! Big interstate farts. ;
+    -----
+    Negligent Lop: Schechter Poultry, on the other
+                   hand, was about chickens. ;
+    -----
+    Negligent Lop: What is chicken? ;
+    Negligent Lop: A bird with farts that have
+                   only a de minimis impact on
+                   interstate commerce. ;
+    -----
+    Professor Fluffybottom (off-panel): Um ... just so you know, it's
+                                        okay to pass when you
+                                        haven't done the reading. ;
+    Negligent Lop: But I did do the reading! ;
+revision: 84

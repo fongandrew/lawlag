@@ -1,0 +1,61 @@
+globals:
+  last: c154
+includes:
+- from: c154.png
+  to: images/c154.png
+- from: t154.png
+  to: images/t154.png
+pages:
+- _id: c154
+  _path: 154.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c153
+  next: c155
+  datetime: 2012-04-16 05:00:00
+  src: images/c154.png
+  thumbnail: images/t154.png
+  width: 900
+  height: 660
+  name: Secret to Success
+  facebook: 1
+  description: Negligent Lop offers Lucy some test tips.
+  alt: Spontaneous bullsh-t also works.
+  notes: |
+    <p><b><date></b>.</p>
+    <p style="text-align:center">
+      Let's get down to business<br />
+      To defeat this test.<br />
+      Did they send me slackers<br />
+      Instead of the best?<br />
+      You're the saddest bunch<br />
+      I ever met<br />
+      But you can bet<br />
+      Before we're through<br />
+      Kids, I'll make law students<br />
+      <a href="http://www.youtube.com/watch?v=ZSS5dEeMX64">out of you.</a>
+    </p>
+  transcript: |
+    Negligent Lop: Want to grab a drink? ;
+    Lucy Usagi: I can't! I have so
+                much studying to
+                do before exams! ;
+    Negligent Lop: No you don't. The key to
+                   doing well on an exam is
+                   actually pretty simple. ;
+    -----
+    Negligent Lop: You must be swift as
+                   the coursing river ... ;
+    -----
+    Negligent Lop: With all the force
+                   of a great typhoon ;
+    -----
+    Negligent Lop: With all the strength of a raging fire ;
+    -----
+    Negligent Lop: Mysterious as the dark side of
+                   the MOOOOOOONNNNNN!!!!! ;
+    -----
+    Lucy Usagi: I don't get it. ;
+    Negligent Lop: Exactly, you're boned.
+                   Want to grab a drink? ;
+revision: 154

@@ -1,0 +1,52 @@
+﻿globals:
+  last: c74
+includes:
+- from: c74.png
+  to: images/c74.png
+- from: t74.png
+  to: images/t74.png
+pages:
+- _id: c74
+  _path: 74.html
+  _template: page.html
+  prev: c73
+  next: c75
+  datetime: 2010-12-27 05:00:00
+  src: images/c74.png
+  thumbnail: images/t74.png
+  width: 900
+  height: 650
+  name: Withdrawal
+  description: Brown Rabbit and Tort Bunny get used to the holidays.
+  alt: Let it snow. Let it snow. Let it snow ...
+  notes: |
+    <p><b><date></b>. For those who missed our week-long Christmas story arc, <a href="http://<domain>/67.html">see here</a>. Anyhow, this'll be the last post of the year for me. I did my usual copy-paste job in some of the panels but had fun playing around with the snow and fire in this one.</p>
+    <p>Happy New Year all! See my <a href="http://<domain>/14.html">PSA</a> from last year.</p>
+  transcript: |
+    Ye Olde Casebook with four highlighters next to it. ;
+    -----
+    Laptop screen showing a brief in Microsoft Word. ;
+    It reads, "Carrot misuse occurs when a carrot monopolist leverages her
+    monopoly to restrict activities that are "clearly and ridiculously"
+    beyond the scope of a carrot. See 890 U.S. at 100. 
+    The doctrine originated in the Court's nineteenth century rulings on
+    the adverse possession of Farmer John Gnilleps's carrot field in Rabbiton.
+    See, e.g., Gnilleps v. Sim, 123 U.S. 8023 (1811). In those cases, the Court
+    refused to enforce the negligent farmer's carrot rights for the purpose of
+    obtaining title to a cabbage field. Id. at 8024. ;
+    The see and see e.g. cite have that annoying green squiggly line underneath indicating a grammar mistake, as does the "at" in "Id. at 8024."
+    Gnilleps and Sim are marked as mis-spelled with a red squiggly line underneath. ;
+    -----
+    A Coffee, esq. brand coffee-maker. ;
+    -----
+    A CivPro outline burning. ;
+    In the back, we can make out a page on pleadings, which mentions "You suck" and "No, you suck." ;
+    -----
+    Bottles and shot glasses. ;
+    -----
+    Brown Rabbit and Tort Bunny trekking through the fluffy powdery snow. ;
+    Tort Bunny has a pink scarf on. ;
+    Brown Rabbit: You know, I kinda miss law-- ;
+    Tort Bunny: No you don't. ;
+revision: 74
+

@@ -1,0 +1,41 @@
+globals:
+  last: c118
+includes:
+- from: c118.png
+  to: images/c118.png
+- from: t118.png
+  to: images/t118.png
+pages:
+- _id: c118
+  _path: 118.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c117
+  next: c119
+  datetime: 2011-08-24 05:00:00
+  src: images/c118.png
+  thumbnail: images/t118.png
+  width: 900
+  height: 340
+  name: 3L II
+  facebook: 1
+  description: Brown Rabbit adds too much perspective.
+  alt: Anthole. Obviously.
+  continuation: c117
+  notes: |
+    <p><b><date></b>. <a href="http://abovethelaw.com/2011/03/howrey-llp-rip/">Howrey.</a> <a href="http://abovethelaw.com/2008/11/anatomy-of-a-dissolution-heller-ehrmans-aig-moment/">Heller.</a> <a href="http://www.slate.com/id/2077953/">Brobeck.</a></p>
+  transcript: |
+    Negligent Lop: Okay, so assuming I
+                   pass my classes, it's
+                   all downhill from here. ;
+    Brown Rabbit: Well, your firm could
+                  suddenly collapse and
+                  you lose your offer. ;
+    -----
+    Blank stares.
+    -----
+    Negligent Lop: Has anyone ever told
+                   you you're an a**hole? ;
+    Brown Rabbit: Not exact-- ;
+    Negligent Lop: You're an a**hole. ;
+revision: 118

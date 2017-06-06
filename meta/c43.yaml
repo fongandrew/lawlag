@@ -1,0 +1,63 @@
+globals:
+  last: c43
+includes:
+- from: c43.png
+  to: images/c43.png
+pages:
+- _id: c43
+  _path: 43.html
+  _template: page.html
+  prev: c42
+  next: c44
+  datetime: 2010-07-19 05:00:00
+  src: images/c43.png
+  width: 900
+  height: 650
+  name: Pre-existing Condition
+  description: Brown Rabbit gets a phone call from his insurance company.
+  alt: "Brown Rabbit's call dropped because he was holding his phone the wrong way."
+  notes: |
+    <p><b><date></b>. If you've ever done anything remotely helpful for Barack Obama or the Democrats, you've probably been barraged with mail, both of the electronic and the "snail" sort, explaining <a href="http://my.barackobama.com/page/content/patientsbillofrights/">what health care reform means for you</a>. I already wrote an earlier strip that <a href="28.html">touched on whether the "mandate" was constitutional</a>. The pre-existing condition reforms aren't that closely tied to law school or legal whatnot, but I felt Brown Rabbit was long overdue for some physical injury.  So here you go.</p>
+  transcript: |
+    Brown Rabbit is standing on the sidewalk next to a tree. ;
+    He is about to cross the road. Why does the rabbit want to cross the road? We may never know. ;
+    Brown Rabbit's Phone: Quack Quack Quack ;
+    -----
+    Brown Rabbit picks up his phone. ;
+    Brown Rabit: This is Brown Rabbit. ;
+    Faceless Bureaucrat (on phone): Hi Mr. Rabbit. This is your
+                                    health insurance company.
+                                    We're calling to tell you that
+                                    we've terminated your policy. ;
+    Brown Rabbit: What, why? ;
+    Faceless Bureaucrat (on phone): Failure to disclose a
+                                    pre-existing condition. ;
+    -----
+    Brown Rabbit: I thought you can't discriminate based
+                  on pre-existing conditions anymore. ;
+    Faceless Bureaucrat (on phone): Normally we can't. ;
+    Faceless Bureaucrat (on phone): But there's an exception
+                                    for you schmucks with
+                                    exceptionally bad luck. ;
+    Brown Rabbit: Come again? ;
+    -----
+    Faceless Bureaucrat (on phone): You have a life-threatening
+                                    injury nearly every week. ;
+    Faceless Bureaucrat (on phone): Seriously, do
+                                    you stand in
+                                    the middle of
+                                    the freeway
+                                    for a living or
+                                    something? ;
+    Brown Rabbit: Nonsense! I'll have
+                  you know that I'm
+                  standing in the middle
+                  of a boulevard, not a-- ;
+    -----
+    Brown Rabbit is caught like a deer in headlights. Literally. Except he's a rabbit, not a dear. ;
+    -----
+    Caption: A few hours earlier ... ;
+    Faceless Bureaucrat (off-screen): Congratulations! You've been
+                                      approved for auto insurance! ;
+    Tort Bunny: Oustanding! ;
+revision: 43

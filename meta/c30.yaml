@@ -1,0 +1,33 @@
+globals:
+  last: c30
+includes:
+- from: c30.png
+  to: images/c30.png
+pages:
+- _id: c30
+  _path: 30.html
+  _template: page.html
+  prev: c29
+  next: c31
+  alt: "The bunnies in the background don't react because this is pretty much par for the course at the Lagomorphic School of Law"
+  datetime: 2010-04-19 05:00:00
+  width: 900
+  height: 400
+  name: Preemption
+  notes: |
+    <p><b><date></b>. Yeah ... rape jokes ... generally not a good idea -- but it was a busy weekend, so here go you.</p>
+  src: images/c30.png
+  description: Brown Rabbit attempts to make a rape joke.
+  transcript: |
+    Professor (off-screen): And that's how the standard for
+                            rape has evolved over the past
+                            century. Any questions? ;
+    Brown Rabbit grins and waves his paw enthusiastically. ;
+    -----
+    Tort Bunny whacks Brown Rabbit. ;
+    -----
+    Brown Rabbit (weakly): What was that for? ;
+    Tort Bunny: I'm sorry. You didn't say no
+                to being hit in the face, so I
+                thought you wanted it. ;
+revision: 30

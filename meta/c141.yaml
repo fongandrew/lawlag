@@ -1,0 +1,64 @@
+globals:
+  last: c141
+includes:
+- from: c141.png
+  to: images/c141.png
+- from: t141.png
+  to: images/t141.png
+pages:
+- _id: c141
+  _path: 141.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c140
+  next: c142
+  datetime: 2012-01-16 05:00:00
+  src: images/c141.png
+  thumbnail: images/t141.png
+  width: 845
+  height: 660
+  name: Fee Speech
+  facebook: 1
+  description: Lucy protests Citizens United.
+  alt: It only took me about two years to make a Citizens United comic.
+  notes: |
+    <p><b><date></b>. This Saturday, January 21, will mark the second anniversary of the infamous <i><a href="http://scholar.google.com/scholar_case?case=6233137937069871624">Citizens United</a></i> decision. For those of you who have been living under a rock, <i>Citizens United</i> struck down campaign finance laws and held that the government could not regulate independent expenditures on political speech by corporations and unions. Backlash has been fierce. There are protests planned for the anniversary, and I expect to hear the usual refrains: Corporations aren't people. Money isn't speech. And so forth.</p>
+    <p>I think there are some problems with <i>Citizens United</i> and excessive corporate expenditures during elections. But I want to push back against the idea that corporations don't deserve free speech rights at all.</p>
+    <p>Today, some of the most important speech in America comes from corporations. We certainly wouldn't want to give the government the power to ban the New York Times, but the <a href="http://finance.yahoo.com/q?s=NYT">New York Times Company is a corporation</a>. We wouldn't want to give the government the power to ban Michael Moore movies. But Michael Moore, certainly no fan of corporate power, <a href="http://en.wikipedia.org/wiki/Dog_Eat_Dog_Films">produces his movies</a> through a <a href="http://www.gobignetwork.com/business-profiles/1347757/dog-eat-dog-films-inc">corporation</a>. We wouldn't want to give government the power to <a href="http://en.wikipedia.org/wiki/Comstock_laws">ban advertisements for contraceptives.</a> But contraceptives are <a href="http://www.churchdwight.com/">made by corporations.</a></p>
+    <p>There are various amendments floating around now that would overturn <i>Citizens United</i>. Fair enough. But I'd caution against any attempt to roll back corporate speech rights in general. For better or worse, corporations are a huge part of the free speech landscape in America. Pushing them out entirely would have unintended consequences.</p>
+  transcript: |
+    Lucy Usagi is at a protest, carrying a "Corporation$ are not bunnies" sign. ;
+    Signage: This contract is
+             adhesive? Ewww. ;
+    Signage: It's not a tax. It's
+             a convenience fee. ;
+    Lucy Usagi: No First Amendment
+                rights for corporations! ;
+    -----
+    Signage: I, for one, welcome
+             welcome our corporate overlords. ;
+    Brown Rabbit: But the New York Times is a
+                  corporation. Surely it deserves
+                  First Amendment protection. ;
+    -----
+    Cut to an image of the New York Times paywall. ;
+    Paywall: Thank you for visiting NYTimes.com. ;
+    Paywall: We hope you've enjoyed your 20 free articles this month. ;
+    Paywall: As you may already know, we are now charging for unlimited access
+             to our content. We realize you could go elsewhere for your daily
+             news fix, but c'mon, we're the motherf***king New York Times.
+             Seriously, what are you going to do? Read the Post? Please.
+             
+             PLEASE INSERT $420 TO CONTINUE. ;
+             
+             PAY US MONEY. PAY US NOW. ;
+    There's also an inexplicable image of an iPad on the Paywall. ;
+    The artcile behind the paywall reads "Tortious Bunny Commits Battery. Again." ;
+    There are also two random links -- "Local Area Man Does Something" and "Blame Canada". Plus some Google ads. ;
+    -----
+    Lucy Usagi: F*** the New York Times. ;
+    Signage: 1% of the rabbits
+             own 99% of the carrots. ;
+    Signage: I pierce your corporate veil.
+             I pierce it hard. ;
+revision: 141

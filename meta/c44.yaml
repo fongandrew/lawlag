@@ -1,0 +1,53 @@
+globals:
+  last: c44
+includes:
+- from: c44.png
+  to: images/c44.png
+pages:
+- _id: c44
+  _path: 44.html
+  _template: page.html
+  prev: c43
+  next: c45
+  datetime: 2010-07-26 05:00:00
+  src: images/c44.png
+  width: 900
+  height: 650
+  name: Preselection
+  description: Brown Rabbit ranks firms for OCIP.
+  alt: "Remember to mention that you aced Wills and Estates!"
+  notes: |
+    <p><b><date></b>. The hiring market is not good. There is some tension between picking the firms you want to work at and the firms you have a snowball's chance in hell of working at.</p>
+    <p>For the record, if you are the hiring partner at a firm I applied to, I absolutely picked your firm because I want to work there and not because I thought it would be comparatively easy to get a job at. Honest!</p>
+  transcript: |
+    Tort Bunny: Wotcha up to? ;
+    Brown Rabbit: I'm researching which
+                  firms I should apply to
+                  for interviews. ;
+    -----
+    Brown Rabbit: These are all recent newspaper
+                  articles about the places I'm
+                  considering. A lot of them are
+                  working on interesting stuff. ;
+    -----
+    Brown Rabbit: For example, this firm here
+                  is arguing a high profile case
+                  before the Supreme Court that
+                  could radically alter carrot law. ;
+    -----
+    Brown Rabbit: And this firm here is handling a
+                  complex transaction between the two
+                  largest producers of letter openers. ;
+    Brown Rabbit: Surprisingly high demand
+                  for those nowadays. ;
+    -----
+    Brown Rabbit: And-- ;
+    Tort Bunny: This one. ;
+    Tort Bunny points. ;
+    Brown Rabbit: This one?
+    Tort Bunny: This one. ;
+    -----
+    Brown Rabbit (reading): "Twenty associates burned
+                            alive in fiery bus accident" ;
+    Tort Bunny: They're hiring! ;
+revision: 44

@@ -1,0 +1,56 @@
+﻿globals:
+  last: c66
+includes:
+- from: c66.png
+  to: images/c66.png
+pages:
+- _id: c66
+  _path: 66.html
+  _template: page.html
+  prev: c65
+  next: c67
+  datetime: 2010-12-06 05:00:00
+  src: images/c66.png
+  width: 900
+  height: 650
+  name: Quackophobia
+  description: Tort Bunny lays one on François le Duc in the duck marraige debate.
+  alt: Also, egg laying is icky!
+  notes: |
+    <p><b><date></b>. I'd do one about finals, but outside law school, the world goes on. Stressed out 1Ls can peruse comics <a href="http://<domain>/11.html">from</a> <a href="http://<domain>/31.html">finals</a> <a href="http://<domain>/32.html">past</a> of course. Anyhow, the 9th Circuit will be hearing oral arguments today in <i>Perry v. Schwarzenegger</i>, the federal case regarding the constitutionality of California's Prop 8 banning gay marriage. You should be able to listen in <a href="http://www.c-spanvideo.org/program/Perryv">via C-Span</a>. There'll be two issues in this case: (1) whether the anti-gay marriage initiative is constitutional, and (2) whether opponents of Prop 8 have <a href="http://en.wikipedia.org/wiki/Standing_(law)#United_States">standing</a> to appeal in the first place (despite being a named defendant, Schwarzenegger actually agrees with the opponents of Prop 8 and decided not to appeal).</p>
+    <p>A few words about constitutionality: In order for a law to be valid under the <a href="http://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution">14th Amendment</a> (equal protection), it must, at the very least, have a <a href="http://en.wikipedia.org/wiki/Rational_basis_review">rational basis</a> for any discrimination. Generally, the test is whether there's <i>any</i> rational basis out there, not whether the actual basis relied upon was rational. <i>Perry</i> is not the first case to address whether there's a rational basis in not letting gay people marry. New York addressed this issue in <a href="http://scholar.google.com/scholar_case?case=15855574883010333779"><i>Hernandez v. Robles</i></a>, 7 N.Y.3d 338 (2006), albeit only with regards to the New York Constitution, not the federal one. One of its reasons essentially amounts to Tort Bunny's reasoning: The legislature could rationally  have concluded that heterosexuals might inadvertently create kids and we should encourage their parents to stay together. That's not true for homosexual couples.</p>
+    <p>In addition, see Justice Scalia's dissent in <a href="http://scholar.google.com/scholar_case?case=17758055891258118781"><i>Romer v. Evans</i></a>, 517 U.S. 620 (1996), which basically amounts to: "Why isn't moral disapproval of gay people a sufficiently rational basis for disallowing gay marriage?"</p>
+    <p>Also, <a href="http://www.youtube.com/watch?v=Yw_gEyg7Nt8">Cadbury bunny</a> notwithstanding, <a href="http://wiki.answers.com/Q/Why_do_rabbits_lay_eggs_but_bunnies_give_birth">rabbits don't lay eggs</a>. Seriously people.</p>
+  transcript: |
+    François le Duc: There is no rational basis for
+                     recognizing rabbit marriage
+                     but not duck. ;
+    François le Duc: Policy is driven by mere
+                     animus. And quackophobia. ;
+    -----
+    Professor (off-panel): Thank you Mister le Duc. ;
+    François le Duc: Monseiur le Duc. ;
+    Professor (off-panel): Whatever. Ms. Bunny? ;
+    -----
+    Tort Bunny: Thank you sir. Contrary to MISTER 
+                le Duc's argument, Bunniforia's
+                refusal to recognize duck marriages
+                has a very simple rational basis. ;
+    Tort Bunny: Rabbits give live birth. Ducks lay eggs. ;
+    -----
+    Tort Bunny: Live offspring born out of wedlock
+                impose a significant social cost. ;
+    Tort Bunny: The state has a valid interest in
+                encouraging promiscuous bunnies
+                to marry, settle down, and provide
+                stable families for their children. ;
+    -----
+    Tort Bunny: There's no equivalent cost for eggs
+                laid out of wedlock. Ducks don't have
+                to sit on those eggs until they hatch. ;
+    Tort Bunny: They could make omelettes. ;
+    -----
+    François le Duc: But rabbits lay eggs too, no? ;
+    Tort Bunny: THEY'RE FILLED WITH CHOCOLATE! ;
+revision: 66
+

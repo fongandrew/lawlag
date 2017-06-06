@@ -1,0 +1,43 @@
+globals:
+  last: c100
+includes:
+- from: c100.png
+  to: images/c100.png
+- from: t100.png
+  to: images/t100.png
+pages:
+- _id: c100
+  _path: 100.html
+  _template: page.html
+  _post_to_facebook: The 100th Tort Bunnies
+  prev: c99
+  next: c101
+  datetime: 2011-05-23 05:00:00
+  src: images/c100.png
+  thumbnail: images/t100.png
+  width: 900
+  height: 340
+  name: Roundness
+  facebook: 1
+  description: Professor Hobbes discusses the mysteries of the universe.
+  alt: If you read more into this comic than I intended, then ... um ... congratulations.
+  notes: |
+    <p><b><date></b>. Triple digits! Will we make it to four? Probably not, but let's see!</p>
+  transcript: |
+    Prof. Hobbes: Practically speaking, there is
+                  not much difference between
+                  the numbers 99, 100, and 101. ;
+    Prof. Hobbes: But as a round number, 100
+                  possesses a certain beauty
+                  not found in its neighbors. ;
+    -----
+    Prof. Hobbes (off-panel): Round numbers are symbolic. ;
+    Prof. Hobbes (off-panel): Testaments to our collective attempts
+                              to impose order and meaning upon the
+                              mysteries of rabbits and the universe. ;
+    -----
+    Brown Rabbit: So you're rounding up our
+                  tuition for aesthetic reasons? ;
+    Prof. Hobbes (off-panel): No, we're rounding it
+                              up because we can. ;
+revision: 100

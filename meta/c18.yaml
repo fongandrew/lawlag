@@ -1,0 +1,37 @@
+globals:
+  last: c18
+includes:
+- from: c18.png
+  to: images/c18.png
+pages:
+- _id: c18
+  _path: 18.html
+  _template: page.html
+  prev: c17
+  next: c19
+  alt: Do not ask for whom the bell tolls; it tolls for thee.
+  datetime: 2010-01-25 07:00:00
+  width: 900
+  height: 400
+  name: Crunch Time
+  notes: |
+    <p><b><date></b>. I confess to occasionally being guilty of this crime too. There have been days where I get "loud" food and only after the first bite realize how much of a problem this will be. Those are the days in which I leave edibles in my mouth for extended periods of time and wish that my saliva would do its thing more quickly.</p>
+    <p>This originally was going to be a longer comic about Civil Procedure. It involved a dialogue that went something like this:</p>
+    <p><b>Tort Bunny:</b> Excuse me, but your crunching is quite loud.<br />
+       <b>Brown Rabbit:</b> Complaint DISMISSED for failure to state a claim.<br />
+       <b>Tort Bunny:</b> But we're in class!<br />
+       <b>Brown Rabbit:</b> Complaint DISMISSED with PREJUDICE.</p>
+    <p>If you didn't get that, see <a href="http://en.wikipedia.org/wiki/Pleading#Notice_pleading">pleading</a> and <a href="http://en.wikipedia.org/wiki/Prejudice_(legal_procedure)">prejudice</a>.</p>
+    <p>Anyhow, I couldn't get things to flow to my satisfaction, so instead, you get MUNCH-CRUNCH-PUNCH.</p>
+  src: images/c18.png
+  description: A public service announcement about the dangers of loud food in class
+  transcript: |
+    Brown Rabbit munches a carrot in class. ;
+    MUNCH MUNCH MUNCH;
+    -----
+    Brown Rabbit crunches his carrot. ;
+    CRUNCH ;
+    -----
+    Tort Bunny socks Brown Rabbit in the jaw. ;
+    PUNCH ;
+revision: 18

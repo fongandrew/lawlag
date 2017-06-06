@@ -1,0 +1,63 @@
+globals:
+  last: c19
+includes:
+- from: c19.png
+  to: images/c19.png
+pages:
+- _id: c19
+  _path: 19.html
+  _template: page.html
+  prev: c18
+  next: c20
+  alt: It took both ninjas and balls to make a Civ Pro Bunnies.
+  datetime: 2010-02-01 05:00:00
+  width: 900
+  height: 700
+  name: In the Alternative
+  notes: |
+    <p><b><date></b>. It's legally permissible to make <a href="http://en.wikipedia.org/wiki/Alternative_pleading">multiple contradictory arguments</a>. It may not be strategically sound, but it is legal. This example deals with multiple defenses, but you can also have multiple contradictory allegations in a complaint as well. See <i><a href="http://scholar.google.com/scholar_case?case=13901788718606473458">McCormick v. Kopmann</a></i>, 161 N.E.2d 720 (1959), where the plaintiff alleged both (1) that her husband was not <a href="http://en.wikipedia.org/wiki/Contributory_negligence">contributorily negligent</a> in a car accident which took his life and (2) that if he was, it was because a bar had let him drive drunk.</p>
+  src: images/c19.png
+  description: Tort Bunny responds to a complaint by Brown Rabbit
+  transcript: |
+    Judge (off-screen): Tort Bunny, Brown Rabbit alleges
+                        that you intentionally kicked him
+                        in the balls. Your response? ;
+    Tort Bunny: I do no kick
+                others in the
+                balls. ;
+    -----
+    Tort Bunny: In the alternative,
+                I only kick them
+                in the balls when
+                they totally have
+                it coming. ;
+    -----
+    Tort Bunny: In the alternative,
+                Negligent Lop kicked
+                Brown Rabbit in the
+                balls, not I. ;
+    Tort Bunny: In the alternative,
+                Brown Rabbit
+                has no balls. ;
+    -----
+    Tort Bunny: In the alternative, I did
+                kick him the balls
+                and there's nothing you
+                can do about it! ;
+    Tort Bunny: Because I am a
+                MASTER NINJA! ;
+    -----
+    Tort Bunny throws a smoke grenade. ;
+    -----
+    Smoke obscures everything! Blindness! ;
+    -----
+    The smoke clears. ;
+    We see Tort Bunny's ears sticking out
+    from behind a desk. ;
+    Judge (off-screen): Were you supposed to
+                        vanish? Because I ...
+                        uh ... I can still see you. ;
+    Tort Bunny: In the alternative, I am a
+                Master Ninja in training. ;
+
+revision: 19

@@ -1,0 +1,72 @@
+﻿globals:
+  last: c50
+includes:
+- from: c50.png
+  to: images/c50.png
+pages:
+- _id: c50
+  _path: 50.html
+  _template: page.html
+  prev: c49
+  next: c51
+  datetime: 2010-09-06 11:00:00
+  src: images/c50.png
+  width: 900
+  height: 960
+  name: Your dues do be due
+  description: Rhyme sans meter
+  alt: "Prepare for trouble. Make it double!"
+  notes: |
+    <p><b><date></b>. So for those of you who refresh to see if there's a new Tort Bunnies comic on Sunday night, I apologize for the delay. I'm sure you'll live though.</p>
+    <p>1Ls, if you haven't paid your dues yet, please do so. We need it for Bluebooks and booze. Ditto for 2Ls and 3Ls, Negligent Lop notwithstanding.</p>
+    <p>Apologies if I butchered the meter in this. I was writing this in a coffee shop while sitting next to a very bad rapper.</p>
+  transcript: |
+    Brown Rabbit, Tort Bunny, and Lucy Usagi are standing in a classroom. ;
+    On the whiteboard is scribbled the following:
+      Journal of Empty Lives and Letter Openers* ;
+      20 years from now, when your kids ask you
+      what you were doing when Tort Bunny kicked
+      a senator in the balls, wouldn't you like
+      to say "Bluebooking"? ;
+      * Proposed ;
+    Brown Rabbit: Join our journal! ;
+    Tort Bunny: Join our club! ;
+    Brown Rabbit: We offer bonds fraternal. ;
+    Tort Bunny: And awesome grub! ;
+    -----
+    Brown Rabbit: Our outline bank
+                  is most complete. ;
+    Tort Bunny: In drinking games,
+                we can't be beat! ;
+    -----
+    Brown Rabbit: Our alumni all know fortune and fame. ;
+    Tort Bunny: Except those who don't,
+                but they were lame. ;
+    -----
+    Brown Rabbit: Will you join-- ;
+    Tort Bunny: --our special few? ;
+    Lucy Usagi: Yes I will! Yes I do. ;
+    -----
+    Brown Rabbit: Then prove to us your will be true. ;
+    Tort Bunny: By paying now required dues! ;
+    Brown Rabbit: Don't delay and wait 'til 'morrow ;
+    Tort Bunny: Or treble dues shall be your sorrow. ;
+    -----
+    Brown Rabbit: Forty dollars! ;
+    Tort Bunny: Fifty! ;
+    Brown Rabbit: Pay it now! ;
+    Tort Bunny: Pay it quickly! ;
+    Lucy Usagi: Of course I will! Of course I must!
+                I'll do anything to earn your trust. ;
+    -----
+    Negligent Lop enters from stage right. ;
+    Lucy Usagi: Oh this group sounds really swell.
+                Are you here to pay as well? ;
+    Negligent Lop: 2Ls don't pay dues. ;
+    -----
+    Blank stares all around. ;
+    -----
+    Negligent Lop: Oh, that was supposed
+                   to rhyme, wasn't it? ;
+revision: 50
+

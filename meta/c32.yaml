@@ -1,0 +1,50 @@
+globals:
+  last: c32
+includes:
+- from: c32.png
+  to: images/c32.png
+pages:
+- _id: c32
+  _path: 32.html
+  _template: page.html
+  prev: c31
+  next: c33
+  alt: "The reason I use bunnies is so I can make 'silly rabbit' references."
+  datetime: 2010-05-03 05:00:00
+  width: 900
+  height: 700
+  name: Positive Thinking
+  notes: |
+    <p><b><date></b>. Recall that <a href="31.html">Brown Rabbit's computer burst into flames</a> last week, hence why he can't just print out another outline.</p>
+    <p>For confused non-law-school-students, see <a href="http://en.wikipedia.org/wiki/Law_school_outlines">law school outlines</a>. Some professors, in addition to letting you use an outline to study before an exam, also permit you to use your own self-prepared outline during an exam. Half-eaten outlines are not much use in those scenarios.</p>
+    <p>Also, if anyone is curious, the word Brown Rabbit is thinking of is <a href="http://en.wikipedia.org/wiki/Frak_(expletive)">"Frack"</a>.</p>
+  src: images/c32.png
+  description: Negligent Lop has an outline sammich.
+  transcript: |
+    Negligent Lop encounters a stack of paper lying on a desk in a room overlooking the sea. ;
+    -----
+    Negligent Lop takes a bite out of them. ;
+    OM NOM NOM. ;
+    -----
+    Brown Rabbit enters from stage right. ;
+    Brown Rabbit: My outline! ;
+    Negligent Lop throws his paws up in the air. Pieces of half-eaten paper go flying everywhere. ;
+    -----
+    Brown Rabbit: The exam's in 20 minutes! Without
+                  my outline, there's no way I'll pass! ;
+    Tort Bunny enters from stage left. ;
+    Tort Bunny: Silly rabbit! It's not the outline that
+                counts but the process of making one!
+                By reviewing and organizing all that
+                you know about a subject, you've more
+                than prepared yourself to take this test! ;
+    -----
+    Brown Rabbit: Gee whiz Tort Bunny, you're right!
+                  I'm gonna knock this out of the park! ;
+    Tort Bunny: Yes you will! ;
+    Brown Rabbit: Yes I will! ;
+    The two of them high five - four - one, whatever it is when two rabbits slap paws together. ;
+    -----
+    Twenty minutes later in the exam room, Brown Rabbit looks his test, pencil in paw. ;
+    Brown Rabbit: #&@$%!!! ;
+revision: 31

@@ -1,0 +1,32 @@
+﻿globals:
+  last: c59
+includes:
+- from: c59.png
+  to: images/c59.png
+pages:
+- _id: c59
+  _path: 59.html
+  _template: page.html
+  prev: c58
+  next: c60
+  datetime: 2010-10-30 07:00:00
+  src: images/c59.png
+  width: 900
+  height: 340
+  name: F.M.L.
+  description: Brown Rabbit has poor timing.
+  alt: This act of violence is not so random.
+  notes: |
+    <p><b><date></b>. Happy Halloween! Or at least it will be tomorrow, but I imagine everyone is partying Saturday night.</p>
+  transcript: |
+    Brown Rabbit is at a party and has a pink bow on. ;
+    Brown Rabbit: Hey everyone! Look at me.
+                  I'm Tort Bunny! I enjoy
+                  committing random acts
+                  of violence against others! ;
+    -----
+    Brown Rabbit realizes Tort Bunny is standing behind him. ;
+    -----
+    Brown Rabbit: F*** my life. ;
+revision: 59
+

@@ -1,0 +1,47 @@
+globals:
+  last: c140
+includes:
+- from: c140.png
+  to: images/c140.png
+- from: t140.png
+  to: images/t140.png
+pages:
+- _id: c140
+  _path: 140.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c139
+  next: c141
+  datetime: 2012-01-09 05:00:00
+  src: images/c140.png
+  thumbnail: images/t140.png
+  width: 900
+  height: 660
+  name: Good Faith Belief
+  facebook: 1
+  description: Brown Rabbit explores truth in advertising.
+  alt: Everytime Tort Bunny sneezes, it's a battery.
+  notes: |
+    <p><b><date></b>. Oh hey! It's not about law school! Fancy that.</p>
+  transcript: |
+    Brown Rabbit: How're you doing?  ;
+    Tort Bunny: Nah so gweat -- Ah
+                hah da sneefuls. ;
+    -----
+    Brown Rabbit: Here, have this glass of carrot
+                  juice! It's scientifically proven
+                  to make you feel better! ;
+    -----
+    Tort Bunny: Danks Bwown Wab-- ;
+    Negligent Lop: What? No it isn't. Carrot juice is
+                   no more effective than a placebo. ;
+    -----
+    Brown Rabbit: You know, placebos
+                  are pretty effective. ;
+    Brown Rabbit: Unless the patient knows it's a placebo. ;
+    -----
+    Dot dot dot. ;
+    -----
+    Negligent Lop: Ooooohhhhhh ... ;
+    Tort Bunny: Ah hae you boh ... ;
+revision: 140

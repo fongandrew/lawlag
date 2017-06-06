@@ -1,0 +1,54 @@
+globals:
+  last: c143
+includes:
+- from: c143.png
+  to: images/c143.png
+- from: t143.png
+  to: images/t143.png
+pages:
+- _id: c143
+  _path: 143.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c142
+  next: c144
+  datetime: 2012-01-28 01:00:00
+  src: images/c143.png
+  thumbnail: images/t143.png
+  width: 900
+  height: 660
+  name: Expert
+  facebook: 1
+  description: The gentlerabbit from East Dakota needs advice.
+  alt: Chris thinks of himself as more of a geek.
+  notes: |
+    <p><b><date></b>. I may have made fair use of <a href="http://www.thedailyshow.com/watch/wed-january-18-2012/ko-computer">a joke on the Daily Show</a>.</p>
+    <p>Also, this is <a href="http://www.locklaw.com/profile_cksandberg.html">Chris Sandberg</a>. He's a Tort Bunnies fan, an awesome guy, and his daughter wanted to commision a comic. So here you go Chris.</p> 
+  transcript: |
+    Chris Sandberg (off-panel): Congressrabbit, this attempt to
+                                regulate the Internet is on thin ice.
+                                One of the problems with the bill-- ;
+    Congressrabbit McDickerson: Hold on. You're a lawyer. Are
+                                you sure you're qualified to
+                                testify about the Internet? ;
+    -----
+    Chris Sandberg: Congressrabbit, I realize my
+                    testimony doesn't match up
+                    with what your lobbyist friends
+                    tell you. Well tough. Deal with it. ;
+    Chris Sandberg: I've represented Internet service
+                    providers. I've served on state
+                    information policy task forces. I-- ;
+    Congressrabbit McDickerson (off-panel): No no no, you misunderstand. ;
+    -----
+    Congressrabbit McDickerson: It's just that the Internet is nerdy.
+                                And ... you don't look like a nerd. ;
+    -----
+    Blank stare. ;
+    -----
+    Chris walks off. ;
+    -----
+    Chris returns with a bow tie on. ;
+    Chris Sandberg: Better? ;
+    Congressrabbit McDickerson (off-panel): Much. ;
+revision: 143

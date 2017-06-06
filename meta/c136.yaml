@@ -1,0 +1,44 @@
+globals:
+  last: c136
+includes:
+- from: c136.png
+  to: images/c136.png
+- from: t136.png
+  to: images/t136.png
+pages:
+- _id: c136
+  _path: 136.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c135
+  next: c137
+  datetime: 2011-12-12 05:00:00
+  src: images/c136.png
+  thumbnail: images/t136.png
+  width: 900
+  height: 340
+  name: One Up
+  facebook: 1
+  description: Lucy hates competition.
+  alt: Chug chug chug!
+  notes: |
+    <p><b><date></b>. I love my <a href="https://www.facebook.com/pages/Onceling/216355501773781">law school</a>.</p>
+  transcript: |
+    Lucy Usagi and Brown Rabbit are chilling in a coffee shop. ;
+    White Rabbit is "Onceling" in the background. ;
+    Lucy Usagi: You know what I hate
+                about law students? ;
+    Lucy Usagi: They're too competitive. ;
+    -----
+    Lucy Usagi: I wish everyone could just hop
+                out of the law school bubble
+                for one second and realize ... ;
+    Lucy Usagi: ... there's more to life than
+                constantly trying to one up
+                the person next to you. ;
+    -----
+    Negligent Lop pops out of nowhere with a bottle. ;
+    Negligent Lop: I challenge you to a
+                   drinking contest! ;
+    Lucy Usagi: You're going down! ;
+revision: 136

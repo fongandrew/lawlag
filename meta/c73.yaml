@@ -1,0 +1,95 @@
+﻿globals:
+  last: c73
+includes:
+- from: c73.png
+  to: images/c73.png
+- from: t73.png
+  to: images/t73.png
+pages:
+- _id: c73
+  _path: 73.html
+  _template: page.html
+  prev: c72
+  next: c74
+  datetime: 2010-12-25 05:00:00
+  src: images/c73.png
+  thumbnail: images/t73.png
+  width: 900
+  height: 960
+  continuation: c67
+  name: Merry Bleeping Christmas
+  description: Tort Bunny is a sailor.
+  alt: I got Chinese food. Wanna share?
+  notes: |
+    <p><b><date></b>. That concludes our Christmas arc. For those just joining us, this story arc <a href="http://<domain>/67.html">started here</a>. And now back to our normal once-a-week update schedule.</p>
+    <p>I'd also like to remind everyone that, cameos notwithstanding, the rabbits are fictional characters and that their views and language do not necessarily represent that of any actual person.</p>
+    <p>Thanks to Alex and Sarah for the idea of doing a holiday-themed comic.</p>
+    <p>Merry Christmas, and Happy New Year!</p>
+    <!-- For the curious, here's the non-censored version of Tort Bunny's rant: You're a real asshole Brown Rabbit. I've been waiting here five days for you to fucking snap out of your fucking coma. But fuck me and my mental well-being. Oh, I don't have my own jackass family to see over the motherfucking holidays. I'd much rather dick around with some fucking gun-running gun-bunny who cockslapped himself off a motherfucking shit-high fuck-scraper, asstard he is. Who then motherfucking shits atop the fuck-my-time continuum, pissing for the fuck-in-a-cup assfucker award like a dick-ass ghost fucking tits in my fucktarded cereal, as if I'd fucking love shitting cow-balls out my ass guessing what cuntsucking you've been up to in tittyfucking coma-world. So fuck me God, if you ever pull this fucking cock-shit again and live, I will fucking drown you in a puddle of shit. You motherfucking cuntpissing assballing cocksucking sockfucking shitpissing dipcocking assplowing bitchass pigeonmasturbating souppissing fishballing donkey-carroting duck-stuffing fudgepacking fudgepacked fucknuggeting assclowning clusterfucking pimple-cunting bastard-fucking skank-whoring viruspissing cumquatting queefmongering cracklicking bollockering poppycocking cockpopping horsefeathering spunkbubbling dickfacing bitchcaking twunthumping dickweaving cumguzzling taintdumping codgobbling gutterflutting assmastering manmilking fucking fucker. -->
+  transcript: |
+    Brown Rabbit slowly regains consciousness. ;
+    Cue fuzzy image of a black rabbit with a pink bow. ;
+    Tort Bunny: Take it easy. You're in the hospital. ;
+    Brown Rabbit (off-panel): What-- ;
+    Tort Bunny: You went nuts after exams
+                and jumped off the roof.  ;
+    -----
+    Brown Rabbit realizes he is in a bodycast. ;
+    Brown Rabbit: How-- ;
+    Tort Bunny (off-panel): Cushioned by your outline. ;
+    Tort Bunny (off-panel): Coma. Five days. ;
+    -----
+    Tort Bunny steps closer. ;
+    Brown Rabbit: Wow, I-- ;
+    Tort Bunny: You're a real ******* Brown Rabbit. ;
+    Tort Bunny: I've been ******* waiting here five
+                ******* days for you to ******* snap
+                out of your ************* coma. ;
+    -----
+    Tort Bunny: But **** me and my mental well-being.
+                Oh, I don't have my own ******* family
+                to see over the ************* holidays. ;
+    Tort Bunny: I'd much rather **** around with some
+                ******* gun-running gun-bunny who
+                *********** himself off a ************* 
+                ****-high ****-scraper, ******* he is. ;
+    -----
+    Tort Bunny: Who then ************* ***** atop the
+                ****-my-time continuum, ******* for a
+                ****-in-a-cup ********* award like a
+                ****-*** ghost ******* **** in my
+                ********** cereal, as if I'd ******* love
+                ******* cow-**** out my *** guessing
+                what *********** you've been up to in
+                ************ coma-world. ;
+    Tort Bunny: So **** me God, if you ever pull this
+                ******* ****-**** again and live, I will
+                ******* drown you in a puddle of ****. ;
+    -----
+    Tort Bunny: You   **********   **********   *********** 
+                ***********       ***********      ********** 
+                **********    ********   ******************
+                ***********  ***********   *************** 
+                ************    ************    ***********
+                *************  ***********  **************
+                ************* ************** ************
+                ************  ***********   **************
+                ************    ************   ************
+                *********** *************** *************
+                **********  ****************   ***********
+                ************     ***********     ***********
+                ************   ***********  **************
+                ***********   **********  *******   fucker. ;
+    -----
+    Brown Rabbit: Wait, you were really
+                  here for five days? ;
+    Tort Bunny: Well yeah, I'm
+                your friend. ;
+    -----
+    Brown Rabbit gets emotional. ;
+    -----
+    Brown Rabbit: Thank you. ;
+    Tort Bunny: Merry Christmas you 
+                heathen scumbag. ;
+revision: 73
+

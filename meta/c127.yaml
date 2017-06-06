@@ -1,0 +1,55 @@
+globals:
+  last: c127
+includes:
+- from: c127.png
+  to: images/c127.png
+- from: t127.png
+  to: images/t127.png
+pages:
+- _id: c127
+  _path: 127.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c126
+  next: c128
+  datetime: 2011-10-10 05:00:00
+  src: images/c127.png
+  thumbnail: images/t127.png
+  width: 875
+  height: 775
+  name:  Ozymandias
+  facebook: 1
+  description: There be prancing.
+  alt: Building yellow brick roads is a shovel-ready project.
+  notes: |
+    <p><b><date></b>. There's been a mumps outbreak at U.C. Berkeley. <a href="http://boaltalk.blogspot.com/2011/10/time-to-break-it-off-with-your.html">Law students blame undergrads.</a></p>
+    <p>In case you're wondering, payments for business-related tort damages can already be deducted under Section 162 of the Internal Revenue Code.</p>
+    <p>Credit to Taras, Chad, and Audrey. And to Michael Nero Arleth for constantly posting comments about the tax code.</p>
+  transcript: |
+    Negligent Lop, Lucy Usagi, Tort Bunny, and Brown Rabbit are prancing along a yellow brick road. ;
+    All (singing): We're off to see the Wizard! ;
+    All (singing): The Wonderful Wizard of Tax! ;
+    -----
+    Tort Bunny: I'm gonna ask the Wizard
+                to make my payments for
+                non-business-related tort
+                damages deductible. ;
+    -----
+    Brown Rabbit: I'm petitioning the Wizard
+                  to tax Warren Buffett's
+                  capital gains at the same
+                  rate as his secretary's
+                  ordinary income. ;
+    -----
+    Lucy Usagi: I'm asking the Wizard
+                to create a tax credit
+                incentivizing law firms
+                to hire new associates!  ;
+    -----
+    Negligent Lop: I want the Wizard to
+                   make my mumps go away. ;
+    -----
+    Blank stares from Brown Rabbit and Tort Bunny. ;
+    Lucy Usagi runs away in terror. ;
+    Negligent Lop: What? ;
+revision: 127

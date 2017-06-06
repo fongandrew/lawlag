@@ -1,0 +1,46 @@
+globals:
+  last: c152
+includes:
+- from: c152.png
+  to: images/c152.png
+- from: t152.png
+  to: images/t152.png
+pages:
+- _id: c152
+  _path: 152.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c151
+  next: c153
+  datetime: 2012-04-02 05:00:00
+  src: images/c152.png
+  thumbnail: images/t152.png
+  width: 900
+  height: 660
+  name: Smack
+  facebook: 1
+  description: Tort Bunny pokes Brown Rabbit. 
+  alt: Thanks to Facebook, poking someone isn't necessarily battery anymore.
+  notes: |
+    <p><b><date></b>. I don't want to comment too much about <a href="http://seattletimes.nwsource.com/html/nationworld/2017887566_trayvonmartinfacts02.html">the specifics of an ongoing criminal investigation</a>. But one silver lining to the Trayvon Martin shooting, unfortunate as it is, is that it's provoked a discussion about <a href="http://en.wikipedia.org/wiki/Right_of_self-defense#Legal_status_of_self-defense">the right to self-defense</a> and its limits. To what extent do we want ordinary citizens stopping suspected crime, and to what extent do we want them <a href="http://en.wikipedia.org/wiki/Duty_to_retreat">backing off</a> and letting the professionals deal with it? After all, that suspicious-looking dude in a hoody might just be a kid who bought some Skittles.</p>
+  transcript: |
+    *poke*
+    *poke* ;
+    Tort Bunny pokes Brown Rabbit. ;
+    -----
+    Brown Rabbit looks at Tort Bunny. ;
+    -----
+    *poke*
+    *poke* ;
+    Tort Bunny pokes Brown Rabbit again. ;
+    -----
+    *smack* ;
+    Brown Rabbit knocks Tort Bunny's paw away. ;
+    -----
+    SMACK ;
+    Tort Bunny slaps Brown Rabbit across the face, knocking him out. ;
+    -----
+    Negligent Lop investigates. ;
+    Tort Bunny: He smacked me! It
+                was self defense! ;
+revision: 152

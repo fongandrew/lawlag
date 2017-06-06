@@ -1,0 +1,51 @@
+globals:
+  last: c124
+includes:
+- from: c124.png
+  to: images/c124.png
+- from: t124.png
+  to: images/t124.png
+pages:
+- _id: c124
+  _path: 124.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c123
+  next: c125
+  datetime: 2011-09-26 05:00:00
+  src: images/c124.png
+  thumbnail: images/t124.png
+  width: 900
+  height: 650
+  name: Safety School
+  facebook: 1
+  description: Now with more hats!
+  alt: Technically, New Haven sucks.
+  notes: |
+    <p><b><date></b>. The <a href="http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-law-schools">U.S. News and World Report rankings</a> don't matter, except when we're moving up.</p>
+    <p>For my friends at Harvard.</p>
+  transcript: |
+    Negligent Lop: I'm sorry Professor. Can
+                   I pass on this question? ;
+    Professor Hobbes (off-panel): Pass?! ;
+    -----
+    Professor Hobbes: Worthless, the whole lot of you! ;
+    Professor Hobbes: I'll have you know I taught
+                      for a year at Harvard! ;
+    -----
+    Professor Hobbes: At Harvard, my students were
+                      always capable and prepared! ;
+    Professor Hobbes: Unlike you slackers. ;
+    -----
+    Caption: Meanwhile, at Harvard ... ;
+    Professor Teddy: How are your students Professor? ;
+    Professor Mather: Capable and prepared!
+                      As expected of students
+                      at the number one law
+                      school in the country. ;
+    -----
+    Blank stares. ;
+    -----
+    Professor Teddy: Technically, we're number two. ;
+    Professor Mather: Technically, my students are gunners. ;
+revision: 124

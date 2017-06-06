@@ -1,0 +1,42 @@
+globals:
+  last: c133
+includes:
+- from: c133.png
+  to: images/c133.png
+- from: t133.png
+  to: images/t133.png
+pages:
+- _id: c133
+  _path: 133.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c132
+  next: c134
+  datetime: 2011-11-21 05:00:00
+  src: images/c133.png
+  thumbnail: images/t133.png
+  width: 900
+  height: 340
+  name: To-mah-to
+  facebook: 1
+  description: Negligent Lop maintains perspective.
+  alt: What happens in court stays in court, at least until the opinion's written
+  notes: |
+    <p><b><date></b>. I don't what the Constitution has to do with pumpkin pies, but Thanksgiving is rolling around. And pumpkin pie is delicious.</p>
+    <p>Also, U.S. dollars used to be pegged to Spanish "bits of eight", so a "bit" is worth roughly 12.5 cents. In which case the 2-bit hooker is quite cheap and Negligent Lop just might be charging a reasonable rate.</p>
+  transcript: |
+    Negligent Lop: Your honor, this statute is as
+                   constitutional as pumpkin pie. ;
+    Judge (off-panel): Hold on, weren't you arguing the
+                       exact opposite three weeks ago? ;
+    -----
+    Negligent Lop: I ... uh ... this is a different client. ;
+    Judge (off-panel): So you're prostituting your
+                       integrity to the highest bidder. ;
+    -----
+    Negligent Lop: I prefer to think of it as
+                   more of an escort service. ;
+    Judge (off-panel): You say tomato, I
+                       say two-bit hooker. ;
+    Negligent Lop: 1200-bit, your honor. Per hour. ;
+revision: 133

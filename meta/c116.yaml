@@ -1,0 +1,40 @@
+globals:
+  last: c116
+includes:
+- from: c116.png
+  to: images/c116.png
+- from: t116.png
+  to: images/t116.png
+pages:
+- _id: c116
+  _path: 116.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c115
+  next: c117
+  datetime: 2011-08-15 05:00:00
+  src: images/c116.png
+  thumbnail: images/t116.png
+  width: 900
+  height: 650
+  name: Plan B
+  facebook: 1
+  description: Lucy finds out who's hiring.
+  alt: Just don't give up. I'm workin' it out.
+  notes: |
+    <p><b><date></b>. I'm not sure whether the army would take <a href="http://<domain>/115.html">a bunny of loose morals</a>, but sure, why not?</p>
+  transcript: |
+    Lucy Usagi: This is ridiculous! ;
+    -----
+    Brown Rabbit: No luck with interviews? ;
+    Lucy Usagi: No! It's unbelievable!
+                I have no idea what
+                they're looking for. ;
+    -----
+    Brown Rabbit: Well, you know
+                  who is hiring. ;
+    -----
+    Lucy ends up in Afghanistan, riding as the gunner on a Humvee / HMMV. ;
+    Lucy Usagi (thinking): Huh. I guess I
+                           am a gunner. ;
+revision: 116

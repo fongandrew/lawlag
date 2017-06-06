@@ -1,0 +1,50 @@
+globals:
+  last: c138
+includes:
+- from: c138.png
+  to: images/c138.png
+- from: t138.png
+  to: images/t138.png
+pages:
+- _id: c138
+  _path: 138.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c137
+  next: c139
+  datetime: 2011-12-26 05:00:00
+  src: images/c138.png
+  thumbnail: images/t138.png
+  width: 900
+  height: 660
+  name: Cake
+  facebook: 1
+  description: Tort Bunny lets Negligent Lop eats cake. 
+  alt: The cake is a lie.
+  notes: |
+    <p><b><date></b>. I like my cakes <a href="http://en.wikipedia.org/wiki/Unjust_enrichment">unjustly enriched</a> with a drizzle of <a href="http://en.wikipedia.org/wiki/Quantum_meruit">quantum meruit</a>.</p>
+  transcript: |
+    Tort Bunny: Merry Christmas! I
+                give the gift of cake! ;
+    Negligent Lop: Thanks! It looks delicious! ;
+    -----
+    Tort Bunny: Well, what'd you get me? ;
+    -----
+    Frowny face from Tort Bunny. ;
+    Hapless grin from Negligent Lop. ;
+    -----
+    Tort Bunny: I expended considerable resources
+                acquiring this gift in reliance
+                upon the implied promise that I
+                would receive a gift in return. ;
+    Tort Bunny: Principles of equity and 
+                good conscience demand
+                that you give me stuff! ;
+    -----
+    Brown Rabbit: Hey! Who took my cake? ;
+    -----
+    Negligent Lop: I won't say
+                   anything if
+                   you won't. ;
+    Tort Bunny: Deal. ;
+revision: 138

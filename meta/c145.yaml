@@ -1,0 +1,46 @@
+globals:
+  last: c145
+includes:
+- from: c145.png
+  to: images/c145.png
+- from: t145.png
+  to: images/t145.png
+pages:
+- _id: c145
+  _path: 145.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c144
+  next: c146
+  datetime: 2012-02-13 05:00:00
+  src: images/c145.png
+  thumbnail: images/t145.png
+  width: 900
+  height: 660
+  name: B-Ball
+  facebook: 1
+  description: Lucy drives Lop Linsane.
+  alt: Intentional infliction of emotional distress!
+  notes: |
+    <p><b><date></b>. A Harvard-educated Asian-American doing well in basketball? I suppose that could cause <a href="http://en.wikipedia.org/wiki/Intentional_infliction_of_emotional_distress">a reasonable person to exclaim "Outrageous!"</a>. Unfortunately, <a href="http://en.wikipedia.org/wiki/Assumption_of_risk">assumption of risk</a> or not, tort plaintiffs rarely recover damages for the infliction of <a href="http://www.huffingtonpost.com/2012/02/11/jeremy-lin-knicks-win-fifth-straight_n_1271120.html">Linsanity</a>.</p>
+    <p>I'd suggest that we create a sport centered entirely around tortious activities. But the <a href="http://en.wikipedia.org/wiki/WWE">WWE</a> beat me to it.</p>
+  transcript: |
+    Kobe Bryant (Lakers 24) slams into Jeremy Lin (New York Knicks 17) as Kobe tries to dunk. ;
+    Caption: BATTERY! ;
+    -----
+    Lin and Pau Gasol (Lakers 16) collide as Lin does a layup. ;
+    Caption: BATTERY! ;
+    -----
+    A basketball hits Lin in the back of the head. ;
+    Caption: BATTERY! ;
+    -----
+    Switch to a bar, where Lucy Usagi and Negligent Lop are watching the game. ;
+    Lucy Usagi: Batter-- ;
+    Negligent Lop: Will you stop?! Basketball
+                   is not a series of torts! ;
+    -----
+    Lucy and Lop return to watching the game. ;
+    -----
+    Lucy Usagi: Assumption of risk! ;
+    Negligent Lop rolls his eyes. ;
+revision: 145

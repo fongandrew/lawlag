@@ -1,0 +1,35 @@
+﻿globals:
+  last: c72
+includes:
+- from: c72.png
+  to: images/c72.png
+- from: t72.png
+  to: images/t72.png
+pages:
+- _id: c72
+  _path: 72.html
+  _template: page.html
+  prev: c71
+  next: c73
+  datetime: 2010-12-24 05:00:00
+  src: images/c72.png
+  thumbnail: images/t72.png
+  continuation: c67
+  width: 900
+  height: 340
+  name: Falling
+  description: The future sucks.
+  alt: The future sucks! Where's my flying car?!?!
+  notes: |
+    <p><b><date></b>. Oops.</p>
+    <p>For those just joining us, this story arc <a href="http://<domain>/67.html">starts here</a>.</p>
+  transcript: |
+    Brown Rabbit: Gah! The future sucks! ;
+    Take me back! Take-- ;
+    -----
+    Brown Rabbit is falling through the night sky. ;
+    Brown Rabbit (thinking): Oh. Right. ;
+    -----
+    WHAM! ;
+revision: 72
+

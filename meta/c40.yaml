@@ -1,0 +1,44 @@
+globals:
+  last: c40
+includes:
+- from: c40.png
+  to: images/c40.png
+pages:
+- _id: c40
+  _path: 40.html
+  _template: page.html
+  prev: c39
+  next: c41
+  alt: "No, I don't know where Brown Rabbit's pockets are."
+  datetime: 2010-06-28 05:00:00
+  width: 900
+  height: 650
+  name: Subject to Interpretation
+  notes: |
+    <p><b><date></b>. I got back last week from the <a href="http://www.acslaw.org/convention">American Constitution Society convention</a>. Good times. Two highlights: (1) Despite the sneering from the right, <a href="http://www.acslaw.org/node/16381">Al Franken</a> actually comes across as a very smart Senator, not just some comedian from SNL; (2) <a href="http://en.wikipedia.org/wiki/Cory_Booker">Cory Booker</a> is a fantastic speaker. If you ever get a chance to hear him talk, go.</p>
+    <p>Substantively, a good chunk of the convention was kvetching about <a href="http://en.wikipedia.org/wiki/Originalism">originalism</a> and the <a href="http://en.wikipedia.org/wiki/Federalist_Society">Federalist Society</a>. For those of you not in the know, originalism argues that we should interpret the Constitution and legislation in accordance with their original meaning. An overly simplistic view of originalism is that it tends to favor the form or letter of the law over the "spirit" of the law. It took on new popularity among conservatives in the 80s in response to what was perceived as judicial activism by the courts. Leading the originalist charge was the Federalist Society, an organization of like-minded conservatives and libertarians. The American Constitution Society sprung up sometime in the early 2000s in response to that. I can't really sum up its judicial philosophy with a catchy phrase, but it's basically "not originalism."</p>
+    <p>One of the things I appreciated most about the convention was that on nearly every panel, there was a "token conservative," most of whom, in fact, did an excellent job of defending their point of view. This is acutally a Federalist Society tradition, and it arises from how, despite the accusations of the other side being made up of political shills, the debate is very academic in nature. That academic nature necessitates an acceptance of criticism, debate, and respect for opposing views that you would be unlikely to find at, say, a meeting of the <a href="http://www.yda.org/">Young Democrats</a>. It also shows, I think, that despite the caricature of a Supreme Court voting on "party lines", the judiciary is actually made up of individuals, each with his or her own point of view, trying to do the right thing. Most decisions are not 5-4 splits, and most decisions are not driven by political ideology.</p>
+    <p>Oh, and regarding the comic: Yes, casebooks get that big. Like many textbooks, I suspect they are part of a plot to break down the souls of students by first breaking their pocketbooks and then breaking their backs.</p>
+  src: images/c40.png
+  description: Brown Rabbits compares the Constitution to a Constitutional Law casebook.
+  transcript: |
+    Brown Rabbits holds up a copy of R.A.B. Publishing Co.'s Pocket Constitution.
+    Brown Rabbit: This is a copy of the Constitution.
+                  It fits in my pocket. ;
+    -----
+    Brown Rabbit holds up Asspen Pub.'s Ye Olde Con Law.
+    Brown Rabbit: This is a Constitutional Law casebook.
+                  It does not fit in my pocket. ;
+    -----
+    Brown Rabbit: The implication, I think, is clear. ;
+    -----
+    Brown Rabbit: Originalism is @$^$*#&. ;
+    Tort Bunny: Leftwing activist judges are
+                legislating from the bench! ;
+    Negligent Lop: Casebook authors
+                   are paid per page! ;
+    -----
+    Negligent Lop: Also, our professor hates trees. ;
+    Negligent Lop: Because, you know, trees murdered his father. ;
+    Negligent Lop: Seriously, I read it on the Internet. ;
+revision: 40

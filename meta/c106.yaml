@@ -1,0 +1,33 @@
+globals:
+  last: c106
+includes:
+- from: c106.png
+  to: images/c106.png
+- from: t106.png
+  to: images/t106.png
+pages:
+- _id: c106
+  _path: 106.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c105
+  next: c107
+  datetime: 2011-07-04 05:00:00
+  src: images/c106.png
+  thumbnail: images/t106.png
+  width: 900
+  height: 500
+  name: Palsgraf
+  facebook: 1
+  description: Boom Boom Boom
+  alt: Even brighter than the moon moon moon!
+  notes: |
+    <p><b><date></b>. Happy Birthday America! <a href="http://<domain>/49.html">USA</a> <a href="http://<domain>/94.html">USA!</a></p>
+    <p>I couldn't think of a punchline, so I'll let you all come up with one. Also, see <a href="http://en.wikipedia.org/wiki/Palsgraf_v._Long_Island_Railroad_Co."><i>Palsgraf v. Long Island Co.</i></a>, 248 N.Y. 339 (1928).</p>
+  transcript: |
+    Scene is a Bunny Area Rapid Transit (BART) station. ;
+    Lucy Usagi is sitting in train number #1776. It is departing. ;
+    Negligent Lop is looking out of the train driver's window. ;
+    Tort Bunny is running towards the train with fireworks in hand. ;
+    Brown Rabbit is obliviously munching a carrot some distance anyway. ;
+revision: 106

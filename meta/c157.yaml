@@ -1,0 +1,49 @@
+globals:
+  last: c157
+includes:
+- from: c157.png
+  to: images/c157.png
+- from: t157.png
+  to: images/t157.png
+pages:
+- _id: c157
+  _path: 157.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c156
+  next: c158
+  datetime: 2012-05-07 05:00:00
+  src: images/c157.png
+  thumbnail: images/t157.png
+  width: 900
+  height: 660
+  name: Final Stretch
+  facebook: 1
+  description: Tort Bunny offers some advice to 3Ls taking finals.
+  alt: Yes, there is bacon on that pizza. And yes, bunnies are vegetarian. Except when they're feeling tortious.
+  notes: |
+    <p><b><date></b>. For Cara, courtesy of her parents.</p>
+    <p>Also, thanks to <a href="http://whatshouldwecallme.tumblr.com/post/22178968749/my-advice-on-life">#whatshouldwecallme</a>.</p>
+  transcript: |
+    Cara: Wahhh! I can't do this anymore.
+          I'm a 3L. I shouldn't be studying.
+           ;
+    Cara: I should be, like, rocking out
+          to 90s pop songs and stuff. ;
+    -----
+    Cara: But I want to do well on this
+          exam. I really like this professor! ;
+    Cara: And I don't want him
+          to think I'm a slacker. ;
+    -----
+    Cara: Because I'm not. I'm just graduating. ;
+    Cara: And my grades don't matter. ;
+    -----
+    Cara: Unless I fail. Which I might if I-- ;
+    Tort Bunny (off-panel): I have advice. ;
+    -----
+    Tort Bunny eats some carrot and bacon pizza. ;
+    Tort Bunny: Try and give less of a shit. ;
+    -----
+    Tort Bunny: WAMP WAMP. ;
+revision: 157

@@ -1,0 +1,56 @@
+globals:
+  last: c150
+includes:
+- from: c150.png
+  to: images/c150.png
+- from: t150.png
+  to: images/t150.png
+pages:
+- _id: c150
+  _path: 150.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c149
+  next: c151
+  datetime: 2012-03-19 05:00:00
+  src: images/c150.png
+  thumbnail: images/t150.png
+  width: 900
+  height: 660
+  name: There and Back Again
+  facebook: 1
+  description: Tort Bunny reads a famous book aloud to children.
+  alt: Tort Bunny's word for word reading even includes the original British spelling.
+  notes: |
+    <p><b><date></b>. This is <a href="http://thenextweb.com/media/2012/03/13/belgian-rightsholders-group-wants-to-charge-libraries-for-reading-books-to-kids/">a real thing</a>, albeit in Belgium rather than America. Crazy, huh? Copyright law in most countries grants the author of a work the exclusive right to publicly perform that work. The right usually pertains to movies, plays, or music, but apparently it also covers reading works aloud. In the U.S., the <a href="http://en.wikipedia.org/wiki/Fair_use">fair use</a> doctrine protects certain activities that would otherwise be infringing. However, using a work in its entirety, in a non-transformative manner, weighs against a finding of fair use.</p>
+  transcript: |
+    Tort Bunny reads J.R.R. Tolkien's The Hobbit to some children. ;
+    Tort Bunny (reading): This is a story of how a Baggins
+                          had an adventure, and found
+                          himself doing and saying things
+                          altogether unexpected. ;
+    -----
+    Tort Bunny (reading): He may have lost the
+                          neighbours' respect,
+                          but he gained ---
+                           ;
+    Brown Rabbit: Hey! That's a copyrighted work! ;
+    -----
+    Tort Bunny: So? ;
+    Brown Rabbit: So reading it aloud to children
+                  constitutes a public performance!
+                  You need a license to do that. ;
+    -----
+    Tort Bunny: This isn't fair use? ;
+    Brown Rabbit: You're reading it word
+                  for word! There's no
+                  way that's fair use. ;
+    -----
+    Tort Bunny: Word for word ... I see. ;
+    -----
+    Tort Bunny (reading): This is a ****ing story of how
+                          Bilbo ****ing Baggins had a
+                          ****ing adventure, and found
+                          himself ****ing and saying ****
+                          that was ****ing unexpected. ;
+revision: 150

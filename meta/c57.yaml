@@ -1,0 +1,69 @@
+﻿globals:
+  last: c57
+includes:
+- from: c57.png
+  to: images/c57.png
+pages:
+- _id: c57
+  _path: 57.html
+  _template: page.html
+  prev: c56
+  next: c58
+  datetime: 2010-10-18 05:00:00
+  src: images/c57.png
+  width: 900
+  height: 650
+  name: The Legal Network
+  description: Tort Bunnies parody the Social Network.
+  alt: This is self-referential title text.
+  notes: |
+    <p><b><date></b>. In case, you couldn't tell, this is parodying scenes from <a href="http://en.wikipedia.org/wiki/The_Social_Network">The Social Network</a>. If you're too lazy / cheap / busy / tired / disdainful to watch it, you can get the short version via <a href="http://www.youtube.com/watch?v=53OUHupfqws">this trailer</a> or the much longer version by reading <a href="http://wiscreenwritersforum.org/wp-content/uploads/2010/01/Social-Network-The-by-Aaron-Sorkin-May-28-2009.pdf">the script</a> (PDF). It's a good movie, and you can see my thoughts about it on <a href="http://andrewfong.com/blog/2010/10/10/harvard-and-the-social-network/">my infrequently-updated blog</a>.</p>
+    <p>Anyhow, this episode has a few things that need explaining for my non-law school reading friends (why are you reading this again?):</p>
+    <p>The <a href="http://en.wikipedia.org/wiki/Law_review">Law Review</a> at just about any school is exclusive. Not so fun. But it does lead to a better life.</p>
+    <p>The <i>idea</i> for a webcomic about rabbits (and a duck) in law school is not copyrightable, since copyright protects expression, not ideas. <i>See</i> 17 U.S.C. §&#160;102(b) (2006). Nor is it patentable (probably) as it's not a "useful process, machine, manufacture, or composition of matter." <i>See</i> 35 U.S.C. §&#160;101 (2006). Moreover, there's prior art. While I may have been the first to use rabbits and a duck, I didn't make the first <a href="http://legeeke.com/">law school webcomic</a>.</p>
+    <p>Boalt Law no longer exists. It is now called <a href="http://en.wikipedia.org/wiki/UC_Berkeley_School_of_Law">the UC Berkeley School of Law</a> or something like that. I think I may have established that the rabbits went to some other law school at some point. Oh well, continuity error. Whoops.</p>
+    <p>U.S. federal courts have limited <a href="http://en.wikipedia.org/wiki/Subject-matter_jurisdiction">subject-matter jurisdiction</a> and can only hear cases involving federal questions or complaints where a citizen in one state sues a citizen in another state over an amount greater than $25,000. In this case, Brown Rabbit would deny that there is any federal question (assuming Negligent Lop didn't bring a copyright or patent claim -- and it'd be silly if he did). <i>See</i> 28 U.S.C. §&#160;1331 (2006). He would also insist that the amount in controversy was less than $75,000 (trust me, Tort Bunnies is currently not raking in the dough) and that both he and Negligent Lop were in the same state (California I guess). <i>See id.</i> §&#160;1332.</p>
+    <p>Also, no, Brown Rabbit is not meant to resemble me in any way. He's acting more like a Mark Zuckerbunny in this comic.</p>
+  transcript: |
+    Brown Rabbit: I need to do something
+                  to get the attention of
+                  the Law Review. ;
+    Purple Bunny: Why? ;
+    Brown Rabbit: Because it's exclusive.
+                  And fun. And it leads
+                  to a better life. ;
+    Purple Bunny: I should go study now. ;
+    Brown Rabbit: You don't need to study.
+                  You go to business school. ;
+    -----
+    Brown Rabbit: People want to share something that
+                  pokes fun at law school, so why not
+                  make a webcomic that offers that?
+                  I'm talking about reducing the entire
+                  law school experience to a bunch of
+                  talking cartoon rabbits! ;
+    Negligent Lop: It needs a duck too. ;
+    Brown Rabbit: Um ... ok. ;
+    -----
+    Negligent Lop: You stole our webcomic idea! ;
+    Brown Rabbit: You have no property right in
+                  your idea! It was neither 
+                  copyrightable nor patentable! ;
+    -----
+    Negligent Lop: He violated California state law!
+                   He violated federal law! And by
+                   the way, he violated Boalt Law. ;
+    Tort Bunny: There's no such
+                thing as Boalt Law. ;
+    -----
+    Negligent Lop: We're suing you in federal court! ;
+    Brown Rabbit: And I move to dismiss for lack
+                  of subject-matter jurisdiction. ;
+    -----
+    Tort Bunny: You're not an asshole Brown Rabbit. ;
+    Brown Rabbit: Thanks! ;
+    Tort Bunny: But you try to be,
+                so I'm kicking you
+                in the balls anyway. ;
+revision: 57
+

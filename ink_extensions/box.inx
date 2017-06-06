@@ -1,0 +1,16 @@
+<inkscape-extension>
+  <_name>Bounding Box</_name>
+  <id>com.tortbunnies.bounding_box</id>
+  <dependency type="executable" location="extensions">box.py</dependency>
+  <dependency type="executable" location="extensions">inkex.py</dependency>
+  <param name="padding" type="string" _gui-text="How much padding should we give the box?">10</param>
+  <effect>
+    <object-type>all</object-type>
+    <effects-menu>
+       <submenu _name="Custom"/>
+    </effects-menu>
+  </effect>
+  <script>
+    <command reldir="extensions" interpreter="python">box.py</command>
+  </script>
+</inkscape-extension>

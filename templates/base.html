@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>{% if name %}{{ name }} | {% endif %}{% if datetime %}{{ datetime.strftime('%B %d, %Y') }} | {% endif %}{{ title }}</title>
+        {% block meta %}{% endblock %}
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <link rel="apple-touch-icon" href="images/ipod57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="images/ipod72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="images/ipod114.png" />
+        <meta http-equiv="content-language" content="EN-US" />
+        <meta name="description" content="{% if description %}{{ description|e }}{% else %}Weekly webcomic by Andrew Fong featuring the legal misadventures of Tort Bunny, Brown Rabbit, and Negligent Lop{% endif %}" />
+        <meta property="fb:admins" content="1325"/>
+        <meta property="fb:app_id" content="183236351695966" />
+        <meta property="og:title" content="{% if name %}{{ name }} | {% endif %}{% if datetime %}{{ datetime.strftime('%B %d, %Y') }} | {% endif %}{{ title }}" />
+        <meta property="og:type" content="{% if _path == 'index.html' %}website{% else %}article{% endif %}"/>
+        <meta property="og:site_name" content="{{ title }}"/>
+        <meta property="og:description" content="{% if description %}{{ description|e }}{% else %}Weekly webcomic by Andrew Fong featuring the legal misadventures of Tort Bunny, Brown Rabbit, and Negligent Lop{% endif %}"/>
+        <meta property="og:image" content="https://{{domain}}/{% if thumbnail %}{{ thumbnail }}{% else %}{% if src %}{{ src }}{% else %}images/ipod57.png{% endif %}{% endif %}"/>
+        <meta name="language" content="EN-US" />
+        <link rel="alternate" type="application/atom+xml" title="{{ title }} (FeedBurner)" href="https://feeds.feedburner.com/tortbunnies" />
+        {% block canonical %}<link rel="canonical" href="https://{{ domain }}/{{ _path }}" />
+        <meta property="og:url" content="https://{{ domain }}/{{ _path }}"/>{% endblock %}
+        <style type="text/css">
+            {% block style %}{% endblock %}
+        </style>
+        <script type="text/javascript">
+            {% block js_vars %}{% endblock %}
+        </script>
+        <script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+        <script type="text/javascript">
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-11157836-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11157836-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+    </head>
+    <body>
+        <h1 class="hide" style="position: absolute; left:-500px;">{{ title }}: {% if name %}{{ name }}{% else %}A Webcomic About Lawless Lagomorphs{% endif %}</h1>
+        {% block startheader %}{% endblock %}
+        <div id="titlebar_"><div id="titlebar">
+            <a href="index.html"><img height="50" width="420" src="images/header.png" alt="Tort Bunnies" title="Home / Index Page" /></a>
+            <img id="header_right" src="images/header_right.png" alt="Two more bunnies!" height="50" width="130" title="This is the upper right corner of the page. But you knew that already." />
+        </div></div>
+        <div id="subtitlebar_"><div id="subtitlebar">
+            <div id="subtitle"><a href="index.html">Updated Whenever</a></div>
+            <div id="nav">
+                <a href="https://feeds.feedburner.com/tortbunnies">RSS</a> -
+                <a href="https://feedburner.google.com/fb/a/mailverify?uri=tortbunnies&amp;loc=en_US">Subscribe by Email</a> -
+                <a href="search.html">Search</a> -
+                <a href="https://zazzle.com/tortbunnies*">Store</a> -
+                <a href="#donate" onclick="$('#paypal').submit(); return false;">Donate</a>
+                <form id="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display:inline; vertical-align:">
+                    <input type="hidden" name="cmd" value="_s-xclick" />
+                    <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+                    " />
+                    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                </form>
+            </div>
+            <div style="clear:both;"></div>
+        </div></div>
+        <div id="container" style="padding-top:1px">
+
+        {% block content %}
+        {% endblock %}
+        </div>
+        {% block endbody %}
+        {% endblock %}
+        {% block footer %}
+        <div id="footer"><div id="_footer">
+        	<a rel="license" href="https://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/us/88x31.png" /></a><br /><br />
+            Tort Bunnies is a webcomic by <a href="https://www.andrewfong.com/">Andrew Fong</a>.<br />
+            All comics, transcripts, and author notes on this site are licensed under a<br /><a rel="license" href="https://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.<br />
+            TORT BUNNIES SHOULD NOT BE TAKEN SERIOUSLY.<br /><b>TORT BUNNIES IS NOT LEGAL ADVICE.</b><br />
+Questions? Suggestions? Shoot an e-mail to <script type="text/javascript"><!--
+      	a = "andrew"; d="tortbunnies"; e="com";
+      	document.write('<a href="mailto:');
+      	document.write(a);document.write('&#64;');document.write(d);document.write('.');document.write('com');
+      	document.write('">');
+      	document.write(a);document.write('&#64;');document.write(d);document.write('.');document.write('com');
+      	document.write('</a>')
+    	--></script>
+        </div>
+        <br />
+        {% block endfooter %}{% endblock %}
+        </div>
+        {% endblock %}
+    </body>
+</html>

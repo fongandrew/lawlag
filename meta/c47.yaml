@@ -1,0 +1,47 @@
+﻿globals:
+  last: c47
+includes:
+- from: c47.png
+  to: images/c47.png
+pages:
+- _id: c47
+  _path: 47.html
+  _template: page.html
+  prev: c46
+  next: c48
+  datetime: 2010-08-16 05:00:00
+  src: images/c47.png
+  width: 900
+  height: 650
+  name: 2L
+  description: Lucy's first day at law school
+  alt: "And the printer's jammed! And my e-mail's spammed! Oh please, have mercy ma'am!"
+  notes: |
+    <p><b><date></b>. What sucks about 1L year is that you don't really know what to expect. What sucks about 2L year is that you know exactly what to expect.</p>
+  transcript: |
+    Negligent Lop: Welcome young initiate! How fares
+                   your immortal soul on this first day
+                   within these hallowed halls of law? ;
+    Lucy Usagi: I fare well! ;
+    -----
+    Lucy Usagi: I mean, I stayed up all night reading. ;
+    -----
+    Lucy Usagi: And I'm terrified of being called on. ;
+    Lucy Usagi: And I feel like I'm the only idiot
+                in class who doesn't get this. ;
+    -----
+    Lucy Usagi: But I understand that the
+                first year is the hardest. ;
+    Lucy Usagi: After this, it's all-- ;
+    -----
+    Brown Rabbit streaks past holding a folder and a pocket clock. ;
+    Brown Rabbit: I'm late! ;
+    Brown Rabbit: I'm late for an interview!
+                  A very important interview! ;
+    -----
+    Lucy Usagi: --downhill. ;
+    Brown Rabbit (off-panel): Oh God! There's a typo on my résumé! ;
+    Negligent Lop sips a beer. ;
+    Drink responsibly. ;
+revision: 47
+

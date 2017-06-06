@@ -1,0 +1,34 @@
+globals:
+  last: c11
+includes:
+- from: c11.png
+  to: images/c11.png
+pages:
+- _id: c11
+  _path: 11.html
+  _template: page.html
+  alt: This is as much for me as it is for you.
+  datetime: 2009-12-07 05:00:00
+  height: 400
+  name: Red Hot
+  description: Some advice about exam time
+  next: c12
+  disqus_url: http://share.tortbunnies.com/11.html
+  notes: '<p><b><date></b>. A short one today for obvious reasons. I''m dead serious
+    about this whole one a week thing though.</p>
+
+    <p>Also, you know what would be hilarious? A Torts exam question that asked, "Is
+    this exam an <a href="http://en.wikipedia.org/wiki/Intentional_infliction_of_emotional_distress">intentional
+    infliction of emotional distress</a>?"</p>
+
+    '
+  prev: c10
+  src: images/c11.png
+  transcript: "Brown Rabbit: As exam season rolls around,\n              we at Tort\
+    \ Bunnies would like\n              to offer a small piece of advice. ;\n-----\n\
+    Brown Rabbit: Do not set yourself on fire. ;\nA flaming Brown Rabbit. ;\n-----\n\
+    Tort Bunny: Unless you need to demonstrate\n            a physical manifestation\
+    \ of your\n            emotional distress. ;\nBrown Rabbit: Yes, unless-- NO,\n\
+    \              THAT'S STUPID. ;\n"
+  width: 825
+revision: 11

@@ -1,0 +1,56 @@
+globals:
+  last: c144
+includes:
+- from: c144.png
+  to: images/c144.png
+- from: t144.png
+  to: images/t144.png
+pages:
+- _id: c144
+  _path: 144.html
+  _template: page.html
+  _post_to_facebook: 'Tortious Bunny v. the Susan B. Komen Foundation'
+  prev: c143
+  next: c145
+  datetime: 2012-02-06 05:00:00
+  src: images/c144.png
+  thumbnail: images/t144.png
+  width: 845
+  height: 660
+  name: Pink
+  facebook: 1
+  description: Tort Bunny's use of pink comes back to bite her in the tail.
+  alt: Tort Bunny's done looking for the critics, 'cause they're everywhere.
+  notes: |
+    <p><b><date></b>. In a way, I can understand why the Susan G. Komen Foundation didn't expect  such a huge <a href="http://www.huffingtonpost.com/2012/02/01/susan-g-komen_n_1247262.html">uproar</a> over its decision to cut Planned Parenthood funding. There are lots of breast cancer groups out there that need funding. And if people prefer to give money to Planned Parenthood, they can (<a href="http://www.businessweek.com/news/2012-02-05/web-fury-spurs-komen-reversal-3-million-for-planned-parenthood.html">and did</a>) do so directly, without going through the Komen Foundation.</p>
+    <p>After all, churches engage in charity all the time. There's some concern about co-mingling the charitable and the evangelical, but for the most part, it's not a big deal. If that bothers you, there are plenty of secular alternatives to religious charities.</p>
+    <p>But churches don't own poverty in the same way the Komen Foundation owns breast cancer. The search for a cure has been <a href="http://www.huffingtonpost.com/2010/12/07/komen-foundation-charities-cure_n_793176.html">trademarked</a>, <a href="http://www.thenation.com/article/166072/why-komenplanned-parenthood-breakup-while-it-lasted-was-good-feminism">branded</a>, and <a href="http://www.youtube.com/watch?v=3QPZfcYTUaA">monetized</a>. It's ostensibly for a good cause. But by appointing itself guardian of the breast cancer narrative, the Komen Foundation has set itself up for backlash from those whom the Foundation has failed to speak for.</p>
+    <p>Food for legal thought: <a href="http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=CASE&amp;court=US&amp;vol=514&amp;page=159"><i>Qualitex Co. v. Jacobson Products Co., Inc.</i></a>, 514 U.S. 159 (1995) (establishing that a color could be trademarked) and <a href="http://www.aclu.org/free-speech-womens-rights/aclu-challenges-patents-breast-cancer-genes-0">the breast cancer gene patents</a>.</p>
+    <p>Shout-out to Lauren.</p>
+  transcript: |
+    Lucy Usagi: You have a package Lop! ;
+    Negligent Lop: Must be that shirt I ordered. ;
+    Lucy Usagi: And a letter for
+                you Tort Bunny. ;
+    Tort Bunny: For me? ;
+    -----
+    Tort Bunny (reading): Dear Ms. Bunny, ;
+    Tort Bunny (reading): It has come to our attention that you wear the
+                          color pink while engaging in tortious activities.
+                          As the lawful owners of trademarks covering the
+                          color pink, we hereby demand that you cease and
+                          desist from using the color pink forthwith. ;
+    Tort Bunny (reading): Sincerely,
+                          The Susan G. Komen Foundation ;
+    Not shown - "P.S. We know where you live." ;
+    -----
+    Tort Bunny: This is ridiculous! You can't own a color. 
+                I wear a pink bow. I own a pink gun. I
+                use a pink laptop. Hell, my sh!t be pink! ;
+    Tort Bunny: Do they honestly expect to
+                take that all away from me? ;
+    -----
+    Lucy Usagi: Your poop is pink? ;
+    Tort Bunny: Pepto-Bismol is a wonderful thing. ;
+    Negligent Lop is wearing his brand new red "HAMME(RED)" shirt. ;
+revision: 144

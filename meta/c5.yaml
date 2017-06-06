@@ -1,0 +1,66 @@
+globals:
+  last: c5
+includes:
+- from: c5.png
+  to: images/c5.png
+pages:
+- _id: c5
+  _path: 5.html
+  _template: page.html
+  alt: And then I found five dollars
+  datetime: 2009-10-29 05:00:00
+  height: 400
+  name: A Uniform System of Citation
+  description: How things should be cited
+  next: c6
+  disqus_url: http://share.tortbunnies.com/5.html
+  notes: '<p><b><date></b>. First mid-week update! It''s a short one in response to
+    a request, but this is exactly what I had in mind when I added the "and whenever
+    I feel like it" to the update schedule -- longer strips for Mondays and random
+    quick responses when I can. Thanks Hilda.</p>
+
+    <p>If you don''t get the joke, you might want to see <a href="http://en.wikipedia.org/wiki/Bluebook">The
+    Bluebook</a>. And if you still don''t get it, well, sorry.</p>
+
+    <p>Somewhat ironically, I''ve officially renamed the comic from "Lawless Lagomorphs"
+    to "Tort Bunnies" despite the fact that this comic has neither a tort nor a bunny
+    (not directly anyway -- free carrot to the first person to find my hidden bunny
+    reference!). Although not all of the comics involve a tort, most of the people
+    I''ve talked to refer to it as "Tort Bunnies" and have a hard time remembering
+    "Lawless Lagomorphs" or "LawLag", so I might as well make "Tort Bunnies" the official
+    moniker.</p>
+    
+    <p><b>Update (10/10/2010):</b> As Sfreedman pointed out, the periods should be underlined, so now they are!</p>'
+  prev: c4
+  src: images/c5.png
+  transcript: 'In the present case, plaintiff rabbit contracted with defendant
+
+    bunny to not commit a tort for a year. Id. One week later,
+
+    defendant proceeded to organize a knife throwing competition
+
+    aboard a moving train that she operated. Id. Plaintiff sued for
+
+    breach as such a competition was more likely than not to cause
+
+    a tort, e.g. the negligent infliction of emotional distress. Id.
+
+    Although injuries sustained by competitive knife throwing
+
+    would be barred by assumption of risk, courts generally hold
+
+    that common carriers have a special relationship with their
+
+    clients. That''s what she said. However, the court will not order
+
+    defendant''s specific performance because the contract was
+
+    formed without consideration. See id. Without a contract, there
+
+    can be no breach. Id. However, the plaintiff counters that
+
+    under promissory estoppel, he may still recover. ;
+
+    '
+  width: 600
+revision: 5

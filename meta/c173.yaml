@@ -1,0 +1,52 @@
+globals:
+  last: c173
+includes:
+- from: c173.png
+  to: images/c173.png
+- from: t173.png
+  to: images/t173.png
+pages:
+- _id: c173
+  _path: 173.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c172
+  next: c174
+  datetime: 2012-07-25 05:00:00
+  src: images/c173.png
+  thumbnail: images/t173.png
+  width: 605
+  height: 1460
+  name: Barmageddon IV
+  continuation: c170
+  facebook: 1
+  description: Negligent Lop and Brown Rabbit contemplate stuff.
+  alt: Yay gradients!
+  notes: |
+    <p><b><date></b>. Here's <a href="http://<domain>/images/space.png">a version of this image with the text removed</a>.</p>
+  transcript: |
+    As we scroll down, the image transitions from outer space to a sunny day. ;
+    Negligent Lop and Brown Rabbit are sitting an a grassy knoll overlooking the ocean. ;
+    Negligent Lop: You're done early. ;
+    Brown Rabbit: Didn't see the point in staying. ;
+    Negligent Lop: Because the bar exam bears little
+                   relation to the actual practice of law? ;
+    Brown Rabbit: No, not that. ;
+    Negligent Lop: Because law school bears little
+                   relation to the bar exam? ;
+    Brown Rabbit: Not that either. ;
+    Negligent Lop: Because legal fiction bears little relation
+                   to the actual problems the world faces? ;
+    Brown Rabbit: Not quite. ;
+    Negligent Lop: Because an asteroid is about to destroy the
+                   planet, so there's no point to anything at all? ;
+    Brown Rabbit: No, it's something more than that. Like, do you
+                  ever get the impression that we're just two-
+                  dimensional snapshots of an indescribably
+                  more complex universe, completely divorced
+                  from larger currents in space and time? ;
+    Negligent Lop: Nope, that'd be out
+                   of character for me. ;
+    Negligent Lop hands Brown Rabbit a bottle. ;
+    Negligent Lop: Drink? ;
+revision: 173

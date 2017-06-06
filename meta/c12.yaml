@@ -1,0 +1,50 @@
+revision: 12
+globals:
+  last: c12
+includes:
+- from: c12.png
+  to: images/c12.png
+pages:
+- _id: c12
+  _path: 12.html
+  _template: page.html
+  name: Attack Outline
+  datetime: 2009-12-14 05:00:00
+  src: images/c12.png
+  alt: Go Bears!
+  prev: c11
+  next: c13
+  description: Law school outlines meets football.
+  disqus_url: http://share.tortbunnies.com/12.html
+  height: 1860
+  width: 800
+  transcript: |
+    This is a tricky transcript to do. It's just a football play
+    diagram with Xs and Os that diagrams an attack on a
+    Contracts problem. ;
+    Unlike most of my comics, you have to read this bottom up.
+    Or you could start at the top and do damages first like my
+    professor does. But I'm starting at the bottom. ;
+    Center snaps back to Quarterback (QB). ;
+    QB initiates the Annexation of Puerto Rico / a Fumblerooski. ;
+    Right Tackle (RT) runs back and picks up the ball and runs along the left. ;
+    Parol Evidence is running up along the left. ;
+    The Consideration Doctrine tries to go after the RT,
+    but he's blocked by Promissory Estoppel. ;
+    RT laterals the ball (the Offer) before he's hit by Revocation. ;
+    The ball is caught by the Fullback (FB) (the Acceptance). ;
+    FB runs into the Battle of the Forms. He is joined by
+    Conflicting Terms and Subsequent Performance from the other team. ;
+    At the end of the Battle of the Forms flowchart, the ball is lateraled. ;
+    The QB doubles back after bumping into the Stanford band
+    and catches it (Breach). ;
+    The QB runs up to the left and laterals it before hitting the
+    Forseeability Doctrine. ;
+    The ball is caught by a Wide Receiver (WR) (Expectation Damages). ;
+    Restitution Damages blocks the Avoidability Doctrine. ;
+    Reliance Damages blocks the the Certainty Doctrine. ;
+    WR runs through the Stanford Band. ;
+    TOUCHDOWN! ;
+  notes: |
+    <p><b><date></b>. I tried to pretend that when I was making this, I was studying for my exam tomorrow. Anyhow, this is an "attack outline" for Contracts. Although chronologically, you should read this from bottom to top, you could also start at the top and do damages first if you want. <a href="http://www.amazon.com/dp/0735563462">My contracts book does</a>.</p>
+    <p>Also, see <a href="http://en.wikipedia.org/wiki/The_Play">the Play</a> for <a href="http://www.youtube.com/watch?v=BYROBfMPCso">the Stanford Band reference</a>.</p>

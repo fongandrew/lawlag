@@ -1,0 +1,39 @@
+globals:
+  last: c114
+includes:
+- from: c114.png
+  to: images/c114.png
+- from: t114.png
+  to: images/t114.png
+pages:
+- _id: c114
+  _path: 114.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c113
+  next: c115
+  datetime: 2011-08-08 05:00:00
+  src: images/c114.png
+  thumbnail: images/t114.png
+  width: 900
+  height: 340
+  name: Accents
+  facebook: 1
+  description: Lucy plays the diversity card during interviews.
+  alt: If I ever get my own law firm, I'm adding an umlaut to the name just to mess with interviewees.
+  notes: |
+    <p><b><date></b>. Here's looking at you, <a href="http://www.kmob.com/">Kenobi Martens</a>. And oh hey, here's <a href="http://www.law.georgetown.edu/career/pronunciations/">a law firm pronunication guide</a> from Georgetown! Thanks Georgetown!</p>
+  transcript: |
+    Hiring Partner (off-panel): So Ms. Usagi, why do you
+                                want to work at our firm? ;
+    Lucy Usagi: Oh, lots of reasons! ;
+    -----
+    Lucy Usagi: But a big part of why I want
+                to work at Poop-on-a-stick is
+                its commitment to diversity. ;
+    -----
+    Hiring Partner (off-panel): The firm's name is not ... uh ...
+                                it's pronounced Puponastich. ;
+    Lucy Usagi: Didn't I say that? Maybe
+                my accent's too diverse. ;
+revision: 114

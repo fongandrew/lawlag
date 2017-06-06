@@ -1,0 +1,59 @@
+globals:
+  last: c22
+includes:
+- from: c22.png
+  to: images/c22.png
+pages:
+- _id: c22
+  _path: 22.html
+  _template: page.html
+  prev: c21
+  next: c23
+  alt: "Also, this stream flows past a police station."
+  datetime: 2010-02-22 05:00:00
+  width: 900
+  height: 700
+  name: Message in a Bottle
+  notes: |
+    <p><b><date></b>. See <i><a href="http://en.wikipedia.org/wiki/Asahi_Metal_Industry_Co._v._Superior_Court">Asahi Metal Industry Co. v. Superior Court</a></i>, 480 U.S. 102 (1987), in which the Supreme Court ruled on whether mere knowledge by a foreign company that, by placing its products into the "stream of commerce", the product would reach California justified subjecting it to California&#39;s <a href="http://en.wikipedia.org/wiki/Personal_jurisdiction">personal jurisdiction</a>.</p>
+    <p>See also <a href="http://en.wikipedia.org/wiki/Proximate_cause">proximate cause</a> and <i><a href="http://en.wikipedia.org/wiki/The_Gods_Must_Be_Crazy">The Gods Must be Crazy</a></i>. An earlier version of this strip had this as the last panel:</p>
+    <p><b>Tort Bunny</b>: Good thing all of that is completely unforeseeable, right?<br /><b>Brown Rabbit</b>: Yup, completely unforeseeable.</p>
+    <p>Also, in case you&#39;re wondering, to my knowledge there is no tort for negligently altering the natural course of a people's cultural evolution. There is, however, <a href="http://en.wikipedia.org/wiki/Prime_Directive">the Prime Directive</a>.</p>
+  src: images/c22.png
+  description: Tort Bunny sends a message in a bottle down a stream.
+  transcript: |
+    Brown Rabbit: Wotcha up to? ;
+    Tort Bunny: Putting a message
+                into this bottle ;
+    -----
+    Tort Bunny places her message in a bottle and the bottle into a stream. ;
+    Tort Bunny: This stream flows into a river ;
+    Tort Bunny: That river into a sea ;
+    Tort Bunny: That sea into an ocean. ;
+    -----
+    Tort Bunny: Who knows what distant shores
+                that bottle may reach?
+    Brown Rabbit: Well, it could be discovered
+                  by indigenous peoples that
+                  have never had contact
+                  with other civilizations.
+    Brown Rabbit: And treat the bottle as
+                  a gift from the gods.
+    -----
+    Brown Rabbit: And then wage war with each other
+                  over who gets to own the bottle!
+    Brown Rabbit: Until they are stopped by a lawyer
+    Brown Rabbit: Who traces the bottle back to you
+    Brown Rabbit: And sues you for negligently
+                  altering the natural course of
+                  a people&#39;s cultural evolution! 
+    -----
+    Tort Bunny: Oh, huh.
+    -----
+    Tort Bunny: Good thing I used your
+                name and address then.
+    Brown Rabbit: Wait, wha-
+    Tort Bunny: The message is a murder
+                confession by the way.
+
+revision: 22

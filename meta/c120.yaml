@@ -1,0 +1,37 @@
+globals:
+  last: c120
+includes:
+- from: c120.png
+  to: images/c120.png
+- from: t120.png
+  to: images/t120.png
+pages:
+- _id: c120
+  _path: 120.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c119
+  next: c121
+  datetime: 2011-08-29 05:00:00
+  src: images/c120.png
+  thumbnail: images/t120.png
+  width: 900
+  height: 650
+  name: Assault
+  facebook: 1
+  description: Tort Bunny plays a game.
+  alt: Yes, the goose is Canadian. From Quebec actually.
+  notes: |
+    <p><b><date></b>. This one's been sitting around for two years or so in my head. Quick refresher: In tort law, <a href="http://en.wikipedia.org/wiki/Assault_(tort)">assault</a> is the act of making someone think you're going to harmfully or offensively touch them. <a href="http://en.wikipedia.org/wiki/Battery_(tort)">Battery</a> is the actual harmful or offensive touching.</p>
+  transcript: |
+    Tort Bunny: Assault! ;
+    Tort Bunny nearly hits a duck. ;
+    -----
+    Tort Bunny: Assault! ;
+    Tort Bunny nearly hits another duck. ;
+    -----
+    BATTERY! ;
+    Tort Bunny smacks a goose. ;
+    -----
+    The goose runs after Tort Bunny, doing its goose-chase thing. ;
+revision: 120

@@ -1,0 +1,46 @@
+﻿globals:
+  last: c61
+includes:
+- from: c61.png
+  to: images/c61.png
+pages:
+- _id: c61
+  _path: 61.html
+  _template: page.html
+  prev: c60
+  next: c62
+  datetime: 2010-11-08 05:00:00
+  src: images/c61.png
+  width: 900
+  height: 650
+  name: The Best Laid Plans of Writers and Rabbits
+  description: Brown Rabbit finishes a memo.
+  alt: Also, I jammed the printer. Would you mind fixing it?
+  notes: |
+    <p><b><date></b>. This is around the time of year when first-year law students have to turn in their Legal Research and Writing memos (and students in general have some sort of paper or writing assignment due). It strikes me as odd that law school is probably the one institution where you pay an arm and leg to learn how to write a memo.</p>
+    <p>Also, I just realized that whenever Brown Rabbit raises his arms like that, it's usually a good sign that things are about to go downhill.</p>
+  transcript: |
+    Brown Rabbit holds up his completed memo. ;
+    Brown Rabbit: There were moments when darkness
+                  threatened to drag me into the night,
+                  but through toil, tears, and caffeine,
+                  I have prevailed! Behold my memo! ;
+    -----
+    Brown Rabbit: And with twenty minutes to spare! ;
+    Brown Rabbit raises his arms in a victory pose. ;
+    -----
+    Tort Bunny: What's this? A memo? ;
+    -----
+    Tort Bunny: You're citing the wrong
+                reporter for this case. ;
+    Tort Bunny: Also, this should be active voice. ;
+    -----
+    Tort Bunny: Here, let me mark that
+                with my red pen so you
+                remember what to fix. ;
+    Tort Bunny draws a frowny-face on Brown Rabbit's memo. ;
+    -----
+    Brown Rabbit grabs his memo and runs off in terror. ;
+    Tort Bunny: Hope that helped! ;
+revision: 61
+

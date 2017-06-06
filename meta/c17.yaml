@@ -1,0 +1,49 @@
+globals:
+  last: c17
+includes:
+- from: c17.png
+  to: images/c17.png
+pages:
+- _id: c17
+  _path: 17.html
+  _template: page.html
+  prev: c16
+  next: c18
+  alt: Do you have a flag? No flag, no seat!
+  datetime: 2010-01-18 05:00:00
+  width: 900
+  height: 700
+  name: Seating Chart
+  description: Brown Rabbit and Negligent Lop both want the same seat.
+  notes: |
+    <p><b><date></b>. Real rabbits, i.e. rabbits of the non-polygonal non-tortious variety, mark their territories using more pungent means. However, the graphical depiction of scatological markers raises issues from both the perspective of good taste and my artistic capabilities, hence this lovely alternative. I can't say I succeeded though. Drawing a rabbit rubbing its rear end against a chair is hard.</p>
+    <p>Anyhow, with a new semester comes new seating arrangements. Berkeley Law uses an online seating chart, which, in practice, cries havoc and lets slip the squirrels of confusion. You can reserve your seat online, but it is no guarantee that when you show up to class, your seat has not been occupied by some conqueror from afar. Should you take arms against this sea of troubles, the response is usually a simple, "But someone else took my seat." The implication is that you should go challenge this third party over her seat, but this is a fool's errand, for that person may simply claim that she is a victim of a fourth party, and so on. I suspect this scenario is possible even without anyone lying, but that is a hypothetical for <i>mathematicians</i>.</p>
+    <p>In the midst of this confusion, the professor will most likely pass around a physical seating chart on which you can scribble your name. The class is confused however. Some will mark the seat they currently occupy. Others will mark the seat they think they should occupy. And then there are those who somehow mark a seat they have no basis whatsoever for holding. Disaster.</p>
+    <p>Anyhow, there are references. <a href="http://en.wikipedia.org/wiki/Bona_fide_purchaser">Bona fide purchaser</a>. And <a href="http://www.youtube.com/watch?v=UTduy7Qkvk8">Eddie Izzard</a>.</p>
+    <p>Thanks Kei.</p>
+  src: images/c17.png
+  transcript: |
+    Brown Rabbit: That's my seat. ;
+    Negligent Lop: It is not! I purchased it
+                   from Tort Bunny for
+                   fair consideration! ;
+    -----
+    Brown Rabbit: But you've had notice that this was my
+                  seat, right here on this eating chart. ;
+    Brown Rabbit: It's been online for days. ;
+    Brown Rabbit: You can't possibly be a bona fide purchaser. ;
+    Brown Rabbit points at a seating chart where one rabbit is
+    circled in dark red and has a "BROWN RABBIT" label. ;
+    -----
+    Negligent Lop: That may be so,
+                   but consider this. ;
+    Negligent Lop: I am not wearing pants. ;
+    -----
+    Negligent Lop rubs his butt on the seat. ;
+    RUB RUB RUB ;
+    He seems very intense while rubbing, perhaps even constipated. ;
+    -----
+    Negligent Lop: Also, last night, I--
+    Brown Rabbit: Gotcha. I'll be right
+                  over there.
+revision: 17

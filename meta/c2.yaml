@@ -1,0 +1,77 @@
+globals:
+  last: c2
+includes:
+- from: c2.png
+  to: images/c2.png
+pages:
+- _id: c2
+  _path: 2.html
+  _template: page.html
+  description: Negligent Lop goes flying. Brown Rabbit has a big egg. Tort Bunny plays with magnets.
+  alt: In which we establish that Negligent Lop is anemic
+  datetime: 2009-10-12 00:00:00
+  height: 1113
+  name: Res Ipsa Loquitur
+  next: c3
+  disqus_url: http://static.lawlag.com/2.html
+  notes: '<p><b><date></b>. See <a href="http://<domain>/cases/krebs_v_corrigan.html"><i>Krebs
+    v. Corrigan</i>, 321 A.2d 558 (D.C. 1974)</a>, in which the defendant flew three
+    feet off the ground and landed on the plaintiff''s plexiglass sculptures, destroying
+    them. The court held that "a person''s body usually is within his exclusive control"
+    and that under the doctrine of <i><a href="http://en.wikipedia.org/wiki/Res_ipsa_loquitur">res
+    ipsa loquitur</a></i>, the burden was on the defendant to explain why he was flying through the
+    air.</p>
+
+
+    <p>On a different note, I have been informed that it is highly implausible that
+    consumers of iron supplements will be attracted to large magnets. To that, I note
+    the laws of physics in the Tort Bunnies universe are subject to interpretation.</p>'
+  prev: c1
+  src: images/c2.png
+  transcript: 'Negligent Lop pops some pills from a bottle ;
+
+    -----
+
+    Negligent Lop begins to float and move. ;
+
+    Negligent Lop is confused. ;
+
+    -----
+
+    Brown Rabbit has an egg. ;
+
+    Brown Rabbit is happy. ;
+
+    -----
+
+    Negligent Lop accelerates. ;
+
+    Negligent Lop is alarmed and confused. ;
+
+    -----
+
+    Brown Rabbit is alarmed. ;
+
+    -----
+
+    Collision! ;
+
+    -----
+
+    Brown Rabbit''s egg is broken. ;
+
+    Brown Rabbit is angry. ;
+
+    Negligent Lop is upside down and mostly befuddled. ;
+
+    -----
+
+    Negligent Lop''s pill bottle is labeled "Iron Supplements." ;
+
+    -----
+
+    Tort Bunny is holding a large magnet. ;
+
+    '
+  width: 903
+revision: 2

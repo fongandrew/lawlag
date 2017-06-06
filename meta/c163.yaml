@@ -1,0 +1,42 @@
+globals:
+  last: c163
+includes:
+- from: c163.png
+  to: images/c163.png
+- from: t163.png
+  to: images/t163.png
+pages:
+- _id: c163
+  _path: 163.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c162
+  next: c164
+  datetime: 2012-06-11 05:00:00
+  src: images/c163.png
+  thumbnail: images/t163.png
+  width: 845
+  height: 660
+  name: Confrontation
+  facebook: 1
+  description: Superbunny on trial
+  alt: It's all fun and games unless the stimulated emission of photons from your eyeballs ignites organic manner.
+  notes: |
+    <p><b><date></b>. <a href="http://tortbunnies.com/132.html">Previously on Tort Bunnies.</a></p>
+    <p>The <a href="http://en.wikipedia.org/wiki/Sixth_Amendment_to_the_United_States_Constitution">6th Amendment</a> guarantees a criminal defendant the right "to confront the witnesses against him," which generally means the right to cross-examine the prosecution's witnesses.</p>
+    <p>Can using a laser against someone be battery? I think so. Battery requires "harmful contact." Direct contact isn't required. Indirect contact -- e.g. throwing a ball at someone -- is sufficient. Even fine <a href="http://scholar.google.com/scholar_case?case=13341405241248455408">particulate matter</a> -- e.g. smoke -- constitutes enough physical contact to be battery. Lasers emit <a href="http://en.wikipedia.org/wiki/Photon">photons</a>, which are particles<del> with mass</del> (also waves, but whatever). Therefore, you can commit battery by laser vision.</p>
+    <p><strong>Update</strong>: Or maybe not -- see Jamie's comment below.</p>
+  transcript: |
+    Judge (off-panel): Superbunny, you are charged with
+                       one count of battery by laser vision. ;
+    Superbunny: Ridiculous! I demand my constitutional
+                right to confront the witnesses against me. ;
+    -----
+    Brown Rabbit appears as the witness. ;
+    Superbunny lases Brown Rabbit with her eyeballs. ;
+    BATTERY? ;
+    -----
+    Brown Rabbit is on fire and runs out the door. ;
+    -----
+    Superbunny: No further questions, your honor. ;
+revision: 163

@@ -1,0 +1,60 @@
+globals:
+  last: c26
+includes:
+- from: c26.png
+  to: images/c26.png
+pages:
+- _id: c26
+  _path: 26.html
+  _template: page.html
+  prev: c25
+  next: c27
+  alt: "Couldn't think of a punch line, so I resort to Brown Rabbit scooting backwards."
+  datetime: 2010-03-22 05:00:00
+  width: 900
+  height: 700
+  name: Dudley and Stephens
+  notes: |
+    <p><b><date></b>. Yes, law school is just like middle school. Also, if you don't get the last three panels, see <i><a href="http://en.wikipedia.org/wiki/R_v_Dudley_and_Stephens">R. v. Dudley and Stephens</a></i>, [1884] 14 QBD 273 DC, in which defendant shipwrecked sailors were convicted of murder for killing and eating their cabin boy to stay alive. See also <a href="http://www.albinoblacksheep.com/text/bloodninja">"robe and wizard hat"</a> (warning: actual lewd language, not just innuendo).</p>
+    <p>Also, I don't remember exactly who asked for this comic, but well, you asked for it.</p>
+  src: images/c26.png
+  description: Tort Bunny fantasizes about cannibalizing cabin boys beneath a cabana.
+  transcript: |
+    Brown Rabbit: More legal history from the 1800s?
+                  Why do we have to learn this? ;
+    Tort Bunny: Well, I think it's because,
+                you know, the law grew
+                in fits and spurts. ;
+    -----
+    Tort Bunny: I mean, it's not like Lady Justice
+                laid down the law somewhere
+                and said, "Come and get it!" ;
+    Tort Bunny: There's a process, and you can't just
+                blow it off, because to understand
+                what lies in front of you, you must
+                know what stands behind you. ;
+    -----
+    Tort Bunny: Past, present, and future ;
+    Tort Bunny: The ménage à trois
+                of legal scholarship. ;
+    Tort Bunny: Yet the law is about more
+                than learned hands guiding
+                the thrust of history. ;
+    Tort Bunny: The rules that bind us today were
+                erected by real people pushing
+                against hard problems. ;
+    -----
+    Tort Bunny: To get a firm grasp on where these
+                folks were coming from, you have
+                to be up for a little role playing. ;
+    Tort Bunny: Put on your robe and wizard
+                hat and imagine what those
+                seamen felt, stranded at sea
+                with naught but a cabin boy! ;
+    -----
+    Tort Bunny: A strapping young lad of a cabin boy 
+                tanning beneath the summer sun. ;
+    -----
+    Tort Bunny: Mmmm ... cabin boy. ;
+    Brown Rabbit slowly backs away. ;
+revision: 26

@@ -1,0 +1,42 @@
+globals:
+  last: c172
+includes:
+- from: c172.png
+  to: images/c172.png
+- from: t172.png
+  to: images/t172.png
+pages:
+- _id: c172
+  _path: 172.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c171
+  next: c173
+  datetime: 2012-07-24 05:00:00
+  src: images/c172.png
+  thumbnail: images/t172.png
+  width: 845
+  height: 660
+  name: Barmageddon III
+  facebook: 1
+  continuation: c170
+  description: Day 1 of the Bar Exam
+  alt: Fuck it. We'll do it live.
+  notes: |
+    <p><b><date></b>. It's bar day! At this point, I'm half-expecting an essay question on balloon animals and pudding.</p>
+  transcript: |
+    Brown Rabbit and Negligent Lop show up to the bar exam with paper and laptop. ;
+    Brown Rabbit: Hey, you showed up to the bar exam! ;
+    Negligent Lop: Why wouldn't I? ;
+    -----
+    Brown Rabbit: Oh, what with our impending doom
+                  by asteroid and all, writing essays
+                  about wills and trusts seems an
+                  odd way to spend the end of days. ;
+    -----
+    Negligent Lop's jaw drops. ;
+    -----
+    Brown Rabbit: You do know about the aster-- ;
+    Negligent Lop: Wills and trusts are
+                   on the bar exam?!?! ;
+revision: 172

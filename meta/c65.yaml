@@ -1,0 +1,55 @@
+﻿globals:
+  last: c65
+includes:
+- from: c65.png
+  to: images/c65.png
+pages:
+- _id: c65
+  _path: 65.html
+  _template: page.html
+  prev: c64
+  next: c66
+  datetime: 2010-11-29 05:00:00
+  src: images/c65.png
+  width: 900
+  height: 650
+  name: A Stich in Time Saves An Outline
+  description: Brown Rabbit travels through time. Briefly.
+  alt: Closed loop or open?
+  notes: |
+    <p><b><date></b>. Hindsight is 20-20. And sometimes it hurts.</p>
+    <p>A note on terminology for non-law school people: "Gunner" is a term used to describe a hyper-competitive student.</p>
+    <p>Also, introducing time travel usually means something has jumped the shark. But the premise of Tort Bunnies was always weird, so I think we'll be fine.</p>
+  transcript: |
+    Lucy Usagi: Exams are coming up soon
+                but I'm worried my outline
+                is missing something. ;
+    Brown Rabbit: Don't be. ;
+    -----
+    Brown Rabbit: No outline is perfect. ;
+    Brown Rabbit: Just do your best and
+                  I'm sure you'll be-- ;
+    -----
+    A time portal opens up behind Brown Rabbit. ;
+    A future Brown Rabbit sticks his head out. ;
+    In the background, we see a future Tort Bunny. ;
+    Future Brown Rabbit: Brown Rabbit! ;
+    Future Brown Rabbit: I'm you! ;
+    Future Brown Rabbit: But from the future. ;
+    Future Brown Rabbit: And I bring a super
+                         important message. ;
+    -----
+    Future Brown Rabbit: It's imperative that
+                         your outline for-- ;
+    BLAM! ;
+    A bullet strikes Future Brown Rabbit in the forehead. ;
+    -----
+    Tort Bunny stands there holding a smoking gun, with a "oops" expression on her face. ;
+    Brown Rabbit stares. ;
+    Lucy Usagi runs away. ;
+    Future Brown Rabbits falls back into the portal. ;
+    -----
+    Tort Bunny: No gunners! ;
+    The portal closes. ;
+revision: 65
+

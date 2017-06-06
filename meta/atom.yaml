@@ -1,0 +1,5 @@
+revision: 1
+pages:
+- _id: atom
+  _path: atom.xml
+  _template: atom.xml

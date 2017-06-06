@@ -1,0 +1,55 @@
+globals:
+  last: c29
+includes:
+- from: c29.png
+  to: images/c29.png
+pages:
+- _id: c29
+  _path: 29.html
+  _template: page.html
+  prev: c28
+  next: c30
+  alt: "If you hold that bottle up to your ear, you can hear Negligent Lop's withered soul singing the blues."
+  datetime: 2010-04-12 05:00:00
+  width: 900
+  height: 700
+  name: Zeros (or is it Zeroes?)
+  notes: |
+    <p><b><date></b>. This weekend was admit weekend, when all of Boalt's newly admitted students, a/k/a admits, 0Ls, and Zeros, showed up to visit, and we current students did our best to convince them that if they <i>must</i> go to law school, Boalt was the least insane place to go. Some alcohol may have been necessary.</p>
+    <p>See <a href="http://en.wikipedia.org/wiki/Asbestos_and_the_law">asbestos litigation</a> and <a href="http://en.wikipedia.org/wiki/Estate_planning">estate planning</a>, especially if you like depressing material.</p>
+  src: images/c29.png
+  description: Tort Bunny and Negligent Lop welcome a 0L to law school.
+  transcript: |
+    Brown Rabbit: The newly admitted students are here! ;
+    Negligent Lop: Bright-eyed bushy-tailed idealists
+                   ready to change the world! ;
+    Brown Rabbit: Future advocates for
+                  the public interest! ;
+    Negligent Lop: Leaders and policymakers
+                   for the next generation! ;
+    -----
+    Brown Rabbit: Fragile little minds to warp and twist! ;
+    Negligent Lop: Plump juicy vessels of youthful
+                   energy with which to rejuvenate
+                   my withered soul! ;
+    -----
+    Brown Rabbit raises an eyebrow -- his left one. ;
+    Negligent Lop grins. ;
+    -----
+    A bushy-tailed admit pops up. ;
+    Brown Rabbit: Oh, hello. ;
+    Bouncy Bun-Bun: Hi! I'm an admit, and I'm
+                    hoping you could answer
+                    a question for me. ;
+    -----
+    Bouncy Bun-Bun: I need to get a firm job for my 1L
+                    summer to keep the interest on my
+                    undergrad loans from dessicating
+                    my financial corpse. ;
+    Bouncy Bun-Bun: Given the current economy,
+                    should I focus on asbestos
+                    litigation or estate planning? ;
+    -----
+    Negligent Lop leans in with a bottle in his paw. ;
+    Negligent Lop: Drink. Now. ;
+revision: 29

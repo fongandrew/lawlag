@@ -1,0 +1,67 @@
+globals:
+  last: c130
+includes:
+- from: c130.png
+  to: images/c130.png
+- from: t130.png
+  to: images/t130.png
+pages:
+- _id: c130
+  _path: 130.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c129
+  next: c131
+  datetime: 2011-10-31 05:00:00
+  src: images/c130.png
+  thumbnail: images/t130.png
+  width: 900
+  height: 660
+  name: Meow Meow Mafia
+  facebook: 1
+  description: Brown Rabbit rocks the some green eyeshade.
+  alt: Business Cat with a capital B, capital C
+  notes: |
+    <p><b><date></b>. <a href="http://www.taxalmanac.org/index.php/Internal_Revenue_Code:Sec._165._Losses">Section 165 of the U.S. Internal Revenue Code</a> allows taxpayers to claim a deduction for losses. Taxpayers may claim deductions for personal casualty losses, or "losses of property not connected with a trade or business or a transaction entered into for profit, if such losses arise from fire, storm, shipwreck, or other casualty, or from theft," only to the extent that such losses exceed $100 and 10% of the taxpayer's adjusted gross income.</p>
+    <p>No such restriction exists for business losses.</p>
+    <p>A note on cats: A professor I knew had several pet cats. I once asked him why he had so many cats. He responded, "Cats are evil and selfish. And I teach tax law."</p>
+    <p>Thanks to Ash for pointing me in the direction of <a href="http://www.quickmeme.com/Business-Cat/">the original Business Cat.</a></p>
+  transcript: |
+    Brown Rabbit dons a green eyeshade at the Law School Tax Clinic. ;
+    A dim yellow light is perched overhead. ;
+    Shadowy Character (off-panel): Mr. Rabbit? ;
+    Brown Rabbit: Yes? ;
+    -----
+    Two yellow eyes glow in the darkness of a doorframe. ;
+    Shadowy Figure: I have a tax issue arising from ...
+                    an associate of mine who recently
+                    sank to the bottom of the ocean. ;
+    Brown Rabbit (off-panel): I'm sorry to hear that. ;
+    Shadowy Figure: I'm not. ;
+    -----
+    Shadowy Figure (off-panel): She was a liar and a thief.
+                                She burglarized my home. ;
+    Shadowy Figure (off-panel): And she took the secret of
+                                where she hid her ill-gotten
+                                gains to her watery grave. ;
+    Cut to image of a bunny with concrete shoes swimming with the fishes. ;
+    -----
+    The figure hands over a Form 1040 for the couple of James Meowreth and Susan Gatto. ;
+    Their address is "Old Cardboard Box by the Fence, Unit 12, Bunkley, CA 94720". ;
+    Author's note: I was this close to making them reside in "Oh-hai-yo". ;
+    Shadowy Figure: So as it is, I wish to amend my tax
+                    return and deduct the $10,000 in
+                    stolen goods I will never recover. ;
+    Brown Rabbit (off-panel): Do you have any other losses? ;
+    Shadowy Figure: No. ;
+    -----
+    Brown Rabbit: You're out of luck then. Your
+                  adjusted gross income is more
+                  than $100,000, and you can only
+                  deduct a personal casualty loss-- ;
+    Shadowy Figure (off-panel): Personal? ;
+    -----
+    Shadowy Figure: It's never personal, Mr. Rabbit. ;
+    The shadowy figure steps into the light, revealing himself to be a cat with a yellow tie. ;
+    Shadowy Figure: I'm a Business Cat. ;
+revision: 130

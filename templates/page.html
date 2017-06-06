@@ -1,0 +1,158 @@
+{% extends "base.html" %}
+
+{% block meta %}
+{% if _pages[prev] %}<link rel="prev" href="https://{{ domain }}/{{ _pages[prev]._path }}" />{% endif %}
+{% if _pages[next] %}<link rel="next" href="https://{{ domain }}/{{ _pages[next]._path }}" />{% endif %}
+{% if _pages[first] %}<link rel="start" href="https://{{ domain }}/{{ _pages[first]._path }}" />{% endif %}
+{% if _pages[last] %}<link rel="new" href="https://{{ domain }}/{{ _pages[last]._path }}" />{% endif %}
+{% endblock %}
+
+{% block js_vars %}
+    if (!location.hostname) {
+    	var disqus_developer = 1;
+    	var disqus_url = 'localhost';
+    } else {
+        <!-- disqus_url http for legacy compat -->
+    	var disqus_url = '{% if disqus_url %}{{ disqus_url }}{% else %}http://{{ domain }}/{{ _path }}{% endif %}';
+		var disqus_title = '{{ title }} | {{ name }} | {{ datetime.strftime('%B %d, %Y') }}';
+    }
+{% endblock %}
+
+{% block startheader %}
+<a class="skip_link" href="#transcript" onclick="$('#transcript').attr('class', 'transcript');">Skip to Transcript for the Visually Impaired.</a>
+{% endblock %}
+
+{% macro startbox(id='', w=800, m='') %}
+<div id="{{ id }}" class="box" style="width: {{ w + 4 }}px;{% if m %} padding-top: {{ m }}px;{% endif %}"><a name="{{ id }}"></a>
+{% endmacro %}
+
+{% macro endbox() %}
+</div>
+{% endmacro %}
+
+{% macro subheading(heading) %}
+<div class="subheading">
+    <h2>{{ heading }}</h2>
+    <div class="subheading_nav">
+        {% if _pages[prev] %}
+            <a href="{{ _pages[first]._path }}" rel="start"><img alt="first button" title="First Comic" src="images/first.png" height="20" width="23" /></a>
+            <a href="{{ _pages[prev]._path }}" rel="prev"><img alt="back button" title="Previous Comic" src="images/prev.png" height="20" width="10" /></a>
+        {% else %}
+            <img alt="first button inactive" title="You're already at the beginning. You can't go further back." src="images/first_inactive.png" height="20" width="23" />
+            <img alt="back button inactive" title="You're at the beginning. You can't go further back." src="images/prev_inactive.png" height="20" width="10" />
+        {% endif %}
+        {% if _pages[next] %}
+            <a href="{{ _pages[next]._path }}" rel="next"><img title="Next Comic" alt="next button" src="images/next.png" height="20" width="10" /></a>
+            <a href="{{ _pages[last]._path }}" rel="new"><img title="Latest Comic" alt="last button" src="images/last.png" height="20" width="23" /></a>
+        {% else %}
+            <img title="You're at the end. You can't go further forward." alt="next button inactive" src="images/next_inactive.png" height="20" width="10" />
+            <img title="You're already at the end. You can't go further forward." alt="last button inactive" src="images/last_inactive.png" height="20" width="23" />
+        {% endif %}
+    </div>
+    <div style="clear:both;"></div>
+</div>
+{% endmacro %}
+
+{% block content %}
+{% if notice %}<div id="notice">
+    {{ notice|replace("<domain>", domain) }}
+</div>{% endif %}
+{{ startbox('comic', width, m=14) }}
+{{ subheading('Principal Case') }}
+<div class="content">
+    {% if continuation %}<div class="continuation">This comic is part of a series that <a href="{{ _pages[continuation]._path }}">starts here</a>.</div>{% endif %}
+    <img src="{{ src }}"
+       alt="{{ title }} comic strip"
+       longdesc="#transcript"
+       title="{{ alt }}"
+       width="{{ width }}"
+       height="{{ height }}" />
+    <a class="transcript_link" href="#transcript" onclick="$('#transcript').attr('class', 'transcript');">Transcript</a>
+</div>
+{{ endbox() }}
+
+{{ startbox('share', m=15) }}
+<table class="content" style="margin:0px auto;" cellspacing="0" cellpadding="0"><tr>
+    <td class="subheading"><h3>Share</h3></td>
+    <td class="sharing_links" style="padding-left:20px;">
+        <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="https://{{ domain }}/{{ _path }}" layout="button_count" show_faces="false" width="90h" font="tahoma"></fb:like>
+        <iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.html?via=tortbunny" style="width:110px; height:20px;"></iframe>
+        <g:plusone size="medium"></g:plusone>
+        <script src="https://www.stumbleupon.com/hostedbadge.php?s=2"></script>
+    </td><td class="sharing_links">
+        <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style">
+            <a style="padding:0px 20px 0px 20px;" class="addthis_button_email">&nbsp;E-mail</a>
+            <a style="padding-right: 20px;" href="https://www.addthis.com/bookmark.php?v=250&amp;username=fongandrew" class="addthis_button_compact">Other</a>
+        </div>
+        <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+        <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=fongandrew"></script>
+        <!-- AddThis Button END -->
+    </td>
+</tr></table>
+{{ endbox() }}
+
+{{ startbox('notes', m=15) }}
+{{ subheading('Notes') }}
+<div class="content">
+    {{ notes|replace("<domain>", domain)|replace("<date>", datetime.strftime('%B %d, %Y')) }}
+</div>
+{{ endbox() }}
+{{ startbox('comments') }}
+{{ subheading('Comments') }}
+<div class="content">
+    {% if facebook %}
+    <div id="fb_comments" style="width:485px; padding:10px 0px 10px 10px">
+        <div id="fb-root"></div><script src="https://connect.facebook.net/en_US/all.js#appId=183236351695966&amp;xfbml=1"></script><fb:comments href="https://{{ domain }}/{{ _path }}" migrated=1 numposts="5" width="485"></fb:comments>
+    </div>
+    {% else %}
+    <div id="disqus_thread" style="width: 475px; padding: 10px;"></div>
+    <script>
+        var disqus_config = function () {
+            this.page.url = disqus_url;
+            this.page.identifier = disqus_url;
+            this.page.title = disqus_title;
+        }
+        function loadDisqusComments() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://lawlag.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        }
+        loadDisqusComments();
+    </script>
+    <noscript>
+        Please enable JavaScript to view the
+        <a href="https://disqus.com/?ref_noscript">comments powered by Disqus</a>.
+    </noscript>
+    {% endif %}
+    <iframe id="like_box" src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTort-Bunnies%2F136515873026231&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=500" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:500px; padding: 10px 10px 10px 0px;" allowTransparency="true"></iframe>
+    <div style="clear:both"></div>
+</div>
+{{ endbox() }}
+
+{% endblock %}
+
+{% block endfooter %}
+    <!-- Transcript -->
+    <div class="transcript" id="transcript">
+      <h2>Transcript for the Visually Impaired, Robotically Thorough, and Generally Curious</h2>
+      <p class="transcript_title">{{ name }}</p>
+      <p>{{ transcript|replace(";","[[br]]")|e|replace("-----","End of panel.</p><p>")|replace("[[br]]","<br />") }}End of comic.</p>
+      <a href="#notes">Author's Notes</a>.
+        View other comics:
+        {% if _pages[prev] %}
+            <a href="{{ _pages[first]._path }}#transcript" rel="start">First</a>.
+            <a href="{{ _pages[prev]._path }}#transcript" rel="prev">Previous</a>.
+        {% endif %}
+        {% if _pages[next] %}
+            <a href="{{ _pages[next]._path }}#transcript" rel="next">Next</a>.
+            <a href="{{ _pages[last]._path }}#transcript" rel="new">Latest</a>.
+        {% endif %}
+    </div>
+    <script type="text/javascript"><!--
+        if (window.location.hash != '#transcript') {
+          $('#transcript').attr('class','transcript_hidden')
+        }
+      --></script>
+{% endblock %}

@@ -1,0 +1,63 @@
+﻿globals:
+  last: c71
+includes:
+- from: c71.png
+  to: images/c71.png
+pages:
+- _id: c71
+  _path: 71.html
+  _template: page.html
+  prev: c70
+  next: c72
+  datetime: 2010-12-23 05:00:00
+  src: images/c71.png
+  width: 900
+  height: 650
+  name: The Ghost of Law School Yet to Come
+  continuation: c67
+  description: Brown Rabbit's memo gets shot down.
+  alt: The janitor has a degree in engineering.
+  notes: |
+    <p><b><date></b>. The memo was about whether CarrotHouse owes a duty of care to patrons who spill hot coffee on themselves.</p>
+    <p>For those just joining us, this story arc <a href="http://<domain>/67.html">starts here</a>.</p>
+  transcript: |
+    Brown Rabbit and the Ghost of Law School Yet to Come walk towards a CarrotHouse restaurant. ;
+    Brown Rabbit: What now? Are we getting
+                  a snack? Can ghosts eat? ;
+    -----
+    Brown Rabbit: 'Cuz I'm really hung-- ;
+    Brown Rabbit sees that Brown Rabbit
+    Yet to Come is wearing a CarrotHouse
+    uniform, complete with demeaning cap,
+    standing behind the conuter. ;
+    Brown Rabbit Yet to Come: Ma'am, did you get my memo? ;
+    Manager (off-panel): Memo? ;
+    Brown Rabbit Yet to Come: That thing with all the ids? ;
+    -----
+    Manager (off-panel): Oh that thing. ;
+    Brown Rabbit Yet to Come: Yes, the duty of care-- ;
+    Manager (off-panel): Brown, the only duty you have
+                         is to deliver a jumbo-sized grilled
+                         carrot patty in under 45 seconds. ;
+    -----
+    We wee that the manager is Lucy Usagi,
+    also wearing a CarrotHouse uniform,
+    albeit without the demeaning cap. ;
+    Lucy Usagi Yet to Come: Look, I don't like you. And those big
+                            law firms must not like you either,
+                            or else you'd be working for them. ;
+    Lucy Usagi Yet to Come: Fortunately, you don't
+                            need an award-winning
+                            personality to work here. ;
+    -----
+    Lucy Usagi Yet to Come (off-panel): But if you keep this crap up,
+                                        you're gone. Understand? ;
+    Brown Rabbit Yet to Come: Yes Ma'am. ;
+    Lucy Usagi Yet to Come (off-panel): Oh, and one more thing. ;
+    -----
+    Lucy Usagi Yet to Come (off-panel): Drop the "esquire." 
+                                        Esquire is a magazine
+                                        with pretty ladies in it. ;
+    Lucy Usagi Yet to Come (off-panel): And you are no pretty lady. ;
+revision: 71
+

@@ -1,0 +1,44 @@
+globals:
+  last: c82
+includes:
+- from: c82.png
+  to: images/c82.png
+- from: t82.png
+  to: images/t82.png
+pages:
+- _id: c82
+  _path: 82.html
+  _template: page.html
+  prev: c81
+  next: c83
+  datetime: 2011-02-14 05:00:00
+  src: images/c82.png
+  thumbnail: images/t82.png
+  width: 900
+  height: 650
+  name: Less Than Three
+  facebook: 1
+  _post_to_facebook: Happy Valentine's Day
+  description: Brown Rabbit has a romantic moment with Tort Bunny.
+  alt: Leave the gun. Take my heart.
+  notes: |
+    <p><b><date></b>. Happy Valentine's Day!</p>
+  transcript: |
+    Brown Rabbit presents Tort Bunny with a heart-shaped box of chocolates. ;
+    Brown Rabbit: Tort Bunny, will you
+                  be my valentine? ;
+    -----
+    Brown Rabbit: I promise to love you
+                  forever and always. ;
+    -----
+    Tort Bunny: Including during exams? ;
+    Brown Rabbit: Some exceptions may apply. ;
+    -----
+    Tort Bunny pulls out a pistol. ;
+    -----
+    Tort Bunny shoots for the heart. ;
+    Brown Rabbit ducks. ;
+    BLAM! ;
+    -----
+    Tort Bunny: Thanks for the chocolate! ;
+revision: 82

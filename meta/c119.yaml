@@ -1,0 +1,41 @@
+globals:
+  last: c119
+includes:
+- from: c119.png
+  to: images/c119.png
+- from: t119.png
+  to: images/t119.png
+pages:
+- _id: c119
+  _path: 119.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c118
+  next: c120
+  datetime: 2011-08-26 05:00:00
+  src: images/c119.png
+  thumbnail: images/t119.png
+  width: 900
+  height: 340
+  name: 3L III
+  facebook: 1
+  description: Brown Rabbit gets some perspective.
+  alt: Tort Bunny worked plaintiff-side.
+  continuation: c117
+  notes: |
+    <p><b><date></b>. You should always assume that Tort Bunny is watching. Waiting.</p>
+  transcript: |
+    Negligent Lop: Okay, so assuming I pass
+                   my classes and my firm
+                   doesn't implode, I have-- ;
+    Brown Rabbit: Well, you still have
+                  to pass the bar. ;
+    -----
+    BATTERY! ;
+    Tort Bunny kicks Brown Rabbit in the nads.
+    -----
+    Negligent Lop: Thank you Tort Bunny. ;
+    Tort Bunny: You got an offer? ;
+    Negligent Lop: Um, yes. It-- ;
+    Tort Bunny: A**hole. ;
+revision: 119

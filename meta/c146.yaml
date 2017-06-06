@@ -1,0 +1,38 @@
+globals:
+  last: c146
+includes:
+- from: c146.png
+  to: images/c146.png
+- from: t146.png
+  to: images/t146.png
+pages:
+- _id: c146
+  _path: 146.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c145
+  next: c147
+  datetime: 2012-02-20 05:00:00
+  src: images/c146.png
+  thumbnail: images/t146.png
+  width: 900
+  height: 340
+  name: Monotony
+  facebook: 1
+  description: Brief writing is boring.
+  alt: Clippy then proceeds to mess up the formatting and gets Brown Rabbit sanctioned.
+  notes: |
+    <p><b><date></b>. I am both elated and terrified by <a href="http://www.nytimes.com/2011/03/05/science/05legal.html?pagewanted=all">legal technology</a>.</p>
+  transcript: |
+    Brown Rabbit is typing away late at night.
+    *tap tap tap* ;
+    -----
+    Clippy: It looks like you're writing
+            a brief. Would you like help?;
+    Clippy: Options:
+            Write my brief for me.
+            Bluebook and cite check.
+            Put me out of a job. ;
+    -----
+    Terrified stare.
+revision: 146

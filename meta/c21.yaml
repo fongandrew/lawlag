@@ -1,0 +1,45 @@
+globals:
+  last: c21
+includes:
+- from: c21.png
+  to: images/c21.png
+pages:
+- _id: c21
+  _path: 21.html
+  _template: page.html
+  prev: c20
+  next: c22
+  alt: "Don&#39;t cross the streams!"
+  datetime: 2010-02-15 05:00:00
+  width: 900
+  height: 700
+  name: Duel
+  notes: |
+    <p><b><date></b>. See <a href="http://en.wikipedia.org/wiki/Statutory_interpretation#Canons">canons of statutory interpretation</a>, random Latin phrases through which we derive <i>the truth</i>.  The maxim of <i>noscitur a sociis</i> ("it is known from its associates") tells us to interpret an ambiguous word from other words around it within the statute. <i>In pari materia</i> ("upon the same matter or subject"), despite its similarity however, dictates we look outside the statute at other statutes on the same subject matter. The two do not necessarily conflict, but there is, however, <i>potential</i> for clash.</p>
+    <p>Also, see <a href="http://www.youtube.com/watch?v=d3DPUywYTt0#t=57">Harry Potter</a><!-- <a href="http://www.youtube.com/watch?v=8jJ2WnRjzWs#t=58">Ghostbusters</a> -->.</p>
+  src: images/c21.png
+  description: Tort Bunny engages Brown Rabbit in a battle of wands and words.
+  transcript: |
+    Tort Bunny bows, her paws clasped together and
+    a mildly malevolent smile upon her face.;
+    Tort Bunny: Brown Rabbit. ;
+    -----
+    Brown Rabbit bows, his eyes closed and facial expression nondescript. ;
+    Brown Rabbit: Tort Bunny. ;
+    -----
+    Tort Bunny glares. ;
+    Tort Bunny: Shall we?
+    -----
+    Brown Rabbit: Your move.
+    -----
+    The two rabbits whip out wands. ;
+    Tort Bunny leaps forward. Brown Rabbit jumps back. ;
+    Tort Bunny: Noscitur a Sociis! ;
+    Brown Rabbit: In Pari Materia! ;
+    Red light leaps from her wand, blue light from his. ;
+    The two streams connect in the middle,
+    forming a glowing yellow orb
+    around which hot black smoke
+    and icy white clouds hiss and swirl. ;
+
+revision: 21

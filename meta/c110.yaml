@@ -1,0 +1,42 @@
+globals:
+  last: c110
+includes:
+- from: c110.png
+  to: images/c110.png
+- from: t110.png
+  to: images/t110.png
+pages:
+- _id: c110
+  _path: 110.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c109
+  next: c111
+  datetime: 2011-07-22 05:00:00
+  src: images/c110.png
+  thumbnail: images/t110.png
+  width: 900
+  height: 340
+  name: Did You Get the Memo?
+  facebook: 1
+  description: Brown Rabbit tries to leave for the weekend.
+  alt: But they do wear ties.
+  notes: |
+    <p><b><date></b>. My office's policy is that every day is casual Friday. Casual may or may not include spandex.</p>
+    <p><a href="http://tortbunnies.com/17.html">Pants.</a></p>
+  transcript: |
+    Brown Rabbit (thinking): It's Friday, Friday!
+                             Gotta get down -- ;
+    Mr. Lop (off-panel): Mr. Rabbit! Hold up,
+                         I want to talk to you. ;
+    -----
+    Brown Rabbit: Can I help you, sir? ;
+    Mr. Lop: Yeaaah, I'm gonna need you to
+             come in on Saturday. We just-- ;
+    Mr. Lop: What in blazes are you wearing? ;
+    -----
+    Brown Rabbit: Jeans, sir. It's
+                  casual Friday. ;
+    Mr. Lop: Son, we're rabbits.
+             We don't wear pants. ;
+revision: 110

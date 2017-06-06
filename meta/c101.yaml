@@ -1,0 +1,42 @@
+globals:
+  last: c101
+includes:
+- from: c101.png
+  to: images/c101.png
+- from: t101.png
+  to: images/t101.png
+pages:
+- _id: c101
+  _path: 101.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c100
+  next: c102
+  datetime: 2011-05-30 05:00:00
+  src: images/c101.png
+  thumbnail: images/t101.png
+  width: 900
+  height: 650
+  name: Floodgates
+  facebook: 1
+  description: Tort Bunny literally uses the word literally.
+  alt: Too soon? Wait until next week's comic about tornados.
+  notes: |
+    <p><b><date></b>. My condolences to those affected by <a href="http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami">recent</a> <a href="http://today.msnbc.msn.com/id/43164306/ns/weather/">events</a> -- but I couldn't resist pointing out a <a href="http://articles.cnn.com/2011-05-01/us/missouri.levee.breach.archive_1_levee-missouri-farmland-missouri-gov?_s=PM:US">court literally opening the floodgates</a>, as opposed to <a href="http://www2.law.ucla.edu/volokh/slippery.htm">metaphorically</a>.</p>
+    <p>On a different note -- I'm screen-printing some Tort Bunnies shirts! Or rather, the "I am not a duck" shirts. If you've poked around in <a href="http://zazzle.com/tortbunnies*)">the official Tort Bunnies store</a>, you might have noticed that the shirts are a bit pricey, especially for the higher quality options. In order to drop the cost, I'm going to screen print a bunch of the "This is not a duck" shirts in bulk. <a href="https://spreadsheets.google.com/spreadsheet/viewform?formkey=dG5UMTlfRGp3WmxuWF9DT1p1M0ZpalE6MQ">See here for details.</a></p>
+  transcript: |
+    Tort Bunny: Your honor, denying the injunction
+                will  open the floodgates to all sor-- ;
+    Evil Sammich Judge (off-panel): I don't have time for your slippery
+                                    slope arguments, Ms. Bunny. ;
+    -----
+    Tort Bunny: But your honor, this
+                ruling would literally-- ;
+    Evil Sammich Judge: You'll need to do better than
+                        that counsel. Motion denied. ;
+    -----
+    Caption: Creakkkk .... ; 
+    Caption: Rumble .... ;
+    -----
+    A great wave rushes through the courtroom. ;
+revision: 101

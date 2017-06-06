@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="https://tortbunnies.com/style.css" ?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ title }}</title>
+	<subtitle>A webcomic about the law and lagomorphs (and occasionally a duck). Updated Mondays + whenever.</subtitle>
+	<link href="https://{{ domain }}/atom.xml" rel="self" />
+	<link href="https://{{ domain }}/index.html" rel="alternate" />
+	<id>http://tortbunnies.com/</id>
+	<updated>{{ _now.strftime('%Y-%m-%dT%H:%M:%SZ') }}</updated>
+	<author>
+		<name>Andrew Fong</name>
+		<email>andrew@tortbunnies.com</email>
+		<uri>http://andrewfong.com</uri>
+	</author>
+	{% for entry in _pages_list[-1:-6:-1] %}
+	<entry>
+		<title>{{ entry.name }}</title>
+		<id>http://tortbunnies.com/{{ entry._path }}</id>
+		<link rel="alternate" href="https://{{ domain }}/{{ entry._path }}" />
+		<updated>{% if entry.updated %}{{ entry.updated.strftime('%Y-%m-%dT%H:%M:%SZ') }}{% else %}{{ entry.datetime.strftime('%Y-%m-%dT%H:%M:%SZ') }}{% endif %}</updated>
+		<summary>{{ entry.description }}</summary>
+		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">
+      <a href="https://{{ domain }}/{{ entry._path }}"><img src="https://{{ domain }}/{{ entry.src }}"
+           alt="{{ title }} comic strip. Link to transcript follows this image."
+           longdesc="http://{{ domain }}/{{ entry._path }}#transcript"
+           title="{{ entry.alt }}"
+           width="{{ entry.width }}"
+           height="{{ entry.height }}" /></a><a href="https://{{ domain }}/{{ entry._path }}#transcript">Transcript for the visually impaired</a>.
+      <br /><br />
+      {% if notice %}{{ notice|replace("<domain>", domain) }}{% endif %}<br /><br />
+      {{ entry.notes|replace("<domain>", domain)|replace("<date>", entry.datetime.strftime('%B %d, %Y')) }}
+    </div></content>
+	</entry>
+	{% endfor %}
+</feed>

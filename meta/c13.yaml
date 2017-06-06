@@ -1,0 +1,49 @@
+revision: 13
+globals:
+  last: c13
+includes:
+- from: c13.png
+  to: images/c13.png
+pages:
+  - _id: c13
+    _path: 13.html
+    _template: page.html
+    name: Falling
+    datetime: 2009-12-21 05:00:00
+    src: images/c13.png
+    alt: Santa Clause is a legal fiction.
+    prev: c12
+    next: c14
+    disqus_url: http://share.tortbunnies.com/13.html
+    description: Brown Rabbit's lyrical drop from a very tall place
+    height: 700
+    width: 900
+    transcript: |
+      Tort Bunny kicks Brown Rabbit off a building. ;
+      -----
+      Brown Rabbit: Peril! Help help, I am in need!
+                    To superheroes I do plead! ;
+      -----
+      Brown Rabbit: Hurray, salvation I do see! ;
+      Superbunny appears, looking suspiciously like Tort Bunny. ;
+      Superbunny: 'Tis true should you
+                  contract with me. ;
+      -----
+      Brown Rabbit: A contract? Surely you must jest,
+                    because clearly this is duress. ;
+      Superbunny: There is no threat to worsen
+                  what otherwise would have been. ;
+      -----
+      Superbunny: I have no duty to rescue,
+                  so a bargain must be made.
+                  Convey to me Blackacre,
+                  if today your life I save. ;
+      -----
+      Brown Rabbit: Fine, fine, I shall agree.
+                    Now will you please rescue me? ;
+      Superbunny: I'm afraid I can't. Despite my diction,
+                  I'm nothing more than legal fiction. ;
+      Superbunny vanishes in a puff of smoke. Poof!
+    notes: |
+      <p><b><date></b>. Poetry in motion. Not entirely sure what's going on with the rotation here. Anyhow, see <a href="http://en.wikipedia.org/wiki/Duty_to_rescue">duty to rescue</a>, <a href="http://en.wikipedia.org/wiki/Duress">duress</a>, and <a href="http://en.wikipedia.org/wiki/Legal_fiction">legal fiction</a>. Happy holidays all!</p>
+      <p>Also, a note to those subscribing by e-mail or feed: I made a mistake with the feed IDs, so apologies if you get some comics delivered twice this week. It should be a one (maybe two) time thing.</p>

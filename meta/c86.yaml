@@ -1,0 +1,54 @@
+globals:
+  last: c86
+includes:
+- from: c86.png
+  to: images/c86.png
+- from: t86.png
+  to: images/t86.png
+pages:
+- _id: c86
+  _path: 86.html
+  _template: page.html
+  _post_to_facebook: Anything is possible when your candidate is Negligent Lop.
+  prev: c85
+  next: c87
+  datetime: 2011-03-14 05:00:00
+  src: images/c86.png
+  thumbnail: images/t86.png
+  width: 900
+  height: 650
+  name: Elections
+  facebook: 1
+  description: Brown Rabbit is thwarted.
+  alt: I know who I want to take me home.
+  notes: |
+    <p><b><date></b>. Yup, it's about that time of the year again, when half the school starts asking the other half for votes. The first person to run on a campaign slogan of "I poop rainbows" and send me proof gets a free Tort Bunnies t-shirt.</p>
+    <p>Speaking of voting, my friend <a href="http://www.dashkwiatkowski.com/">Dash</a> is representing Cal in the National College Comedy Competition. <a href="http://www.rooftopcomedy.com/college/standup/schools/Cal">Go vote for him this Thursday!</a> A vote for Dash Kwiatkowski is a vote for freedom. And unicorns.</p>
+    <p>Oh, and a shout-out to Jonas, Mike, and just about everyone else in <a href="http://btlj.org">BTLJ</a>.</p>
+  transcript: |
+    Brown Rabbit: Hey Tort Bunny! I'm running for
+                  Editor-in-Chief of the Law Review!
+                  I'm super qualified and consider
+                  you a friend! Please vote for me! ;
+    -----
+    Negligent Lop: Hey Tort Bunny! I'm running for
+                   Editor-in-Chief of the Law Review!
+                   I'm super qualified and consider
+                   you a friend! Please vote for me! ;
+    -----
+    Negligent Lop: Also, I'm on a unicorn. ;
+    Negligent Lop is indeed sitting, sidesaddle, on top of a unicorn. ;
+    The Unicorn: Hi! I'm Mr. Sparkles! ;
+    -----
+    Tort Bunny and Mr. Sparkles exchange a long, meaningful look. ;
+    -----
+    Tort Bunny turns back to Brown Rabbit. ;
+    Tort Bunny: So ... are you running
+                for anything else? ;
+    Brown Rabbit: Uh, I'm also run-- ;
+    Mr. Sparkles (off-panel): I'm running for King of
+                              the Fair Use Mountain! ;
+    -----
+    Mr. Sparkles: And I poop rainbows! ;
+    Mr. Sparkles poops a rainbow. ;
+revision: 86

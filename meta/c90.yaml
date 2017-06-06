@@ -1,0 +1,59 @@
+globals:
+  last: c90
+includes:
+- from: c90.png
+  to: images/c90.png
+- from: t90.png
+  to: images/t90.png
+pages:
+- _id: c90
+  _path: 90.html
+  _template: page.html
+  _post_to_facebook: GVDL DTBJ NI DTBJHSX GVDL!!!! ASDF ASDF ASDF!!!!
+  prev: c89
+  next: c91
+  datetime: 2011-04-11 05:00:00
+  src: images/c90.png
+  thumbnail: images/t90.png
+  width: 900
+  height: 650
+  name: May It Please the Court
+  facebook: 1
+  description: AASDFASDFWAGa DSFDAFGAWE ads;; ^FfadsfeufAWE FSAD!!!!
+  alt: This is a defamation case over whether Chubby Bunny is, in fact, chubby, or merely very fluffy.
+  notes: |
+    <p><b><date></b>. My standard oral argument introduction goes something like this:</p>
+    <p>"Good morning your honors, and may it please the Court. My name is Andrew Fong, and I represent the petitioners in this case. I'd like to reserve five minutes for rebuttal. This case can be summed up in one word: Cheetos. Thank you your honors. I'd like to sit down now."</p>
+  transcript: |
+    Tort Bunny (thinking): Okay, Tortious. You can do this. ;
+    Tort Bunny (thinking): Eye of the tiger. Eye of the--. ;
+    Evil Sammich Judge (off-panel): Counsel? ;
+    -----
+    Evil Sammich Judge: We're waiting. ;
+    Tort Bunny (off-panel): Yes, your highness.
+                            I mean, your honor. ;
+    -----
+    Tort Bunny: Good evening. ;
+    Evil Sammich Judge (off-panel): It's 10 in the morning. ;
+    Tort Bunny: I mean good afternoon, and
+                may it lead you to a horse. ;
+    -----
+    Tort Bunny: I mean, may I please some whores! ;
+    Tort Bunny: No, court! Court! May it please the
+                tort! My name is Courteous Bunny,
+                and I -- Tortious! I am not courteous. ;
+    -----
+    Tort Bunny: I mean I am courteous, except -- I'm
+                sorry, I'm Tortious! But my name is who
+                my name is what I'm trying to get across
+                my three points this afternoon morning
+                before my prima facie case is I'd like
+                to reserve five minutes for a Red Bull. ;
+    Tort Bunny: My name is Tortious Rabbit,
+                and may I pee in my shorts. ;
+    -----
+    Tort Bunny: I mean Bunny! Like Chubby Bunny.  ;
+    Evil Sammich Judge (off-panel): Counsel, why-- ;
+    Tort Bunny: CHUBBY BUNNY IS A FLUFFY BUNNY!
+                CHUBBAY BUNNAY! CHUHA BWUHAY! ;
+revision: 90

@@ -1,0 +1,57 @@
+globals:
+  last: c81
+includes:
+- from: c81.png
+  to: images/c81.png
+- from: t81.png
+  to: images/t81.png
+pages:
+- _id: c81
+  _path: 81.html
+  _template: page.html
+  prev: c80
+  next: c82
+  datetime: 2011-02-07 05:00:00
+  src: images/c81.png
+  thumbnail: images/t81.png
+  width: 900
+  height: 650
+  name: Disparate
+  facebook: 1
+  description: Tort Bunny handles law school admissions.
+  alt: In other news, there's nothing necessarily wrong with ending a sentence with a proposition.
+  notes: |
+    <p><b><date></b>. Some stuff:</p>
+    <p>Berkeley Law lets 2Ls and 3Ls participate in the <a href="http://www.law.berkeley.edu/46.htm">admissions process</a>. This week's comic notwithstanding, it generally helps applicants who have marginal grades and test scores but can tell a compelling story about how they would contribute to the law school community. So if that describes you (and you actually want to go to law school), I encourage you to apply to Berkeley!</p>
+    <p>A <a href="http://en.wikipedia.org/wiki/Comma_splice">comma splice</a> is "the use of a comma to join two independent clauses where the clauses are not connected by a conjunction, semicolon, or period", this grammatically incorrect sentence is an example of that.</p>
+    <p>While U.S. law generally frowns on policies explicitly discriminating on the basis of race or national origin, it's much more ambivalent about policies that have a <a href="http://en.wikipedia.org/wiki/Disparate_Impact">disparate or adverse impact on racial or national origin groups</a>. For example, suppose an employer required that each of its employees spoke English. The policy does not explicitly discriminate against any particular group, but it would likely disproportionately affect immigrants. Legal questions aside, should we care? How should the intent of the employer or the duties of employee factor in here, if at all? What about a policy that required its employees to speak English "fluently" or "write in English without making significant grammatical mistakes"?</p>
+    <p>One thing I'd like to note is that in the context of something like law school admissions, the number of applicants generally exceed the number of available spots to such an extent that admission officers feel like they have no choice but to rely on critieria that appear arbitrary and capricious.</p>
+    <p>See Title VI and Title VII of the <a href="http://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964">Civil Rights Act of 1964</a>, <a href="http://en.wikipedia.org/wiki/Parents_Involved_in_Community_Schools_v._Seattle_School_District_No._1"><i>Parents Involved in Community Schools v. Seattle School District No. 1</i></a>, <a href="http://en.wikipedia.org/wiki/Ricci_v._DeStefano"><i>Ricci v. DeStefano</i></a>, and <a href="http://en.wikipedia.org/wiki/Alexander_v._Sandoval"><i>Alexander v. Sandoval</i></a>.</p>
+  transcript: |
+    Tort Bunny is reviewing stacks of paper and folders. ;
+    Brown Rabbit: Hey, wotcha workin on? ;
+    Tort Bunny: Professor Cottontail asked me
+                to help him sort through these
+                law school applications. ;
+    -----
+    Tort Bunny: Ugh, this is crap. ;
+    Tort Bunny throws an application at Brown Rabbit. ;
+    BATTERY! ;
+    -----
+    Brown Rabbit: What's wrong with this app? ;
+    Tort Bunny: Grammar mistake. 
+                Essay. Second page. ;
+    -----
+    Brown Rabbit: Really? ;
+    Tort Bunny: What? ;
+    -----
+    Brown Rabbit raises an eyebrow. ;
+    Brown Rabbit: Don't you think that a grammatical
+                  litmus test could adversely impact
+                  applicants from certain ethnic and
+                  socioeconomic backgrounds? ;
+    Tort Bunny: Uh, comma splice? No. ;
+    -----
+    Tort Bunny: Also, this guy reminds me of my ex. ;
+    Brown Rabbit: Ah. ;
+revision: 81

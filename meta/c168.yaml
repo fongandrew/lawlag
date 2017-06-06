@@ -1,0 +1,44 @@
+globals:
+  last: c168
+includes:
+- from: c168.png
+  to: images/c168.png
+- from: t168.png
+  to: images/t168.png
+pages:
+- _id: c168
+  _path: 168.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c167
+  next: c169
+  datetime: 2012-07-09 05:00:00
+  src: images/c168.png
+  thumbnail: images/t168.png
+  width: 845
+  height: 660
+  name: Real Pooperty
+  facebook: 1
+  description: Negligent Lop visits Brown Rabbit's home.
+  alt: He's going to be pooping for a long time.
+  notes: |
+    <p><b><date></b>. <a href="http://en.wikipedia.org/wiki/Adverse_possession">Adverse possession</a> is one of the few legal doctrines that basically encourages you to be a dick. Among the many requirements for adverse possession to take effect, Negligent Lop must possess Brown Rabbit's home in a manner that is hostile to Brown Rabbit's rights.</p>
+    <p>Also, Negligent Lop must possess Brown Rabbit's home in a manner that excludes Brown Rabbit and others. Otherwise, the most his continuous pooping will amount to is a <a href="http://en.wikipedia.org/wiki/Easement#Easement_by_prescription">prescriptive easement</a> in <a href="http://en.wikipedia.org/wiki/Easement#Appurtenant_and_in_gross_easements">gross</a>.</p>
+  transcript: |
+    Negligent Lop enters Brown Rabbit's house. ;
+    Negligent Lop: Take notice owner! I am
+                   adversely possessing
+                   your real property! ;
+    -----
+    Brown Rabbit: No you're not. I gave you
+                  permission to come in. ;
+    -----
+    Negligent Lop: Oh, well, can you revoke my permission? ;
+    Brown Rabbit: Um ... no. ;
+    -----
+    Negligent Lop: Very well then, I'll go
+                   poop in that corner now. ;
+    Brown Rabbit: Get out! Get out! ;
+    Negligent Lop: No, you get out.
+                   My poop, my house. ;
+revision: 168

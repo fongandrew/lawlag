@@ -1,0 +1,53 @@
+globals:
+  last: c171
+includes:
+- from: c171.png
+  to: images/c171.png
+- from: t171.png
+  to: images/t171.png
+pages:
+- _id: c171
+  _path: 171.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c170
+  next: c172
+  datetime: 2012-07-23 05:00:00
+  src: images/c171.png
+  thumbnail: images/t171.png
+  width: 845
+  height: 660
+  name: Barmageddon II
+  facebook: 1
+  continuation: c170
+  description: Congress deliberates on how to handle an asteroid.
+  alt: Congress couldn't agree whether to whether to raise taxes, cut Medicare, or sacrifice puppies to the dark god Cthulhu, eater of worlds.
+  notes: |
+    <p><b><date></b>. The backup plan is to send Robert Duvall.</p>
+  transcript: |
+    François le Duc and Tort Bunny are watching television in a bar. ;
+    Connie Coneja (TV): A plan to send Bruce Willis to blow up
+                        the asteroid fell apart as Congress
+                        bickered over how to pay for it. ;
+    Connie Coneja (TV): We go live to Congress
+                        as they explain Plan B. ;
+    -----
+    Cut to shot of the Bunny News Service (BNS). ;
+    Congressrabbit McDickerson: I'm disappointed the Willis plan fell through. ;
+    Congressrabbit McDickerson: But I think we've made some
+                                great progress in other areas. ;
+    Ticker: MCDICKERSON: NOT MY
+            FAULT. BLAME CANADA. ;
+    Ticker: RXI stock has dropped 314.2 points. ;
+    Ticker: HOLLYWOOD: BRUCE WILLIS MISSION INFRINGES COPYRIGHT, SHOULD BE ENJOINED TO PREVENT IRREPARABLE HARM. ;
+    -----
+    Congressrabbit McDickerson (TV): For example, we've worked out a
+                                     deal on how to collect on student
+                                     loan debt after the asteroid hits. ;
+    Congressrabbit McDickerson (TV): I'm pleased to say it was a
+                                     very bipartisan process. ;
+    -----
+    François le Duc: I don't have any student debt,
+                     because in my country, the-- ;
+    Tort Bunny: Oh shut up. ;
+revision: 171

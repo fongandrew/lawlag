@@ -1,0 +1,52 @@
+globals:
+  last: c175
+includes:
+- from: c175.png
+  to: images/c175.png
+- from: t175.png
+  to: images/t175.png
+pages:
+- _id: c175
+  _path: 175.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c174
+  next: c176
+  datetime: 2012-07-27 05:00:00
+  src: images/c175.png
+  thumbnail: images/t175.png
+  width: 900
+  height: 1580
+  continuation: c170
+  name: Barmageddon VI
+  facebook: 1
+  description: Superbunny saves the day!
+  alt: TRANSFERRED INTENT!
+  notes: |
+    <p><b><date></b>.
+      Brown Rabbit needs a vacation, and I need one too.
+      You may have noticed the subheading on the site has been changed from "Updated Mondays + Whenever" to just "Updated Whenever". That's intentional.
+      <a href="http://<domain>/160.html">As I mentioned earlier</a>, I'd keep this going until the bar. And now that I'm done with the bar (hopefully), I think it's time to take a break. I may update from time to time, but it probably won't be that frequently from now on. I am interested in posting guest comics though. I haven't fully thought guest-posting through, but let me know if you're interested in drawing (or copy-pasting) your own Tort Bunnies. My contact info is in the homepage footer.
+    </p><p>
+      Once again, thanks for reading folks. It's been fun, but I think it's time for me to take a jaunt along the edges of an undiscovered country. Good luck everyone.
+    </p>
+  transcript: |
+    Superbunny streaks towards a flaming orage, red, and yellow asteroid. ;
+    -----
+    NOT BATTERY! ;
+    A tiny white spark on the surface of the asteroid. ;
+    -----
+    Massive explosion, complete with fragments of the asteroid bursting forth
+    from the center faster than an unrealistic vertical Death Star / Praxis ring. ;
+    -----
+    The assembled crowd from the previous strip cheers. ;
+    -----
+    As a bright light approaches, the cheers turn to panic as folks disperse. ;
+    -----
+    A streak of white, orange, and pink strikes Brown RAbbit. ;
+    BATTERY! ;
+    -----
+    Superbunny and Brown Rabbit crawl forth from the smoking hole in the ground, as François le Duc and Negligent Lop look on. ;
+    Tort Bunny (as Superbunny): My bad. I was aiming for the duck. ;
+    Brown Rabbit: I need a vacation. ;
+revision: 175

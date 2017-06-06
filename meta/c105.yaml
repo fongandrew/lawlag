@@ -1,0 +1,62 @@
+globals:
+  last: c105
+includes:
+- from: c105.png
+  to: images/c105.png
+- from: t105.png
+  to: images/t105.png
+pages:
+- _id: c105
+  _path: 105.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c104
+  next: c106
+  datetime: 2011-06-27 05:00:00
+  src: images/c105.png
+  thumbnail: images/t105.png
+  width: 900
+  height: 650
+  name: Double Trigger
+  facebook: 1
+  description: Negligent Lop talks to a client.
+  alt: The way you pull the trigger is to call up the other party and yell 'BOOM HEADSHOT'.
+  notes: |
+    <p><b><date></b>. This is why summer associates don't talk to to clients.</p>
+    <p>I founded a startup once -- way back when. It's no longer in business, partly  because we had no idea what we were doing. We'd get a <a href="http://en.wikipedia.org/wiki/Term_sheet">term sheet</a> with phrases like <a href="http://www.startupcompanylawyer.com/2007/07/11/what-are-redemption-rights/">"redemption"</a>, <a href="http://www.investopedia.com/terms/v/vesting.asp">"vesting"</a>, and <a href="http://www.mbbp.com/resources/business/double_trigger.html">"double trigger"</a>, and the image that popped into my mind was a dual wielding antihero in a sweater vest seeking atonement for his sins. We said yes to everything, because antiheros in sweater vests are awesome.</p>
+    <p>I would also like to reiterate that every page on this site includes the phrase: "Tort Bunnies should not be taken seriously."</p>
+  transcript: |
+    Client (phone): Hey, my investor's insisting upon
+                    double trigger stock acceleration.
+                    Do you know what that is? ;
+    Negligent Lop: It's a way to screw
+                   you over my friend. ;
+    Client (phone): What, seriously? ;
+    -----
+    Negligent Lop: Yeah, it's complicated, but imagine
+                   there's a two-triggered gun pointed
+                   at your head. You have one trigger.
+                   Your investor owns the other. ;
+    Negligent Lop: Now your investor might say this
+                   is fine, because the gun won't fire
+                   unless both triggers are pulled. ;
+    -----
+    Negligent Lop: But why would you ever want a gun
+                   pointed at your head?! What if your
+                   investor reaches over and pulls your
+                   trigger when you're not looking? ;
+    Negligent Lop: Then it's boom! Head shot. ;
+    -----
+    Client (phone): Wow, that's messed up. I'm gonna
+                    tell this guy to f*** off. Thanks dude. ;
+    Negligent Lop: Sure thing! ;
+    Click! ;
+    -----
+    Negligent Lop dials another number. ;
+    beep beep boop beep ;
+    -----
+    Brown Rabbit: Brown Rabbit speaking. ;
+    Negligent Lop (phone): Hey Brown, it's me. Do you
+                           know what double trigger
+                           stock acceleration is? ;
+revision: 105

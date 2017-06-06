@@ -1,0 +1,56 @@
+globals:
+  last: c37
+includes:
+- from: c37.png
+  to: images/c37.png
+pages:
+- _id: c37
+  _path: 37.html
+  _template: page.html
+  prev: c36
+  next: c38
+  alt: "Brown Rabbit's starting a Facebook group protesting the well-toasted Kaiser roll of judicial tyranny"
+  datetime: 2010-06-07 05:00:00
+  width: 900
+  height: 650
+  name: Sammich
+  notes: |
+    <p><b><date></b>. The conversation afterwards went something like this:</p>
+    <p><b>Brown Rabbit:</b> What kind of sandwich do you want?<br />
+    <b>The Judge:</b> A ham sandwich.<br />
+    <b>Brown Rabbit:</b> You're a rabbit. Rabbits don't eat meat.<br />
+    <b>The Judge:</b> Well, evil rabbits do.</p>
+    <p>Anyhow, <a href="http://lsolum.typepad.com/legaltheory/2009/08/legal-theory-lexicon-balancing-tests.html">multi-factor balancing tests</a> require a judge to weigh a number of different factors against each other. <a href="http://en.wikipedia.org/wiki/Fair_use#Fair_use_under_United_States_law">Copyright law's fair use test</a> is one example of this. The good news about a multi-factor balancing test is that it awards the judge a lot of discretion. The bad news is that it awards the judge a lot of discretion.</p>
+    <p>In contrast to the <a href="http://en.wikipedia.org/wiki/Bright-line_rule">bright-line</a> categorical tests that <a href="http://en.wikipedia.org/wiki/Legal_formalism">formalists</a> like Justice Scalia favor, multi-factor balancing tests tend to be much more indeterminate. For example, suppose our test for determining whether or not a bird is a duck is that we weigh (1) whether it walks like a duck, (2) whether it swims like a duck, and (3) whether it quacks like a duck. Suppose also that we come across a bird that kinda walks like a duck and sorta quacks like a duck but most certainly does not swim like a duck. One approach to this is that there are two factors in favor of finding the duck versus one against. Two is greater than one; ergo, it's a duck. Another approach is that since it only kinda sorta meets criteria one and three, we weigh those less heavily than criteria two, and find it's not a duck. Still another approach is to hold that regardless of how well it meets criteria one and two, the quintessential characteristic of a duck is that it quacks, so we always weigh criteria three more heavily than one and two. In this case, that means we have a duck.</p>
+    <p>You might respond that the real problem with the above example isn't that there's a multi-factor balancing test, but that there're no guidelines for how to balance the factors. Or that the factors themselves are indeterminate (i.e. to know whether or not something quacks like a duck, you need to have some sense of what a duck already is, but if you already have that, why do you need a test to figure out whether or not something's a duck?). Nevertheless, multi-factor balancing tests have a reputation (among law students at least) of suffering from both of these problems and for being indeterminate.</p>
+    <p>When you have an indeterminate test, the fear is that the judge might simply decide to make a ruling based on how tasty a sandwich is. That's pretty unlikely, as even if the law itself is flexible, judges are ultimately subject to <a href="http://notabug.com/kozinski/breakfast">other constraints</a> (e.g. they probably don't want to be known as the "evil sammich judge"), but generally, people who fear judicial activism will push for narrower constraints.</p>
+  src: images/c37.png
+  description: The Judge applies a multi-factor balancing test.
+  transcript: |
+    Brown Rabbit stands before an imposing and slightly evil sounding judge in a courtroom. ;
+    Judge (off-panel): Mr. Rabbit, I've reviewed
+                       the applicable law here. ;
+    -----
+    Judge: And it seems to me that
+           I am required to apply ... ;
+    Judge (imposingly): A MULTI-FACTOR
+                        BALANCING TEST. ; 
+    -----
+    Judge (off-panel): Factor One: What will
+                       my peers think of me? ;
+    Judge (off-panel): Factor Two: What will 
+                       Congress think of me? ;
+    -----
+    Judge (off-panel): Factor Three: What will
+                       my family think of me? ;
+    Judge (off-panel): Factor Four: What will you
+                       young rapscallions write
+                       about me on the Facebook?;
+    -----
+    Judge (off-panel): Factor Five: Did I have a tasty
+                       sandwich for lunch today?;
+    -----
+    Brown Rabbit: Your Honor, I'm not sure that-- ;
+    Judge (off-panel): WHERE'S MAH
+                       SAMMICH?!?!;
+revision: 37

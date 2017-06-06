@@ -1,0 +1,315 @@
+/* General */
+
+body, html {
+    font-family: Times;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.05em;
+    border: 0px;
+}
+
+hr {
+    width: 700px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+p {
+    padding: 0px 10px 10px 10px;
+    margin: 0px;
+}
+
+p:first-child {
+    padding-top: 10px;
+}
+
+p.quote {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+ul { padding-top: 0px; padding-bottom: 10px; margin: 0px; }
+
+ul:first-child { padding-top: 10px; }
+
+a, a:visited {
+    color: #339;
+    text-decoration: none;
+}
+
+a:hover {
+    /* color: #FF6103; */
+    text-decoration: underline;
+}
+
+img {
+    padding: 0px;
+    border: 0px;
+}
+
+h1.hide {
+  color: #fcfcfc;
+  font-size: 1%;
+  margin: 0px;
+  padding: 0px;
+}
+
+blockquote {
+  padding: 5px;
+  background: #ddd;
+}
+
+/* Layout - Specifics */
+
+body, html { background: black; color: white; }
+
+#container {
+    text-align: center;
+    color: black;
+    background: #fcfcfc;
+    text-align: center; background:url("images/bg1.png") bottom center repeat-x #fcfcfc;
+}
+
+/* Header */
+
+#titlebar, #subtitlebar {
+    width: 900px;
+    text-align: left;
+    margin: 0px auto 0px auto;
+}
+
+#titlebar_ {
+    background: black;
+    color: white;
+    font-size: 1.25em;
+    font-family: Georgia, Times;
+    font-weight: bold;
+}
+
+#titlebar {
+    padding: 3px 0px 0px 0px;
+    position: relative;
+}
+
+#titlebar a, #titlebar a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#titlebar #header_right {
+    position: absolute;
+    bottom: 0px;
+    right: 30px;
+}
+
+#subtitlebar {
+    padding: 5px 0px;
+    font-size: 1em;
+}
+
+#subtitlebar_ {background: #fcfcfc; color: black;}
+
+#subtitle {
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 420px;
+    padding-left: 10px;
+    float: left;
+}
+
+#nav {
+    padding-right: 5px;
+    float: right;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+/* Content-Boxes */
+
+div.box {
+    padding: 0px;
+    padding-top: 25px;
+    margin: 0px auto 0px auto;
+    text-align: left;
+}
+
+div.box .content, .box_content {
+    border: 2px solid black;
+    background: white;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+
+.continuation {
+    margin: 0px;
+    padding: 10px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.continuation a, a:hover, .continuation a:visited {
+    color: #FF4500;
+}
+
+.subheading {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subheading h2 {
+    float: left;
+    background: black;
+    color: white;
+    font-variant: small-caps;
+    margin: 0px;
+    padding: 3px 15px;
+    font-size: 20px;
+}
+
+.subheading .subheading_nav {
+    float: right;
+}
+
+.subheading .subheading_nav img { /* These are the left-right arrows */
+    padding: 3px 15px 0px 15px;
+}
+
+table .subheading {
+    background: black;
+    color: white;
+}
+
+table .subheading h3 {
+    font-variant: small-caps;
+    padding: 3px 15px;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.sharing_links * {
+    vertical-align: middle;
+}
+
+.sharing_links {
+    padding: 7px 0px;
+    vertical-align: middle;
+    font-size: 12px;
+    font-family: tahoma, arial;
+    font-weight: bold;
+}
+
+/* Footer - Transcript stuff */
+
+#footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 20px 10px 10px 10px;
+    margin: 0px;
+}
+
+#_footer a, #_footer a:visited {
+    color: #FF6103;
+}
+
+#footer .transcript {
+    color: black;
+    padding: 10px;
+    background: #fcfcfc;
+    margin: 50px 10px 500px 10px;
+    text-align: left;
+}
+
+#footer .transcript_hidden {
+    color: black;
+    background: black;
+    font-size: 1%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#footer .transcript_hidden a, #footer .transcript_hidden a:visited, #footer .transcript_hidden a:hover {
+    visibility: hidden;
+}
+
+.transcript_title {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a.skip_link:hover, a.transcript_link:hover {
+    filter: alpha(opacity=100); /* internet explorer */
+    -khtml-opacity: 1.0;      /* khtml, old safari */
+    -moz-opacity: 1.0;       /* mozilla, netscape */
+    opacity: 1.0;           /* fx, safari, opera */
+}
+
+a.skip_link, a.transcript_link {
+    position: absolute;
+    background: #fcfcfc;
+}
+
+a.transcript_link {
+    bottom: 0px;
+    right: 0px;
+    padding: 5px;
+    font-size: 0.9em;
+    filter: alpha(opacity=25); /* internet explorer */
+    -khtml-opacity: 0.25;      /* khtml, old safari */
+    -moz-opacity: 0.25;       /* mozilla, netscape */
+    opacity: 0.25;           /* fx, safari, opera */
+}
+
+a.skip_link {
+    top: 0px;
+    left: 0px;
+    font-size: 1px;
+    filter: alpha(opacity=0); /* internet explorer */
+    -khtml-opacity: 0.0;      /* khtml, old safari */
+    -moz-opacity: 0.0;       /* mozilla, netscape */
+    opacity: 0.0;           /* fx, safari, opera */
+}
+
+/* Comments & Stuff */
+/* See HTML for width and stuff since this data has to passed into query-vars anyways */
+#disqus_thread {
+    font-family: arial;
+    float: left;
+}
+
+#fb_comments {
+    float: left;
+}
+
+#like_box {
+    float: right;
+}
+
+/* Flash-notice */
+
+#notice {
+  margin-top: 10px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: arial, verdana;
+  font-weight: bold;
+  border: 2px solid black;
+  background: white;
+}
+
+#notice div, #notice p {
+  padding: 10px;
+}
+
+/* Index Page */
+
+#info {
+	color: #999;
+	font-size: 90%;
+	text-align: justify;
+	text-justify: distribute;
+    text-align-last: justify;
+}

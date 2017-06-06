@@ -1,0 +1,46 @@
+globals:
+  last: c167
+includes:
+- from: c167.png
+  to: images/c167.png
+- from: t167.png
+  to: images/t167.png
+pages:
+- _id: c167
+  _path: 167.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c166
+  next: c168
+  datetime: 2012-07-02 23:00:00
+  src: images/c167.png
+  thumbnail: images/t167.png
+  width: 845
+  height: 660
+  name: Drinky!
+  facebook: 1
+  description: Tort Bunny attempts to convey Blackacre.
+  alt: The joke is that Tort Bunny's oral promise is invalid without the delivery of a written deed.
+  notes: |
+    <p><b><date></b>. The <a href="http://en.wikipedia.org/wiki/Rule_against_perpetuities">Rule of Perpetuities</a> states, "No interest is good unless it must vest, if at all, not later than twenty-one years after the death of some life in being at the creation of the interest."</p>
+    <p>Here, Negligent Lop's interest might not vest until hundreds of years of years later, when some jerk decides to drink alcohol on the property. The fact that Negligent Lop might decide to drink the alcohol now is irrelevant under the traditional rule (although modern courts may take a wait-and-see approach), so his interest in the land is invalid.</p>
+    <p>However, Brown Rabbit's interest is only a fee simple defeasible. Tort Bunny still retains a possibility of reverter. Tort Bunny's interest is valid under the Rule Against Perpetuities because she's not conveying an interest that may vest at some distant point in the future. She's just retaining part of her original interest in the land. Therefore, if Negligent Lop drinks alcohol on the premises, the land goes back to Tort Bunny, not to Lop.</p>
+    <p>Of course, that's assuming Tort Bunny had title to begin with.</p>
+  transcript: |
+    Tort Bunny: Brown Rabbit, I convey Blackacre to you
+                and your heirs and assigns for so long as
+                no alcohol is consumed on the premises.;
+    -----
+    Tort Bunny: In which case, it goes it to Negligent Lop,
+                and his heirs and assigns. ;
+    Negligent Lop pops out a blue can of "Drinky!" ;
+    Negligent Lop: Man, I'm thirsty! ;
+    -----
+    Brown Rabbit leaps at Negligent Lop. ;
+    Brown Rabbit: YARGHHHH!!!!! ;
+    -----
+    Lucy Usagi enters from stage left while
+    Brown Rabbit and Negligent Lop engage in multiple acts of BATTERY! ;
+    Lucy Usagi: Wait, the Rule Against Perpet-- ;
+    Tort Bunny: Hush child. ;
+revision: 167

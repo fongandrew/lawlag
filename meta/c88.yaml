@@ -1,0 +1,60 @@
+globals:
+  last: c88
+includes:
+- from: c88.png
+  to: images/c88.png
+- from: t88.png
+  to: images/t88.png
+pages:
+- _id: c88
+  _path: 88.html
+  _template: page.html
+  _post_to_facebook: Schmoo-Schmoo!
+  prev: c87
+  next: c89
+  datetime: 2011-03-28 05:00:00
+  src: images/c88.png
+  thumbnail: images/t88.png
+  width: 900
+  height: 650
+  name: Schmoo-Schmoo
+  facebook: 1
+  description: Brown Rabbit and Negligent Lop meet someone important.
+  alt: Why don't networking events have nachos? I think they need more nachos.
+  notes: |
+    <p><b><date></b>. My friend Kelly refers to this sort of activity as "schmoo-schmoo". I think it's appropriate. Schmoozing sounds like a duplicitous activity that facilitates the making of deals, the sharing of secrets, and the greasing of squeaky wheels. Many law students aspire to schmooze. We are outsiders. <a href="http://<domain>/52.html">We want in.</a> And we often fail.</p>
+    <p>Instead, we get schmoo-schmoo, which sounds like an awkward make-out session preceded by inane conversation about kittens.</p>
+    <p><b>Update:</b> I'm selling <a href="http://zazzle.com/tortbunnies*">new schwag</a>. Please buy!</p>
+  transcript: |
+    Brown Rabbit: Good news Lop! August Hophip's
+                  agreed to have dinner with some
+                  students from the law school! ;
+    Negligent Lop: August who? ;
+    -----
+    Brown Rabbit: August Hophip! He's a partner
+                  at Hophip, Tiptop & Chop-chop! ;
+    Brown Rabbit: He orchestrated the McCarrot-
+                  Cabbage merger. It's only like
+                  the biggest deal of all time. ;
+    -----
+    Brown Rabbit: I wonder how he got that past EU
+                  antitrust regulators. I should ask. ;
+    Brown Rabbit: I bet he asked the Germans for help.
+                  He and the German Prime Minister
+                  used to be roommates, you know.  ;
+    -----
+    Brown Rabbit: Also, he's paying for dinner. ;
+    Negligent Lop: Will there be booze? ;
+    Brown Rabbit: Yes, there will be booze. ;
+    -----
+    Later . . . ;
+    Brown Rabbit: Thanks for dinner Mr. Hophip. ;
+    August Hophip (off-panel): My pleasure! ;
+    Brown Rabbit: If you don't mind, I'd like
+                  to ask a quick question. ;
+    -----
+    Brown Rabbit: How did you-- ;
+    Negligent Lop: Do you like football? ;
+    August Hophip (off-panel): Do I ever! ;
+    Negligent Lop: Do you like nachos? ;
+revision: 88

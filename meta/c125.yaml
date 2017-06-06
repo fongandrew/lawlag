@@ -1,0 +1,50 @@
+globals:
+  last: c125
+includes:
+- from: c125.png
+  to: images/c125.png
+- from: t125.png
+  to: images/t125.png
+pages:
+- _id: c125
+  _path: 125.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c124
+  next: c126
+  datetime: 2011-10-03 05:00:00
+  src: images/c125.png
+  thumbnail: images/t125.png
+  width: 900
+  height: 650
+  name: Legal Dinosaur
+  facebook: 1
+  description: Negligent Lop negligently drives across railroad tracks.
+  alt: Then T-Rex puts him down and says, &quot;Just messin'! But you were tripping balls dude. YOU WERE TRIPPING MAJOR BALLS.&quot;
+  notes: |
+    <p><b><date></b>. Generally speaking, every person owes a duty to exercise reasonable care towards others. The question is (1) what's reasonable, and (2) who gets to decide that? Apparently, enough people drove into trains in the 1920s that Justice Oliver Wendell Holmes felt obliged to define the proper standard of care for driving across railroad tracks: </p>
+    <p class="quote">When a man goes upon a railroad track he knows that he goes to a place where he will be killed if a train comes upon him before he is clear of the track. He knows that he must stop for the train not the train stop for him. In such circumstances it seems to us that if a driver cannot be sure otherwise whether a train is dangerously near he must stop and get out of his vehicle, although obviously he will not often be required to do more than to stop and look. It seems to us that if he relies upon not hearing the train or any signal and takes no further precaution he does so at his own risk.</p>
+    <p><a href="http://ftp.resource.org/courts.gov/c/US/275/275.US.66.58.html"><i>Baltimore &amp; Ohio R. Co. v. Goodman</i></a>, 275 U.S. 66, 69-70 (1927). In other words, if you get hit by a train while driving, it's your own damn fault.</p>
+    <p>Unfortunately, judicial definitions of reasonableness don't age well. A jury's definition of what's reasonable does not bind future juries to decide the same way. When a judge makes that decision, however, the decision can become a reported opinion that constrains future judges. That's great for keeping the law consistent and predictable, but what seems reasonable to a 1920s Supreme Court Justice may not make sense to your average modern-day commuter (especially if the Justice didn't drive). Or as one court put it, such a decision "unlooses a legal dinosaur, which, once out, tramples twentieth century negligence law and then lumbers back to its dark cave only to await another victim." <a href="http://ftp.resource.org/courts.gov/c/US/275/275.US.66.58.html"><i>Hurst v. Union Pacific R.R. Co.</i></a>, 958 F.2d 1002 (1992).</p>
+    <p>Punchline blatantly borrowed from from <a href="http://harkavagrant.com/index.php?id=162">Hark! A Vagrant</a>. Inspiration from <a href="http://www.youtube.com/watch?v=tTgHrRRtr4Y">Jurassic Park</a>, or as I like to call it, "Negligence with Dinosaurs".</p>
+  transcript: |
+    THUMP ;
+    Ripples in a glass of water. ;
+    -----
+    THUMP ;
+    Brown Rabbit looks alarmed. ;
+    -----
+    A Tyrannosaurus Rex appears. ;
+    Brown Rabbit and Negligent Lop get in a car. ;
+    Brown Rabbit: Go go go! ;
+    T-Rex: RAWR! Exit your vehicle
+           and look both ways before
+           crossing railroad tracks! ;
+    -----
+    Brown Rabbit: Oh, is that it? You're
+                  not going to eat us? ;
+    T-Rex: I never said that. ;
+    -----
+    Mayhem. The T-Rex eats Brown Rabbit as Negligent Lop drives across railroad tracks. ;
+    Without looking. ;
+revision: 125

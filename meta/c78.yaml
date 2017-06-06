@@ -1,0 +1,55 @@
+globals:
+  last: c78
+includes:
+- from: c78.png
+  to: images/c78.png
+- from: t78.png
+  to: images/t78.png
+pages:
+- _id: c78
+  _path: 78.html
+  _template: page.html
+  prev: c77
+  next: c79
+  datetime: 2011-01-24 05:00:00
+  src: images/c78.png
+  thumbnail: images/t78.png
+  width: 900
+  height: 650
+  name: Nasty, Brutish, and Short
+  facebook: 1
+  description: Brown Rabbit pontificates about the origins of carrot law.
+  alt: I was going for the famous 17th century English philosopher look, but there's a touch of Mark Twain there too.
+  notes: |
+    <p><b><date></b>. The professor wears a hat to make himself appear taller.</p>
+    <p>Inspired by Carla. And Bill Watterson. And maybe a certain professor or two.</p>
+  transcript: |
+    Brown Rabbit: And so the originalist rationale cited
+                  by the court is really an attempt to
+                  justify the continued dominance of 
+                  the sociopolitical elite at that time. ;
+    Professor Cal V. Hobbes: Exactly Mr. Rabbit! Exactly. ;
+    -----
+    Professor Cal V. Hobbes: It's a powerful idea Mr. Rabbit.
+                             And one likely lost upon your
+                             peers, so allow me to repeat it. ;
+    Brown Rabbit grins. ;
+    Tort Bunny glares. ;
+    Professor Cal V. Hobbes: What Mr. Rabbit is saying is that the
+                             struggle over a scarce supply of carrots
+                             brings out the worst in rabbitkind. ;
+    -----
+    Professor Cal V. Hobbes: And that absent a government
+                             monopoly, the life of a rabbit
+                             would be solitary, poor ...
+                              ;
+    Professor Cal V. Hobbes: ... nasty, brutish, and short. ;
+    -----
+    Professor Cal V. Hobbes: And therefore-- ;
+    Brown Rabbit: Wait, what? That's the exact
+                  opposite of what I was saying. ;
+    -----
+    Professor Hobbes lets the silence hang over the class for a moment. ;
+    -----
+    Professor Cal V. Hobbes: Mr. Rabbit, you are an idiot. ;
+revision: 78

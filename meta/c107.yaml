@@ -1,0 +1,39 @@
+globals:
+  last: c107
+includes:
+- from: c107.png
+  to: images/c107.png
+- from: t107.png
+  to: images/t107.png
+pages:
+- _id: c107
+  _path: 107.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c106
+  next: c108
+  datetime: 2011-07-11 05:00:00
+  src: images/c107.png
+  thumbnail: images/t107.png
+  width: 900
+  height: 340
+  name: Deposition I
+  facebook: 1
+  description: Negligent Lop demands answers.
+  alt: Objection, calls for a legal conclusion.
+  notes: |
+    <p><b><date></b>. <a href="http://en.wikipedia.org/wiki/Deposition_(law)">Depositions</a> would go by more quickly if attorneys could spike the coffee with <a href="http://en.wikipedia.org/wiki/Sodium_thiopental#Truth_serum">sodium pentothal</a>.</p>
+    <p>Fun fact: <a href="http://www.etymonline.com/index.php?term=depose">The etymology of "depose"</a> comes from "de" (down) and pose (put, place), which makes sense when you think of "depose" in the political sense (e.g. depose a dictator). Anyhow, I think depositions would be a lot more fun if we started calling them "throw downs".</p> 
+  transcript: |
+    Negligent Lop: Thank you for coming Mr. Anderson.
+                   I'm hoping to finish this deposition
+                   early, so let's just get formalites
+                   out of the way. ;
+    -----
+    Negligent Lop: DID YOU OR DID YOU NOT STEAL
+                   MY CLIENT'S TRADE SECRETS? ;
+    -----
+    Mr. Anderson (off-panel): Um ... no, I did not. ;
+    Negligent Lop: Huh ... this is going to take
+                   longer than I anticipated. ;
+revision: 107

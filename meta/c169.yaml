@@ -1,0 +1,54 @@
+globals:
+  last: c169
+includes:
+- from: c169.png
+  to: images/c169.png
+- from: t169.png
+  to: images/t169.png
+pages:
+- _id: c169
+  _path: 169.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c168
+  next: c170
+  datetime: 2012-07-16 05:00:00
+  src: images/c169.png
+  thumbnail: images/t169.png
+  width: 900
+  height: 660
+  name: Bridgekeeper
+  facebook: 1
+  description: Brown Rabbit must answer Tort Bunny's questions three.
+  alt: Answer according to both. I don't know ... aghhhhhh!!!!!!
+  notes: |
+    <p><b><date></b>. For the uninitiated, this is a <a href="http://www.youtube.com/watch?v=pWS8Mg-JWSg">Monty Python</a> reference.</p>
+    <p>I don't know how other states do this, but California tests on both the California rules and majority or federal rules for civil procedure, professional responsibility, and evidence. If you're a 2L or 3L, I recommend learning at least the majority or federal rules before you start studying for the bar. It's a lot easier to learn a set of exceptions for the first time than to learn two sets of rules that are similar, but not quite.</p>
+  transcript: |
+    Tort Bunny and Brown Rabbit stand in front of a rope bridge. ;
+    Tort Bunny: STOP! He who would cross
+                the Bridge of Death must
+                answer me these questions
+                three ere the other side he see.  ;
+    Brown Rabbit: Ask me your questions,
+                  Bridgekeeper. I am not
+                  afraid. ;
+    -----
+    Tort Bunny: What ... is your name? ;
+    Brown Rabbit: Brown Rabbit. ;
+    -----
+    Tort Bunny: What ... is your quest? ;
+    Brown Rabbit: To pass this state's bar exam! ;
+    -----
+    Tort Bunny: What ... is the rule for
+                determining whether
+                a court is the proper
+                venue for an action? ;
+    Brown Rabbit: What do you mean? A state
+                  court or a federal court? ;
+    -----
+    Brown Rabbit grins at Tort Bunny. ;
+    -----
+    BATTERY! ;
+    Tort Bunny whacks Brown Rabbit with a walking stick she was carrying. ;
+revision: 169

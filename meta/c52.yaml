@@ -1,0 +1,57 @@
+﻿globals:
+  last: c52
+includes:
+- from: c52.png
+  to: images/c52.png
+pages:
+- _id: c52
+  _path: 52.html
+  _template: page.html
+  prev: c51
+  next: c53
+  datetime: 2010-09-20 05:00:00
+  src: images/c52.png
+  width: 900
+  height: 960
+  name: $160K Question
+  description: Tort Bunny, Brown Rabbit, and Negligent Lop interview at their callbacks.
+  alt: "At least no one whipped out a holy hand grenade."
+  notes: |
+    <p><b><date></b>. The only question you can almost guarantee being asked in a law firm interview is: "Do you have any questions?" Some questions work better than others. It's almost like Jeopardy really. There are correct answers, but they must be phrased in the form of a question.</p>
+    <p>References: <a href="http://www.armory.com/swallow.html">Swallows</a> and <a href="http://www.snpp.com/episodes/3F09.html">nachos</a>.</p>    
+  transcript: |
+    Interviewer (off-screen): Thank you for interviewing
+                              with us, Mr. Rabbit. ;
+    Brown Rabbit: No, thank you! ;
+    -----
+    Interviewer (off-screen): Before we go, do you
+                              have any questions? ;
+    Brown Rabbit: Yes, what ... is the airspeed
+    velocity of an unladen swallow? ;
+    -----
+    Interviewer (off-screen): What do you mean? An
+                              African or European swallow? ;
+    Brown Rabbit: I don't know! ;
+    Brown Rabbit: I DON'T KNOW. ;
+    -----
+    Now we're with Tort Bunny in another interviewer's office. ;
+    Some abstract art resembling the Rules of Civil Procedure hangs on the wall. ;
+    Interviewer (off-screen): Thank you for interviewing with us,
+    Ms. Bunny. Do you have any quest-- ;
+    Tort Bunny: Is anything on your website
+    false or misleading? ;
+    -----
+    Interviewer (off-screen): Um ... no. ;
+    Tort Bunny: Then I have no further questions! ;
+    -----
+    Now we're with Negligent Lop, sitting at a round table in a tallish building. ;
+    Interviewer (off-screen): That concludes our interview
+                              Mr. Lop. Any questions? ;
+    -----
+    Negligent Lop: Hmm ...  ;
+    -----
+    Negligent Lop: Say, do you like football? ;
+    Interviewer (off-screen): Do I ever! ;
+    Negligent Lop: Do you like nachos? ;
+revision: 52
+

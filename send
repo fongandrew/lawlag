@@ -1,0 +1,8 @@
+if [ -n "$1" ]
+then echo 'Executing'
+ssh -t andrewfo@ssh.andrewfong.com "rm -rf ~/apps/lawlag/rev/$1"
+scp -r rev/$1 andrewfo@ssh.andrewfong.com:~/apps/lawlag/rev/$1
+scp -r base.yaml andrewfo@ssh.andrewfong.com:~/apps/lawlag/base.yaml
+scp -r sync_data/$1.yaml andrewfo@ssh.andrewfong.com:~/apps/lawlag/sync_data/$1.yaml
+echo 'Done'
+fi

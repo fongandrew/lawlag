@@ -1,0 +1,51 @@
+globals:
+  last: c79
+includes:
+- from: c79.png
+  to: images/c79.png
+- from: t79.png
+  to: images/t79.png
+pages:
+- _id: c79
+  _path: 79.html
+  _template: page.html
+  prev: c78
+  next: c80
+  datetime: 2011-01-31 05:00:00
+  src: images/c79.png
+  thumbnail: images/t79.png
+  width: 900
+  height: 650
+  name: Craven Scum
+  facebook: 1
+  description: Professor Hobbes pontificates about tuition increases.
+  alt: That is one juicy carrot.
+  notes: |
+    <p><b><date></b>. or those not in the know, law school is often divided between those who want to work for big firms and earn big money, and those who want to work for the public interest and earn less-than-big money.</p>
+    <p>I should also note (<a href="http://<domain>/73.html#notes">again</a>) that (1) all events depicted in Tort Bunnies are <a href="http://en.wikipedia.org/wiki/Satire">fictional</a>, and (2) that on the whole, I think the powers-that-be at my school are doing an excellent job.</p>
+    <p><a href="http://en.wikipedia.org/wiki/Department_of_Agriculture_v._Moreno">Freeloading hippies.</a> Thanks, AC.</p>
+  transcript: |
+    The Dean: Next on the faculty lunch agenda
+              is the proposed tuition increase. ;
+    Professor Hobbes raises his fork into the air. ;
+    The Dean: Professor Hobbes? ;
+    -----
+    Professor Hobbes: Perhaps I am craven scum
+                      for saying so, but I have no
+                      qualms about raising tuition. ;
+    -----
+    Professor Hobbes: This institution is about,
+                      in a word, excellence. ;
+    Professor Hobbes: And excellence does not come cheap. ;
+    -----
+    Professor Hobbes: Because that same excellence
+                      yields above-market salaries! ;
+    Professor Hobbes: Is it truly too much to ask that our
+                     students contribute a fraction of their
+                     future earnings to my pension plan?! ;
+    Professor Hobbes stabs the carrot on his plate. ;
+    -----
+    The Dean: What about public interest students? ;
+    -----
+    Professor Hobbes: Freeloading hippies. ;
+revision: 79

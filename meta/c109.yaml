@@ -1,0 +1,51 @@
+globals:
+  last: c109
+includes:
+- from: c109.png
+  to: images/c109.png
+- from: t109.png
+  to: images/t109.png
+pages:
+- _id: c109
+  _path: 109.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c108
+  next: c110
+  datetime: 2011-07-18 05:00:00
+  src: images/c109.png
+  thumbnail: images/t109.png
+  width: 845
+  height: 340
+  name: T.P.S. Reports
+  facebook: 1
+  description: Dirty dirty details
+  alt: Is thinking while pooping billable?
+  notes: |
+    <p><b><date></b>. <a href="http://www.penny-arcade.com/comic/2008/4/23/">Penny Arcade gets some credit for this one.</a></p>
+    <p>I've addressed <a href="http://<domain>/41.html">billing and time-keeping</a> before. I still don't think it makes sense to <i>bill</i> a client per hour. <a href="http://en.wikipedia.org/wiki/Moral_hazard">Moral hazards</a> and all that jazz.</p>
+    <p>That said, I think it makes sense for lawyers to <i>track</i> what they're working on and how much time they spend it. Each case is different, so it's hard for a client to compare work product. Is an attorney charging thousands of dollars because it's a really hard case? Or because she's screwing around? A time-tracking report isn't perfect, but it's at least <i>something</i> the client can use to assess attorney performance. And the process of time tracking gives the attorney some feedback on how efficient she is.</p>
+    <p>And in practice, I guess it works out this way anyway. Firms say they bill per hour, but in reality, the partners have some idea of how much something should cost and write off anything that goes over.</p>
+  transcript: |
+    Partner (phone): It's really important that you keep
+                     a detailed record of all the time
+                     you spend on this project. ;
+    Negligent Lop: How detailed? ;
+    Partner (phone): Super detailed. Our clients are
+                     anal about this sort of thing. ;
+    -----
+    Time Packaging System Report Printout: ;
+    0.3 hours - Think of clever way around Section 314 issues
+                while taking a shower. ;
+    0.5 hours - Drive to work; motivate self to work by listening
+                to country music on the radio. ;
+    0.4 hours - Eat a breakfast burrito; discuss case law with
+                the burrito lady. ;
+    1.2 hours - Write memo on Section 314. ;
+    0.1 hours - Call B. Rabbit to complain about bad burrito. ;
+    0.2 hours -  Poop. ;
+    0.2 hours - Think about Section 314 while pooping. ;
+    0.1 hours -  Wipe. ;
+    0.2 hours -  Nope, not done yet. More poop. ;
+    0.1 hours - Still pooping, but thinking about case. ;
+revision: 109

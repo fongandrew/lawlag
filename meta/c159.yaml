@@ -1,0 +1,28 @@
+globals:
+  last: c159
+includes:
+- from: c159.png
+  to: images/c159.png
+- from: t159.png
+  to: images/t159.png
+pages:
+- _id: c159
+  _path: 159.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c158
+  next: c160
+  datetime: 2012-05-14 05:00:00
+  src: images/c159.png
+  thumbnail: images/t159.png
+  width: 900
+  height: 340
+  name: Pomp It Up
+  facebook: 1
+  description: Better.
+  alt: I made more things!
+  notes: |
+    <p><b><date></b>. Logistically, this would work better for rabbit ears than graduation caps. They would also go better with the robes -- er, gowns.</p>
+  transcript: |
+    Negligent Lop, Brown Rabbit, and Tort Bunny with wizard hats.
+revision: 159

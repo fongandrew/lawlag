@@ -1,0 +1,54 @@
+globals:
+  last: c28
+includes:
+- from: c28.png
+  to: images/c28.png
+pages:
+- _id: c28
+  _path: 28.html
+  _template: page.html
+  prev: c27
+  next: c29
+  alt: "Something something something dark side"
+  datetime: 2010-04-05 05:00:00
+  width: 900
+  height: 700
+  name: Priorities
+  notes: |
+    <p><b><date></b>. See the <a href="http://volokh.com/2010/03/21/is-health-care-reform-constitutional/">health</a> <a href="http://www.huffingtonpost.com/david-orentlicher/an-individual-mandate-to_b_391810.html">care</a> <a href="http://boaltalk.blogspot.com/2010/03/health-care-refom-is-unconstitutional.html">debate</a> and, well, a <a href="http://en.wikipedia.org/wiki/United_States_constitutional_law">constitutional law</a> course. Also, I think law school exams encourage more breadth than depth -- it's relatively hard for a professor to objectively say "student X's analysis is better than student Y's" but relatively easy to say "student X addressed more of my bullet points than did student Y." As a result, there's an incentive in law school to reduce complex issues down to assortments of loosely related buzzwords.</p>
+    <p>Come to think of it, there's an incentive to do that in politics too.</p>
+  src: images/c28.png
+  description: Tort Bunny and Brown Rabbit argue about the Constitution.
+  transcript: |
+    Tort Bunny: Can you believe this health care bill? ;
+    Brown Rabbit: What about it? ;
+    Tort Bunny: There's no way it's
+                constitutional. ;
+    Brown Rabbit: How now? ;
+    -----
+    Tort Bunny: An individual mandate violates
+                states' rights. ;
+    Brown Rabbit: Supremacy clause. ;
+    Tort Bunny: 10th amendment rights? ;
+    Brown Rabbit: Interstate commerce. ;
+    Tort Bunny: For economic inactivity? ;
+    Brown Rabbit: Necessary and proper. ;
+    -----
+    Both Brown Rabbit and Tort Bunny seem slightly agitated now. ;
+    Tort Bunny: Due process! ;
+    Brown Rabbit: Taxing and spending! ;
+    Tort Bunny: Equal protection! ;
+    Brown Rabbit: Rational basis! ;
+    Tort Bunny: Slippery slope!
+    Brown Rabbit: Political bias! ;
+    Tort Bunny: Original intent! ;
+    Brown Rabbit: Stare decisis! ;
+    -----
+    Brown Rabbit and Tort Bunny are now engaged in a sissy fight. ;
+    Brown Rabbit and Tort Bunny (together): ACTIVIST JUDGES! ;
+    -----
+    Brown Rabbit and Tort Bunny, each somewhat frazzled,
+    stare blankly at each other. ;
+    -----
+    Brown Rabbit: So do you think this'll be on the final? ;
+revision: 28

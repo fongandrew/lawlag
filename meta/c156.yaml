@@ -1,0 +1,51 @@
+globals:
+  last: c156
+includes:
+- from: c156.png
+  to: images/c156.png
+- from: t156.png
+  to: images/t156.png
+pages:
+- _id: c156
+  _path: 156.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c155
+  next: c157
+  datetime: 2012-04-30 05:00:00
+  src: images/c156.png
+  thumbnail: images/t156.png
+  width: 900
+  height: 660
+  name: Country Road
+  facebook: 1
+  description: Brown Rabbit could have been a contender.
+  alt: What do I do with an English degree? Go teach kids and inspire them with Shakespeare and shit?
+  notes: |
+    <p><b><date></b>. If I have kids and they ask what I do for a living, I'm going to say, "I stop bad guys. With lasers."</p>
+  transcript: |
+    Scene is a school classroom from long ago. ;
+    Young Brown Rabbit: And when I grow up, I
+                        want to save the world! ;
+    -----
+    Teacher: Oh that's cute Brown.
+             It isn't a real job though. ;
+    Young Brown Rabbit: It isn't?! ;
+    -----
+    Teacher: But there are lots of ways
+             you can make a difference. ;
+    Young Brown Rabbit: There are? ;
+    -----
+    Negligent Lop: Brown. Hey Brown, you okay? ;
+    Brown Rabbit: Sorry, zoned out for a sec.
+                  What were you saying? ;
+    -----
+    Negligent Lop: Just asking why you
+                   went to law school. ;
+    Brown Rabbit: Oh, you know. I like
+                  billing triple digits. ;
+    Negligent Lop: Ha, yeah. ;
+    -----
+    Brown Rabbit: You? ;
+    Negligent Lop: Dude, I'm an English major. ;
+revision: 156

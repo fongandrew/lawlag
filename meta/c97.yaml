@@ -1,0 +1,42 @@
+globals:
+  last: c97
+includes:
+- from: c97.png
+  to: images/c97.png
+- from: t97.png
+  to: images/t97.png
+pages:
+- _id: c97
+  _path: 97.html
+  _template: page.html
+  _post_to_facebook: Time to get stabby
+  prev: c96
+  next: c98
+  datetime: 2011-05-12 05:00:00
+  src: images/c97.png
+  thumbnail: images/t97.png
+  width: 900
+  height: 650
+  name: Epic IV
+  facebook: 1
+  description: Someone needs a hero.
+  continuation: c93
+  alt: Where we're going, we don't need heros.
+  notes: |
+    <p><b><date></b>. If you're lost, <a href="http://<domain>/93.html">start here.</a></p>
+    <p>Check back Monday!</p>
+  transcript: |
+    Brown Rabbit (still on fire): Run away! Run away! ;
+    While Brown Rabbit flees, Tort Bunny spots his sword. ;
+    -----
+    So does the dragon. ;
+    -----
+    Intense Tort Bunny glare. ;
+    -----
+    Tort Bunny grabs the sword and dashes forward. ;
+    -----
+    Tort Bunny grabs a rope and swings. ;
+    -----
+    Tort Bunny leaps into the air above the dragon with the sword ready to strike. ;
+    Caption: to be continued ... ;
+revision: 97

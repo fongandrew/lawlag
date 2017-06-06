@@ -1,0 +1,47 @@
+globals:
+  last: c87
+includes:
+- from: c87.png
+  to: images/c87.png
+- from: t87.png
+  to: images/t87.png
+pages:
+- _id: c87
+  _path: 87.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c86
+  next: c88
+  datetime: 2011-03-21 05:00:00
+  src: images/c87.png
+  thumbnail: images/t87.png
+  width: 900
+  height: 340
+  name: The Chief
+  facebook: 1
+  description: The transition process begins
+  alt: Also, we think half our articles are plagiarized. You should do something about that.
+  notes: |
+    <p><b><date></b>. Good luck to all those new editors out there. You'll need it.</p>
+  transcript: |
+    Former Editor-in-Chief (off-panel): Congratulations! You're
+                                        the new Editor-in-Chief! ;
+    Negligent Lop: Woot! ;
+    Former Editor-in-Chief (off-panel): Anyhow, just a few things
+                                        before I hand things over ... ;
+    -----
+    Former Editor-in-Chief (off-panel): These articles need to have their
+                                        cross-references checked before
+                                        they get sent to the publisher. ;
+    Former Editor-in-Chief (off-panel): This contract expires soon
+                                        and needs renegotiating. ;
+    Former Editor-in-Chief (off-panel): And we're missing a license agreement
+                                        for Judge Hare's article. He doesn't
+                                        respond to e-mail. Try carrier pigeon. ;
+    -----
+    Negligent Lop: Congratulations! You're
+                   the new Editor-in-Chief! ;
+    Brown Rabbit: Woot! ;
+    Negligent Lop: Good luck! If you need
+                   anything, I'll be in Cabo. ;
+revision: 87

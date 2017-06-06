@@ -1,0 +1,40 @@
+globals:
+  last: c108
+includes:
+- from: c108.png
+  to: images/c108.png
+- from: t108.png
+  to: images/t108.png
+pages:
+- _id: c108
+  _path: 108.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c107
+  next: c109
+  datetime: 2011-07-14 05:00:00
+  src: images/c108.png
+  thumbnail: images/t108.png
+  width: 900
+  height: 340
+  name: Deposition II
+  facebook: 1
+  description: Negligent Lop is still demanding answers.
+  alt: Objection, asked and answered.
+  notes: |
+    <p><b><date></b>. An alternate ending for <a href="http://<domain>/107.html">last Monday's comic</a>.</p>
+  transcript: |
+    Negligent Lop: Thank you for coming Mr. Anderson.
+                   I'm hoping to finish this deposition
+                   early, so let's just get formalites
+                   out of the way. ;
+    -----
+    Negligent Lop: DID YOU OR DID YOU NOT STEAL
+                   MY CLIENT'S TRADE SECRETS? ;
+    -----
+    Mr. Anderson (off-panel): Yes, yes I did. What are
+                              you going to do about it? ;
+    Negligent Lop: I dunno actually. My entire
+                   line of questioning depended
+                   on you answering "no". ;
+revision: 108

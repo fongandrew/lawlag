@@ -1,0 +1,58 @@
+globals:
+  last: c45
+includes:
+- from: c45.png
+  to: images/c45.png
+pages:
+- _id: c45
+  _path: 45.html
+  _template: page.html
+  prev: c44
+  next: c46
+  datetime: 2010-08-02 05:00:00
+  src: images/c45.png
+  width: 900
+  height: 650
+  name: Planning
+  description: Negligent Lop DISLIKES.
+  alt: "I dunno. Lucy seemed as good a name as other."
+  notes: |
+    <p><b><date></b>. This is kind of based on a true story. See also <a href="http://<domain>/29.html">Zeros</a>.</p>
+  transcript: |
+    This panel depicts a Facebook page. ;
+    Lucy U. : Hi everyone! Is anyone else still trying to figure
+              out housing? I'm a little worried about rooming with other
+              law students, especially during my 1L year.
+              1 hour ago . Comment . Like . Flag ;
+    Tort Bunny: Hi Lucy! I can understand where
+                you're coming from. Rooming with another
+                stressed-out first year doesn't help. But you
+                should consider living with a 2L or 3L. They tend
+                to be a little more grounded and can offer some
+                much needed perspective about law school.
+                22 minutes ago . Comment . Like . Flag ;
+    There is a box asking you to "Write a Comment ..." ;
+    -----
+    This panel also depicts the same Facebook page, but later. ;
+    Negligent Lop: Hey ladies! 2L here looking for 1L roommate.
+                   Good times promised!
+                   <Insert picture of Negligent Lop drinking out of a bottle>
+                   I Got Your Perspective Right Here.
+                   3 minutes ago . Comment . Like . Flag;
+    There is yet another box asking you to "Write a Comment ..." ;
+    Aren't you glad you're reading this? ;
+    -----
+    Negligent Lop stares at his laptop screen with a face full of glee. ;
+    Or shiny white teeth. ;
+    -----
+    This panel depicts yet said Facebook page again. ;
+    Lucy U.: Hey folks! I heard it was a good idea to get a head
+             start on studying -- i.e. before school actually starts. Does
+             anyone have any recommendations on which study guides
+             I should buy?
+             1 minutes ago . Comment . Like . Flag;
+    Brown Rabbit likes this. ;
+    There is also a box asking you to "Write a Comment ..." here as well. ;
+    -----
+    Negligent Lop gives us his WTF face.
+revision: 45

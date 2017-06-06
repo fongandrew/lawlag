@@ -1,0 +1,75 @@
+globals:
+  last: c8
+includes:
+- from: c8.png
+  to: images/c8.png
+pages:
+- _id: c8
+  _path: 8.html
+  _template: page.html
+  alt: That's 18 in polygonal bunny years.
+  datetime: 2009-11-16 05:00:00
+  height: 695
+  name: Law School Prom
+  description: Brown Rabbit and Negligent Lop fight over who gets to take Tort Bunny out to the law school prom.
+  next: c9
+  disqus_url: http://share.tortbunnies.com/8.html
+  notes: '<p><b><date></b>. Yes, Tort Bunny has feelings too -- depending on where
+    this comic falls in the Tort Bunnies timeline, this may be the root of all her
+    future tortious conduct. Or maybe she''s just inherently a bad apple. In any case,
+    I advise against reading too deeply into this one.</p>
+
+    <p>Also, thanks to Margaret for the prompt. I made this slightly after the Berkeley
+    Law Foundation''s annual auction / dance / dress-up-and-drink event, which is
+    often described as Boalt''s Law School Prom, although I think the actual "Law
+    School Prom" phrase is reserved for the <a href="http://en.wikipedia.org/wiki/Barristers''_Ball">Barristers''
+    Ball</a>. In addition, see the <a href="http://www.mexicanbus.net/">Mexican Party
+    Bus</a>.</p>
+
+    <p>For <a href="http://en.wikipedia.org/wiki/Tortious_interference">tortious interference
+    with a contract</a>, see <a href="http://en.wikipedia.org/wiki/Lumley_v_Gye"><i>Lumley
+    v. Gye</i></a>, (1853) 2 El. &amp; Bl. 216, <a href="http://en.wikipedia.org/wiki/Pennzoil#Pennzoil_v._Texaco"><i>Texaco
+    v. Pennzoil</i></a>, 729 S.W..2d 768 (Tex. App. 1987). For the <a href="http://en.wikipedia.org/wiki/Capacity_(law)">incapacity
+    of a minor to make a contract</a>, see <a href="http://www.professorgreen.com/webster.htm"><i>Webster
+    St. Partnership v. Sheridan</i></a>, 368 N.W.2d 439 (Neb. 1985). Compare to <a
+    href="http://jcomm.uoregon.edu/~tgleason/j385/Brooke.htm"><i>Shields v. Gross</i></a>,
+    448 N.E.2d 108 (N.Y. 1983). FYI: If you Google the last one, you may encounter
+    scandalous NSFW material.</p>
+
+    <p>And yeah, I guess speech bubbles are here to stay. They allow me to place text
+    in space normally reserved for the rabbits.</p>
+
+    '
+  prev: c7
+  src: images/c8.png
+  transcript: "Brown Rabbit hands Tort Bunny a flower resembling a diasy. ;\nTort\
+    \ Bunny has a pink bow attached slightly off to her left side,\nthereby disambiguating\
+    \ her gender -- or making it more confusing\ndepending on when you hail from.\
+    \ ;\nWith that, we've cleared up the ambiguity of Tort Bunny's gender. ;\nOr made\
+    \ it more confusing depending on from where you hail. ;\nBrown Rabbit: Tort Bunny,\
+    \ will you go\n              to the law school prom\n              with me? ;\n\
+    Tort Bunny: That might be fun. ;\nBrown Rabbit: Excellent, let's talk\n      \
+    \        liquidated damages. ;\n-----\nNegligent Lop: Or come with me and ride\
+    \ my Mexican Party Bus! ;\nTort Bunny looks at the recently arrived Lop. ;\nShe\
+    \ is holding the flower in her left paw. ;\nTort Bunny: That would be amazing!\
+    \ ;\nTort Bunny is apparently unaware that Mexican Party Buses, while almost always\
+    \ epic, are often less than amazing. ;\nBrown Rabbit looks mad, like furrowed\
+    \ eyebrows mad. ;\nBrown Rabbit: Scoundrel! You're tortiously interfering\n  \
+    \            with a contractual relationship! ;\n-----\nNegligent Lop: Bunny see\
+    \ no contract.\n               Bunny breach no contract. ;\nNegligent Lop raises\
+    \ his left paw in front of Tort Bunny,\nperhaps to block her sight -- these things\
+    \ are hard to\ndecipher since human gestures don't map well to\nstubby rabbit\
+    \ paws. ;\nBrown Rabbit: We were about to\n              memorialize it! ;\n-----\n\
+    Tort Bunny now has the flower in her left paw. ;\nTort Bunny: Actually, I'm under\
+    \ 18.\n            I can void any contract I want. ;\nBrown Rabbit and Negligent\
+    \ Lop: You're underage?! ;\nThey both have surprised expressions on their faces.\
+    \ ;\nThe two of them normally speak in different font styles,\nso I'm not sure\
+    \ what to do for combined text bubbles.\nI guess bold Cambria is good as anything\
+    \ else. ;\n-----\nBrown Rabbit: Well, you repudiated my\n              offer.\
+    \ Off I go now. ;\nNegligent Lop: I ... uh ... material\n               misrepresentation.\n\
+    \               Bye. ;\nBoth Tort Bunny and Negligent Lop exist stage left. ;\n\
+    -----\nTort Bunny looks down at the flower in her right paw. ;\nIt flops down\
+    \ loosely into her left. ;\nHer ears tilt slightly to the sides. ;\nShe looks\
+    \ sad, perhaps uncertain. ;\n"
+  width: 900
+revision: 8

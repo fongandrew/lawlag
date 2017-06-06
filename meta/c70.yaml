@@ -1,0 +1,53 @@
+﻿globals:
+  last: c70
+includes:
+- from: c70.png
+  to: images/c70.png
+pages:
+- _id: c70
+  _path: 70.html
+  _template: page.html
+  prev: c69
+  next: c71
+  datetime: 2010-12-22 05:00:00
+  src: images/c70.png
+  width: 900
+  height: 650
+  continuation: c67
+  name: The Ghost of Law School Present
+  description: Drinks all around!
+  alt: Brown Rabbit is actually too busy jumping off a building to join his friends for drinks.
+  notes: |
+    <p><b><date></b>. For those just joining us, this story arc <a href="http://<domain>/67.html">starts here</a>.</p>
+  transcript: |
+    Brown Rabbit and the Ghost of Law School Present arrive in a bar. ;
+    The Ghost of Law School Present: Behold the present. ;
+    Brown Rabbit: Are we in a bar? I need a drink. ;
+    -----
+    Brown Rabbit's paw goes right through a nearby cup of beer. ;
+    Brown Rabbit: Bwuh? Why can't I pick up this cup? ;
+    The Ghost of Law School Present: You're a ghost.
+                                     You can't drink. ;
+    -----
+    The Ghost of Law School Present: Not that you would in life.
+                                     You're too busy worrying
+                                     about how you did on exams
+                                     to join your friends for a beer. ;
+    Negligent Lop and Tort Bunny are chatting over beers. ;
+    -----
+    Lucy Usagi is drunkenly wandering around with 10 shotglasses on the bar in front of her. ;
+    The Ghost of Law School Present: Oh look, there's the 1L you
+                                     scared into starting her
+                                     outline two months early. ;
+    -----
+    Brown Rabbit: What will her fate be? ;
+    The Ghost of Law School Present: If her course remains unaltered,
+                                     she'll be in a Betty Ford clinic
+                                     by the end of next semester. ;
+    -----
+    Brown Rabbit: Dammit. I really need a drink! ;
+    The Ghost of Law School Present: No drinking. One
+                                     more ghost awaits. ;
+    The present fades into darkness. ;
+revision: 70
+

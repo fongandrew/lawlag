@@ -1,0 +1,45 @@
+globals:
+  last: c142
+includes:
+- from: c142.png
+  to: images/c142.png
+- from: t142.png
+  to: images/t142.png
+pages:
+- _id: c142
+  _path: 142.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c141
+  next: c143
+  datetime: 2012-01-23 05:00:00
+  src: images/c142.png
+  thumbnail: images/t142.png
+  width: 900
+  height: 340
+  name: Twenty Dollars
+  facebook: 1
+  description: September 5, 1789
+  alt: 152 bit hookers
+  notes: |
+    <p><b><date></b>. The Seventh Amendment to the United States reads: "In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law." Why twenty dollars? I dunno. Here's the best explanation I could think of.</p>
+    <p>See also <i>The Twenty Dollars Clause</i>, 118 Harv. L. Rev. 1665 (2005).</p>
+  transcript: |
+    Caption: September 5, 1789 ;
+    James Madison: Well, we are agreed then. The
+                   Amendment shall read "In suits
+                   at common law, the right of trial
+                   by jury shall be preserved--" ;
+    -----
+    Pimp Daddy Hobbes: Madison! Is that you?!
+                       My wenches don't come 
+                       cheap you scoundrel! ;
+    Pimp Daddy Hobbes: You still owe me
+                       nineteen dollars! ;
+    -----
+    James Madison: As I was saying, "In suits at common
+                   law, where the value in controversy
+                   shall exceed twenty dollars ... " ;
+    Pump Daddy Hobbes (off-panel): Where's my money?!?! ;
+    Ben Franklin (off-panel): Right-o. ;
+revision: 142

@@ -1,0 +1,52 @@
+﻿globals:
+  last: c48
+includes:
+- from: c48.png
+  to: images/c48.png
+pages:
+- _id: c48
+  _path: 48.html
+  _template: page.html
+  prev: c47
+  next: c49
+  datetime: 2010-08-23 05:00:00
+  src: images/c48.png
+  width: 900
+  height: 650
+  name: Drop
+  description: Tort Bunny drops Brown Rabbit. She drops him hard.
+  alt: "I think you dropped a pair of things actually."
+  notes: |
+    <p><b><date></b>. So I think all the 1Ls should know what battery is at this point. If not, well, kicking someone between the legs is battery. Just trust me on that.</p>
+    <p>One of the great things about being a 2L is that you can take all the classes you want. The bad part is that you really can't. Between interviews and all of the activities that you "voluntarily" signed up to do, a full load of classes is near impossible for most 2Ls. And heaven help you if you're working at a real job of any sort.</p>
+  transcript: |
+    Negligent Lop: So what classes are you inflicting
+                   upon yourself this semester? ;
+    Brown Rabbit: I'm taking evidence, corporations
+                  carrot law, and death and taxes. ;
+    Brown Rabbit: Oh, and a writing workshop too. ;
+    -----
+    Negligent Lop: Wait, aren't you on
+                   the Law Review? ;
+    Brown Rabbit: Yes I am. ;
+    Negligent Lop: And a teaching assistant? ;
+    Brown Rabbit: Yup. ;
+    Negligent Lop: And doing an unholy
+                   number of interviews
+                   over the next month? ;
+    Brown Rabbit: Well, of course. ;
+    -----
+    Negligent Lop: I think that you should
+                   consider dropping a class. ;
+    Brown Rabbit: I drop nothing. ;
+    Brown Rabbit: I AM INVINCIBLE! ;
+    -----
+    Brown Rabbit perhaps realizes that Tort Bunny is standing behind him. ;
+    -----
+    BATTERY! ;
+    Tort Bunny kicks Brown Rabbit between the legs. ;
+    -----
+    Brown Rabbit is crumpled up on the floor. ;
+    Tort Bunny: I think you dropped something. ;
+revision: 48
+

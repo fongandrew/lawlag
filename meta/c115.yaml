@@ -1,0 +1,42 @@
+globals:
+  last: c115
+includes:
+- from: c115.png
+  to: images/c115.png
+- from: t115.png
+  to: images/t115.png
+pages:
+- _id: c115
+  _path: 115.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c114
+  next: c116
+  datetime: 2011-08-10 05:00:00
+  src: images/c115.png
+  thumbnail: images/t115.png
+  width: 900
+  height: 340
+  name: Career Change
+  facebook: 1
+  description: Lucy's resume may need some revising.
+  alt: Oh look, we're interviewing in a hotel room. With a bed.
+  notes: |
+    <p><b><date></b>. Here's one for the public interest people.</p>
+  transcript: |
+    Hiring Partner (off-panel): According to your resume,
+                                you do a lot of work with
+                                the Workers' Rights clinic. ;
+    Hiring Partner (off-panel): There's also some
+                                ... um ... hmmm ... ;
+    -----
+    Hiring Partner (off-panel): Consumer protection work ... ;
+    Hiring Partner (off-panel): Endangered species litigation ... ;
+    Hiring Partner (off-panel): Civil rights class actions ... ;
+    Hiring Partner (off-panel): Indigenous peoples ... ;
+    -----
+    Hiring Partner (off-panel): You do realize we represent large
+                                multinational corporations, right?  ;
+    Lucy Usagi: I am a bunny with high
+                debt and loose morals. ;
+revision: 115

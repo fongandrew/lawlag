@@ -1,0 +1,48 @@
+globals:
+  last: c25
+includes:
+- from: c25.png
+  to: images/c25.png
+- from: civpro_pollock.png
+  to: images/civpro_pollock.png
+pages:
+- _id: c25
+  _path: 25.html
+  _template: page.html
+  prev: c24
+  next: c26
+  alt: "Brown Rabbit is getting a dry erase marker high."
+  datetime: 2010-03-15 07:00:00
+  width: 900
+  height: 500
+  name: Everyone was Lawsuit Fighting
+  notes: |
+    <p><b><date></b>. <a href="http://<domain>/images/civpro_pollock.png">Click here for a slightly bigger version unobstructed by the bunnies.</a></p>
+    <p>It's not quite <a href="http://images.google.com/images?q=jackson+pollock">Jackson Pollock</a>, but it's getting there. Most legal cases are a lot simpler than this, but a <a href="http://en.wikipedia.org/wiki/United_Mine_Workers_of_America_v._Gibbs">common nucleus of operative fact</a> can yield <a href="http://en.wikipedia.org/wiki/Counterclaim">a</a> <a href="http://en.wikipedia.org/wiki/Cross-claim">variety</a> <a href="http://en.wikipedia.org/wiki/Impleader">of</a> <a href="http://en.wikipedia.org/wiki/Intervention_(law)">different</a> <a href="http://en.wikipedia.org/wiki/Class_action">claims</a>, many (but not all) of which the <a href="http://www.law.cornell.edu/rules/frcp/">Federal Rules of Civil Procedure</a> allow (in the oxymoronic name of judicial efficiency) to be resolved as a single long drawn out case.</p>
+    <p>Also, whoever is working on this case is probably billing by the hour.</p>
+  src: images/c25.png
+  description: Brown Rabbit diagrams a lawsuit.
+  transcript: |
+    Brown Rabbit and Tort Bunny stand in front of a large colorful diagram. ;
+    Brown Rabbit has a dry erase marker in his paw. ;
+    The diagram is a little too much to describe with text -- so I apologize to the blind, but it
+    shows, inter alia: ;
+    * Multiple plaintiffs suing multiple defendants on both federal law claims and > $75,000 diversity claims. ;
+    * Plaintiff aggregating smaller < $75,000 state law claims claims with other claims federal courts have subject matter jurisdictions ;
+    * Parties counter-claiming and cross-claiming against each other ;
+    * Defendants impleading third-party defendants ;
+    * The I.R.S. and the U.S. Department of Justice bringing federal criminal charges against some of the parties ;
+    * Other parties intervening as plaintiffs, defendants, and "other" ;
+    * A state raising a constitutional question against the federal government ;
+    * A possible class action case ;
+    * Overlapping plaintiff and defendant classes ;
+    * A future constitutional question waiting to happen between class action plaintiff and defendants ;
+    * A malpractice claim and two Rule 11 sanctions, one sua sponte ;
+    * Parties suing both the federal and state court as part of an interlocutory appeal ;
+    * Mr. Henderson threatening to shoot if those damn lawyers trample over Mrs. Henderson's petunias again ;
+    * A state criminal charge by the State Attorney General against Mr. Henderson. ;
+    * And in rem actions against 314 pounds of pie. ;
+    Brown Rabbit: I think we should settle. ;
+    Tort Bunny: I think we should pass this off as
+                a Jackson Pollock piece and sell it. ;
+revision: 25

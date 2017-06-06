@@ -1,0 +1,64 @@
+globals:
+  last: c3
+includes:
+- from: c3.png
+  to: images/c3.png
+pages:
+- _id: c3
+  _path: 3.html
+  _template: page.html
+  alt: '''This is my carrot. I wish to convey it to you for life.'' is Brown Rabbit''s
+    second favorite pick-up line.
+
+    '
+  datetime: 2009-10-19 05:00:00
+  height: 658
+  name: This is my carrot
+  description: Brown Rabbit tries to convey his carrot to Tort Bunny.
+  disqus_url: http://static.lawlag.com/3.html
+  next: c4
+  notes: "<p><b><date></b>. The <a href=\"http://en.wikipedia.org/wiki/Rule_against_perpetuities\"\
+    >Rule Against Perpetuities</a> is best described as a shitshow.</p>\n<blockquote><p>\n\
+    \  The complaint, as we have seen, alleges that defendant drafted the will in\
+    \ such a manner that the trust was invalid because it violated the rules relating\
+    \ to perpetuities and restraints on alienation. These closely akin subjects have\
+    \ long perplexed the courts and the bar. Professor Gray, a leading authority in\
+    \ the field, stated: \"There is something in the subject which seems to facilitate\
+    \ error. Perhaps it is because the mode of reasoning is unlike that with which\
+    \ lawyers are most familiar. . . . A long list might be formed of the demonstrable\
+    \ blunders with regard to its questions made by eminent men, blunders which they\
+    \ themselves have been sometimes the first to acknowledge; and there are few lawyers\
+    \ of any practice in drawing wills and settlements who have not at some time either\
+    \ fallen into the net which the Rule spreads for the unwary, or at least shuddered\
+    \ to think how narrowly they have escaped it.\" (Gray, The Rule Against Perpetuities\
+    \ (4th ed. 1942) p. xi; see also Leach, Perpetuities Legislation (1954) 67 Harv.L.Rev.\
+    \ 1349 [describing the rule as a \"technicality-ridden legal nightmare\" and a\
+    \ \"dangerous instrumentality in the hands of most members of the bar\"].) Of\
+    \ the California law on perpetuities and restraints it has been said that few,\
+    \ if any, areas of the law have been fraught with more confusion or concealed\
+    \ more traps for the unwary draftsman; that members of the bar, probate courts,\
+    \ and title insurance companies make errors in these matters; that the code provisions\
+    \ adopted in 1872 created a situation worse than if the matter had been left to\
+    \ the common law, and that the legislation adopted in 1951 (under which the will\
+    \ involved here was drawn), despite the best of intentions, added further complexities.\
+    \ (See 38 Cal.Jur.2d 443; Coil, Perpetuities and Restraints; A Needed Reform (1955)\
+    \ 30 State Bar J. 87, 88-90.)\n</p></blockquote>\n<p><i><a href=\"http://lawschoolhaiku.wordpress.com/2009/02/16/lucas-v-hamm/\"\
+    >Lucas v. Hamm</a></i>, 56 Cal. 2d 583, 592 (1961).</p>\n<p>Also, to my heirs:\
+    \ If my will ever mentions West Dundee, Illinois, it means that I hate you.</p>"
+  prev: c2
+  src: images/c3.png
+  transcript: "Brown Rabbit is holding a carrot in front of Tort Bunny ; \nBrown Rabbit:\
+    \ This is my carrot.\n              I wish to convey\n              it to you\
+    \ for life. ;\n-----\nBrown Rabbit: And then to your last-born child.\n      \
+    \        And then to my grandchildren\n              still living.;\n-----\nBrown\
+    \ Rabbit: Or alive 21 years after the last person\n              currently in\
+    \ West Dundee, Illinois\n              passes away. Whichever comes first.;\n\
+    Brown Rabbit: Rule against perpetuities, you know.;\n-----\nBrown Rabbit: But\
+    \ should any grandchild of mine\n              consume alcohol, this carrot shall\n\
+    \              pass to a trust ;\n-----\nBrown Rabbit: Which will distribute income\
+    \ from\n              the carrot equally between all rabbits\n              named\
+    \ Moe (or Doe) in the state of ;\nBrown Rabbit: . . . ;\n-----\nTort Bunny is\
+    \ munching Brown Rabbit's carrot ;\nBrown Rabbit: You're munching my carrot. ;\n\
+    Tort Bunny: I munch your carrot.\n            I munch it hard. ;\n"
+  width: 903
+revision: 3

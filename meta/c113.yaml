@@ -1,0 +1,47 @@
+globals:
+  last: c113
+includes:
+- from: c113.png
+  to: images/c113.png
+- from: t113.png
+  to: images/t113.png
+pages:
+- _id: c113
+  _path: 113.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c112
+  next: c114
+  datetime: 2011-08-01 05:00:00
+  src: images/c113.png
+  thumbnail: images/t113.png
+  width: 900
+  height: 650
+  name: Fundraising
+  facebook: 1
+  description: Negligent Lop asks for money.
+  alt: If you do not donate, we will name a toilet bowl after you.
+  notes: |
+    <p><b><date></b>. You know school's starting soon when you get the tuition bill. My school is trying to <a href="http://boaltalk.blogspot.com/2011/07/administration-gets-it-right-boalt-wont.html">limit the damage</a> this fall, although this will no doubt involve pestering some alumni.</p>
+  transcript: |
+    Negligent Lop is on the phone. ;
+    Negligent Lop: Yes, we're trying to raise
+                   money from alumni and-- ;
+    Phone: *CLICK* ;
+    -----
+    Negligent Lop: Hi, I'm calling on behalf
+                   of the School of Law-- ;
+    Phone: *CLICK* ;
+    -----
+    Negligent Lop: Hello, my name is-- ;
+    Phone: *CLICK* ;
+    -----
+    Negligent Lop sighs. ;
+    -----
+    Negligent Lop gets an idea. ;
+    -----
+    Negligent Lop: Hello, I am the Prince of Lopland,
+                   and I urgently need to transfer
+                   200 million American dollars to
+                   your bank account. ;
+revision: 113

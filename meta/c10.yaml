@@ -1,0 +1,39 @@
+globals:
+  last: c10
+includes:
+- from: c10.png
+  to: images/c10.png
+pages:
+- _id: c10
+  _path: 10.html
+  _template: page.html
+  alt: fairusefairusefairuse
+  datetime: 2009-11-30 05:00:00
+  height: 660
+  name: Unconscionable
+  description: Brown Rabbit messes with Tort Bunny and contracts.
+  next: c11
+  disqus_url: http://share.tortbunnies.com/10.html
+  notes: '<p><b><date></b>. A few things to clear up: (1) Tort Bunny is holding a
+    cattle prod connected to a big-ass battery -- these things are hard to draw. (2)
+    <a href="9.html">Tort Bunny can be punny</a> if she gets to inflict bodily harm
+    in the process. (3) Yes, Tort Bunny just committed <a href="http://en.wikipedia.org/wiki/Battery_(tort)">battery</a>
+    with a <a href="http://en.wikipedia.org/wiki/Battery_(electricity)">battery</a>.</p>
+
+    <p>As for one-sided contracts, see <a href="http://en.wikipedia.org/wiki/Unconscionability">unconscionability</a>.
+    See also <a href="http://scholar.google.com/scholar_case?case=6596803451074685293">American
+    Software v. Ali</a> for a discussion of the "shock the conscience" standard.</p>'
+  prev: c9
+  src: images/c10.png
+  transcript: "Brown Rabbit: I come to collect your pink bow. ;\nTort Bonny: Pardon?\
+    \ ;\nBrown Rabbit: You passed title\n              in this contract. ;\nBrown\
+    \ Rabbit points to a scribble on a sheet of paper. ;\nBrown Rabbit: This clause\
+    \ here. ;\n-----\nTort Bunny: But that clause is hidden on\n            the back\
+    \ of the contract! ;\nBrown Rabbit: Looking only at the front\n              would\
+    \ be rather one-sided,\n              don't you think? ;\nTort Bunny: I ... wait,\
+    \ what? ;\n-----\nTort Bunny: I'll be right back. ;\nTort Bunny turns around leaves;\n\
+    -----\nBrown Rabbit dawdles. ;\n-----\nBrown Rabbit looks alarmed. ;\n-----\n\
+    Brown Rabbit is shocked. Literally. ;\n-----\nTort Bunny: I shock your conscience.\n\
+    \            I shock it hard.\n"
+  width: 900
+revision: 10

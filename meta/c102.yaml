@@ -1,0 +1,56 @@
+globals:
+  last: c102
+includes:
+- from: c102.png
+  to: images/c102.png
+- from: t102.png
+  to: images/t102.png
+pages:
+- _id: c102
+  _path: 102.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c101
+  next: c103
+  datetime: 2011-06-06 05:00:00
+  src: images/c102.png
+  thumbnail: images/t102.png
+  width: 900
+  height: 650
+  name: Tornado Chasers
+  facebook: 1
+  description: Tort Bunny and Brown Rabbit intercept a tornado.
+  alt: It's probably not ethical to litter.
+  notes: |
+    <p><b><date></b>. See <a href="http://en.wikipedia.org/wiki/Storm_chasing">storm chasing</a> and <a href="http://en.wikipedia.org/wiki/Twister_(1996_film)"><i>Twister</i></a>.</p>
+    <p>The American Bar Association's Model Rules of Professional Conduct <a href="http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_7_2_advertising.html">permit lawyes to advertise</a>. See, e.g., <a href="http://www.youtube.com/watch?v=NRYXLnbPDnE">"The Hammer"</a>, <a href="http://www.youtube.com/watch?v=62xreSr25uI">another "Hammer"</a>, and <a href="http://www.youtube.com/watch?v=K3IhBf1rWx8">"The Texas Hammer"</a>. However, <a href="http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_7_3_direct_contact_with_prospective_clients.html">lawyers are not allowed to directly solicit business from a client</a>, although there are some exceptions to this rule.</p>
+    <p><a href="https://american.redcross.org/site/Donation2?df_id=5106&amp;5106.donation=form1&amp;s_src=RSG00000E000&amp;s_subsrc=stateofmissouri-pub">Click here can donate to the Red Cross to support tornado and flood relief in Missouri.</a> If any of you are reading this from Tornado Alley, please stay safe this season.</p>
+  transcript: |
+    Brown Rabbit and Tort Bunny head towards a tornado in a pickup truck. ;
+    Tort Bunny: There's the tornado! Turn
+                left and get ahead of it! ;
+    -----
+    Tort Bunny: Stop here and help
+                me with this box. ;
+    -----
+    The two unload a cardbox box full of flyers. ;
+    Tort Bunny: If we're lucky, the storm
+                will pass right over here
+                and pick up these flyers. ;
+    Brown Rabbit: Wait, flyers? ;
+    -----
+    Brown Rabbit reads one of the flyers in the box. ;
+    Brown Rabbit: Shoddy construction? Medical
+                  malpractice? Insurance companies
+                  dragging their feet? Call now and
+                  we'll make someone pay. ;
+    Brown Rabbit: Call Tortious "The Hammer" Bunny today. ;
+    -----
+    Tort Bunny: Yeah, the ABA says we can't directly
+                solicit tornado victims for business. ;
+    Tort Bunny: But there's no rule against having
+                the tornado do the soliciting for you! ;
+    -----
+    Brown Rabbit: This is wrong. ;
+    Tort Bunny: But it's ethical! ;
+revision: 102

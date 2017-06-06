@@ -1,0 +1,51 @@
+﻿globals:
+  last: c51
+includes:
+- from: c51.png
+  to: images/c51.png
+pages:
+- _id: c51
+  _path: 51.html
+  _template: page.html
+  prev: c50
+  next: c52
+  datetime: 2010-09-13 05:00:00
+  src: images/c51.png
+  width: 900
+  height: 650
+  name: Callback
+  description: Tort Bunny and Brown Rabbit fight over a red phone.
+  alt: "Also, stop bleeding on the carpet. You're making a mess."
+  notes: |
+    <p><b><date></b>. The job hunting process for law students consists of two parts usually. First, there's a pre-screening interview. If the interviewer likes you, she'll then invite you back to meet with four or five of the associates and partners at the office. For a decent summary of what a callback is like, <a href="http://www.law.berkeley.edu/1152.htm#expect">see this Berkeley Law description</a>.</p>
+    <p>Your chances of getting an offer are much higher once you have the callback, so it's kind of a big deal. However, it's not polite to make a big deal of said kind-of-a-big-deal, especially in front of other students who may not (yet) have received any callbacks. It's roughly equivalent to snagging the last piece of a particularly tasty cake and then turning around and saying "neener neener neener" to the person waiting in line behind you. To get a sense of the potential for animosity, see <a href="http://boaltalk.blogspot.com/2010/08/2010-ocip-callbacks.html#comments">the comments in this Nuts &amp; Boalts post</a> (jump down to 9/03, 9:24 AM).</p>
+    <p>Also, I've made a few minor changes to the comic to improve readability. Speech bubbles are no longer partially transparent. All speech is now at least 11px tall. Tort Bunny no longer speaks in italics.</p>
+    <p>That last one is as much about maintaining flexibility as it is about improving readability. Italics can sometimes be used to denote emphasis. Having the character be in italics all the time limits the ways I can show that.</p>
+    <p>Also, each character is mostly going to speak in the same font now (DejaVu Serif Condensed, if you're curious). This is because it's getting hard to find a nice-looking easy-to-read font for each character I use. I considered using a sans-serif font as they're easier to read on computer screens, but I haven't found one that feels as classy or legal-ish as serif fonts do.</p>
+    <p>Finally, as a side effect of the font size increasing, I'm letting speech bubbles spill outside of each panel a little. I'd prefer not to, but I think it's looks okay for now.</p>
+  transcript: |
+    RING RING RING. ;
+    A red telephone rings. ;
+    Brown Rabbit and Tort Bunny (together): CALLBACK! ;
+    -----
+    Brown Rabbit and Tort Bunny wave their paws in the air, fighting over the phone. ;
+    -----
+    FACEPUNCH ;
+    Tort Bunny punches Brown Rabbit out. ;
+    -----
+    Tort Bunny: Hello, this is -- oh, hold on. ;
+    -----
+    Tort Bunny: It's for you. ;
+    Tort Bunny hands the phone to Brown Rabbit, who is on the floor. ;
+    Brown Rabbit: Hello? ;
+    -----
+    Brown Rabbit: Why yes, I'd love
+                  to come back for a
+                  callback interview. ;
+    Tort Bunny: You know, it's
+                rude to schedule
+                callbacks in front
+                of other students. ;
+    Tort Bunny: ****er. ;
+revision: 51
+

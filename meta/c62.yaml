@@ -1,0 +1,35 @@
+﻿globals:
+  last: c62
+includes:
+- from: c62.png
+  to: images/c62.png
+pages:
+- _id: c62
+  _path: 62.html
+  _template: page.html
+  prev: c61
+  next: c63
+  datetime: 2010-11-12 07:30:00
+  src: images/c62.png
+  width: 900
+  height: 340
+  name: Trade Monkey
+  description: Tort Bunny creates a property right.
+  alt: ... biatch.
+  notes: |
+    <p><b><date></b>. I don't think you can <a href="http://en.wikipedia.org/wiki/Trademark">trademark</a> a pink bow. But then again, I was pretty sure you couldn't trademark a phrase you didn't invent. <a href="http://www.joystiq.com/2010/11/10/nintendo-requests-its-on-like-donkey-kong-trademark/">Nintendo apparently disagrees.</a></p>
+  transcript: |
+    Lucy Usagi and Tort Bunny are both wearing pink bows. ;
+    Tort Bunny: Take off the pink bow.
+                That's my trademark. ;
+    Lucy Usagi: Trademark? ;
+    Tort Bunny: Trade dress. Service mark.
+                Whatever. It's mine. ;
+    -----
+    Lucy Usagi: You can't-- ;
+    SNATCH! ;
+    -----
+    Tort Bunny runs away with Lucy's pink bow. ;
+    Tort Bunny: It's on like Donkey Kong (TM) !
+revision: 62
+

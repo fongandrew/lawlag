@@ -1,0 +1,54 @@
+﻿globals:
+  last: c122
+includes:
+- from: c122.png
+  to: images/c122.png
+- from: t122.png
+  to: images/t122.png
+pages:
+- _id: c122
+  _path: 122.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c121
+  next: c123
+  datetime: 2011-09-12 05:00:00
+  src: images/c122.png
+  thumbnail: images/t122.png
+  width: 900
+  height: 650
+  name: The Answer
+  facebook: 1
+  description: The right answer is a tortious answer.
+  alt: "The question was: What do you get if you multiply six by nine?"
+  notes: |
+    <p><b><date></b>. <a href="http://<domain>/49.html">Previously on Tort Bunnies.</a></p>
+    <p>Although I've been guilty of long-winded pompous answers myself, I now offer this PSA: Shut up.</p>
+    <p>Thanks Audrey.</p>
+  transcript: |
+    Brown Rabbit, Tort Bunny, François le Duc the duck, and several others are in class. ;
+    Brown Rabbit: I think the answer to the question
+                  can be found in the dissent. I
+                  usually don't agree with Justice
+                  Oreo, but in the case bla bla bla. ;
+    -----
+    Tort Bunny has an exasperated look in her eyes. ;
+    Brown Rabbit: Bla bla blabbity bla bla bla. Bla?
+                  Bla bla bla bla blah! Bla bla bla
+                  bla bla bla bla la de dah dah. Bla
+                  bla bla bla bla. See Bob Loblaw. ;
+    -----
+    Brown Rabbit: What we should consider here,
+                  considering all things considered
+                  is whether consideration merits-- ;
+    Tort Bunny: 42! The answer is 42! No one's
+                asking for your opinion on life,
+                the universe, and everything!  ;
+    -----
+    Tort Bunny storms off. ;
+    -----
+    Brown Rabbit: As I was saying-- ;
+    -----
+    Tort Bunny swings the duck into Brown Rabbit's face. ;
+    BATTERY x2! ;
+revision: 122

@@ -1,0 +1,48 @@
+globals:
+  last: c33
+includes:
+- from: c33.png
+  to: images/c33.png
+pages:
+- _id: c33
+  _path: 33.html
+  _template: page.html
+  prev: c32
+  next: c34
+  alt: "Where did Tort Bunny pull that knife out from? Don't ask."
+  datetime: 2010-05-10 05:00:00
+  width: 900
+  height: 700
+  name: The First Rule
+  notes: |
+    <p><b><date></b>. I have discovered my crutch. When lacking a punchline, resort to violence.</p>
+    <p>See <a href="http://www.youtube.com/watch?v=agi8PUmlAKU">the First Rule of Fight Club</a>, <a href="http://en.wikipedia.org/wiki/Reasonable_person">the reasonable person</a>, <a href="http://en.wikipedia.org/wiki/White_Rabbit">the White Rabbit</a>, <a href="http://en.wikipedia.org/wiki/March_Hare">the March Hare</a>, <a href="http://en.wikipedia.org/wiki/Peter_Rabbit">Peter Rabbit</a>, <a href="http://en.wikipedia.org/wiki/Br'er_Rabbit">Br'er Rabbit</a>, <a href="http://en.wikipedia.org/wiki/Bugs_Bunny">Bugs Bunny</a>, <a href="http://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit">Roger Rabbit</a>, and <a href="http://en.wikipedia.org/wiki/White_Anglo-Saxon_Protestant">the white Anglo-Saxon Protestant male</a>.</p>
+  src: images/c33.png
+  description: Brown Rabbit contemplates who the reasonable rabbit really is.
+  transcript: |
+    Brown Rabbit and Tort Bunny are walking down the sidewalk together past a bunch of shops and cafes. ;
+    Brown Rabbit: How was the exam? ;
+    Tort Bunny: Reasonable. ;
+    -----
+    Brown Rabbit: Like I-did-well reasonable?
+                  Or that-kicked-my-tail-but-
+                  it-was-still-fair reasonable? ;
+    Tort Bunny: It was just ... reasonable. ;
+    -----
+    Brown Rabbit: Yeah, but what does that really mean?
+                  Who exactly is the reasonable rabbit?; 
+    Brown Rabbit: The White Rabbit or Roger Rabbit?;
+    Brown Rabbit: Peter Rabbit
+                  or Br'er Rabbit? ;
+    Brown Rabbit: Bugs Bunny or Lola? ;
+    -----
+    Brown Rabbit: The white Anglo-Saxon Protestant
+                  male gunning for a firm job or-- ;
+    Tort Bunny: Look, the exam's over! Can we
+                please stop talking about this? ;
+    -----
+    Tort Bunny: Thank you. ;
+    -----
+    Brown Rabbit: So ... on question seven ... ;
+    Tort Bunny pulls out a knife and gets stabby. ;
+revision: 33

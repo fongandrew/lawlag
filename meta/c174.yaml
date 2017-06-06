@@ -1,0 +1,96 @@
+globals:
+  last: c174
+includes:
+- from: c174.png
+  to: images/c174.png
+- from: t174.png
+  to: images/t174.png
+pages:
+- _id: c174
+  _path: 174.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c173
+  next: c175
+  datetime: 2012-07-26 05:00:00
+  src: images/c174.png
+  thumbnail: images/t174.png
+  width: 900
+  height: 1580
+  name: Barmageddon V
+  continuation: c170
+  facebook: 1
+  description: Tort Bunny runs into some difficulties on the last day of the bar exam.
+  alt: Yes, that is a very slow moving asteroid.
+  notes: |
+    <p><b><date></b>. If some of the characters in panel six don't make sense to you, you clearly haven't read every single Tort Bunnies ever. Or your memory sucks.</p>
+    <p>Also, if this arc seems familiar, it may be because of <a href="http://<domain>/93.html">a previous arc here.</a></p>
+  transcript: |
+    * type type type *;
+    Tort Bunny types furiously on her laptop during the bar exam. ;
+    Smoke beings to rise from the machine. ;
+    -----
+    Brown Rabbit and Negligent Lop are on a hill,
+    where we left them at the end of the last comic. ;
+    -----
+    Tort Bunny's laptop bursts into flames. Panic! ;
+    -----
+    Brown Rabbit and Negligent Lop get some company. ;
+    Among the visitors, we have the egg-carrying White Rabbit,
+    from the background of comic #46,
+    François le Duc (also introduced in #46),
+    the Canadian Quebecois goose from #120,
+    the yellow bunny (occasionally mistaken for Pikachu) that
+    often appears in the background as a 
+    barista in a coffee shop (for example, see #53),
+    the evil sandwich (sammich) judge from #37,
+    and a random greyish purplish bunny that occasionally
+    appears in the background of classroom scenes. ;
+    The yellow rabbit has a beer and does a "cheers" motion with Negligent Lop. ;
+    -----
+    Tort Bunny has given up her laptop and is now writing our her exam by hand (paw). ;
+    She doesn't look happy. ;
+    -----
+    Brown Rabbit and Negligent Lop's little gathering has turned into a full-on party. ;
+    Among the (somewhat implausible) appearances in left-to-right,
+    top-to-bottom fashion (more or less),
+    we have Professor Teddy from Harvard (#124) pointing and laughing
+    at the hatless Professor Hobbes (introduced in #78),
+    whose characteristic black and orange hat is being tried on by Negligent Lop,
+    the brown horse from #131 looking at the unicorn from #86,
+    James Madison (#142),
+    the young orange bow-wearing bunny that Tort Bunny advises in #91,
+    the children Tort Bunny reads The Hobbit to in #150,
+    Brown Rabbit's ex holding a Chemerinsky book (see #69),
+    the taco-eating rapping armadillo from #162 lending Brown Rabbit a microphone,
+    the redneck hick from #85,
+    a random charcoal black rabbit used in classroom background scenes,
+    Kobe Bryant, Jeremy Lin (now sporting a Rockets jersey), and Pau Gasol (see #145),
+    the tree / ent from #75,
+    the CoffeeTron 3000 from #103,
+    the legal dinosaur from #125,
+    Chris and Cara Sandberg (#143, #157) conversing with
+    Congressrabbit McDickerson (introduced in #104),
+    and the ghost of Mimi Vuvu (introduced in #68)
+    talking to James Meowreth
+    (the business cat in #130 who may have been responsible for Vuvu's demise). ;
+    -----
+    An exhausted Tort Bunny leaves the test center ... ;
+    -----
+    ... only to see the asteroid descending through earth's atmosphere. ;
+    Yes, it's still roughly in the same near-the-ground spot we left it in #173. ;
+    -----
+    Close-up of Tort Bunny's angry eyes. ;
+    -----
+    A flash of pink streaks towards the asteroid. ;
+    -----
+    Professor Hobbes, Negligent Lop, Brown Rabbit, François le Duc,
+    and assorted background rabbits mentioned earlier look up towards the sky. 
+    -----
+    Superbunny (introduced in #13) is streaking through the sky towards the asteroid! ;
+    Note that based on the angle at which Superbunny approached the asteroid in the
+    previous panel, she's technically flying at a downward angle. That said, it looks
+    weird to depict her flight that way, so in the image, she's flying upward and the
+    sky in the background is flipped upside down.
+    Suspense! To be continued in the next comic! ;
+revision: 174

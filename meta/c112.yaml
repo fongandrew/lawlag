@@ -1,0 +1,51 @@
+globals:
+  last: c112
+includes:
+- from: c112.png
+  to: images/c112.png
+- from: t112.png
+  to: images/t112.png
+pages:
+- _id: c112
+  _path: 112.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c111
+  next: c113
+  datetime: 2011-07-26 07:15:00
+  src: images/c112.png
+  thumbnail: images/t112.png
+  width: 900
+  height: 650
+  name: Iocaine Powder
+  facebook: 1
+  description: Brown Rabbit one-ups BarBri.
+  alt: Day three of the bar involves outsmarting a Sicilian.
+  notes: |
+    <p><b><date></b>. If you're in any state other than California, you can take comfort in knowing that your bar exam is not as long as California's three day monstrosity. Unless you're in Louisiana, in which case, ... um ... <a href="http://www.smbc-comics.com/index.php?db=comics&amp;id=2314#comic">congrats</a>?</p>
+    <p>You can thank Elana for this one.</p>
+  transcript: |
+    A hot red concoction sits in a glass in front of Brown Rabbit. ;
+    Tort Bunny: What's that? ;
+    Brown Rabbit: Bar prep! ;
+    -----
+    Tort Bunny: Come again? ;
+    Brown Rabbit: It's a mix of habanero
+                  peppers, pickle juice,
+                  tequila, olives, and lye. ;
+    Brown Rabbit: If I can stomach this, the bar will
+                  be a cakewalk by comparison. ;
+    -----
+    Tort Bunny: Isn't your bar exam next year? ;
+    Brown Rabbit: I'm proactive. ;
+    Brown Rabbit chugs it. ;
+    -----
+    Brown Rabbit stares blankly. ;
+    -----
+    Brown Rabbit breathes fire. ;
+    -----
+    Brown Rabbit: Oh Lord, my ears burn!
+                  Why do my ears burn?! ;
+    Tort Bunny: Hold it in for three days, and
+                you'll be ready for the bar! ;
+revision: 112

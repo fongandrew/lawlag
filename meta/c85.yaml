@@ -1,0 +1,58 @@
+globals:
+  last: c85
+includes:
+- from: c85.png
+  to: images/c85.png
+- from: t85.png
+  to: images/t85.png
+pages:
+- _id: c85
+  _path: 85.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c84
+  next: c86
+  datetime: 2011-03-7 05:00:00
+  src: images/c85.png
+  thumbnail: images/t85.png
+  width: 900
+  height: 650
+  name: Language
+  facebook: 1
+  description: Brown Rabbit fails at rhetorical jujitsu.
+  alt: Bla bla bla bla bla truth to power bla bla bla bla redneck hick.
+  notes: |
+    <p><b><date></b>. I find pig-ignorant to be a strange insult. Pigs are actually quite smart.</p>
+    <p>Shout-out to Zach.</p>
+  transcript: |
+    Brown Rabbit: No no no! Valuing diversity in the
+                  law is not "reverse discrimination"! ;
+    -----
+    Brown Rabbit: I grew up in a poor minority
+                  inner-city neighborhood
+                  plagued by gun violence. ;
+    Brown Rabbit: My best friend was a transgender 
+                  Marxist immigrant denied asylum
+                  after police pulled her over for
+                  driving-while-black and framed
+                  her for distributing crack cocaine. ;
+    -----
+    Brown Rabbit: To us, the law isn't blind or neutral.
+                  It's how the wealthy elite perpetuate
+                  existing power structures. ;
+    Brown Rabbit: By diversifying the practioners
+                  of law, we offer minorities a
+                  chance to speak truth to power. ;
+    -----
+    Brown Rabbit: Saying that the status quo is fair and
+                  that it's the minorities who are racist
+                  is simply an act of rhetorical jujitsu ... ;
+    Brown Rabbit: .... an attempt by corporate fat-cats to
+                  win support from pig-ignorant Bible-
+                  thumping, gun-toting, cousin-loving... ;
+    -----
+    Brown Rabbit: ... redneck hicks. ;
+    -----
+    A white rabbit wearing a trucker cap and blue overalls stands across from Brown Rabbit. ;
+    Southern Bunny: Don't make me gut you boy. ;
+revision: 85

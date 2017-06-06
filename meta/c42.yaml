@@ -1,0 +1,48 @@
+globals:
+  last: c42
+includes:
+- from: c42.png
+  to: images/c42.png
+pages:
+- _id: c42
+  _path: 42.html
+  _template: page.html
+  prev: c41
+  next: c43
+  datetime: 2010-07-12 05:00:00
+  src: images/c42.png
+  width: 900
+  height: 650
+  name: Loss Distribution
+  description: Brown Rabbit invokes the Coase theorem.
+  alt: "Tort Bunny: Did you just call me fat?"
+  notes: |
+    <p><b><date></b>. A lot of legal questions boil down to who pays for what. One way of approaching this to look at what would be the most economically efficient outcome, i.e. what provides the proper incentives for maximizing the overall production of goods and sevices. According to my Contracts professor, the <a href="http://en.wikipedia.org/wiki/Coase_theorem">Coase theorem</a> states, "It doesn't matter. Efficiency happens." More specifically, it holds that no matter how you split the pie, people will bargain among themselves in such a way that each party gets the optimal amount of pie, assuming that bargaining is relatively cheap (and possible).</p>
+    <p>That doesn't mean that the outcome is fair or just however, only that it's economically efficient. Despite that, the Coase theorem is often invoked as the answer to life, the universe, and everything -- mostly against law students who are terrified of economics by those who know better. Economists are, of course, more than happy to wield the dismal science like a brain-melting scythe.</p>
+    <p>Brain-melting scythes are half off at the <a href="http://en.wikipedia.org/wiki/University_of_Chicago_Law_School">University of Chicago</a>.</p>
+  transcript: |
+    Brown Rabbit: That was a tasty pie. Thanks
+                  for paying Tort Bunny. ;
+    Tort Bunny: Wait, why am I the one paying? ;
+    Brown Rabbit: Well, you did eat
+                  more than I did. ;
+    Tort Bunny: But you invited me here! ;
+    -----
+    Brown Rabbit: Look, it doesn't really matter who
+                  pays. Assuming low transaction
+                  costs, it'll be an economically
+                  efficient outcome either way. ;
+    Tort Bunny: What does that have to do-- ;
+    Brown Rabbit: Coase theorem. ;
+    -----
+    Tort Bunny: Oh, okay. ;
+    Brown Rabbit grins and takes off. ;
+    -----
+    Tort Bunny: Hey wait a minute! ;
+    -----
+    Tort Bunny stalks off angrily. ;
+    Negligent Lop: Hey guys, I have the check. ;
+    -----
+    Negligent Lop: How are we splitting . . . ;
+    Negligent Lop: Aw, ****-nuggets. ;
+revision: 42

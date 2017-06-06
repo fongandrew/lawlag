@@ -1,0 +1,34 @@
+globals:
+  last: c158
+includes:
+- from: c158.png
+  to: images/c158.png
+- from: t158.png
+  to: images/t158.png
+pages:
+- _id: c158
+  _path: 158.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c157
+  next: c159
+  datetime: 2012-05-11 08:00:00
+  src: images/c158.png
+  thumbnail: images/t158.png
+  width: 900
+  height: 340
+  name: Pomp
+  facebook: 1
+  description: Hope for short speeches.
+  alt: So yeah, I made a thing.
+  notes: |
+    <p><b><date></b>.</p>
+    <p style="text-align:center">
+    So if we get the big jobs<br />
+    And we make the big money<br />
+    When we <a href="http://www.youtube.com/watch?v=0HDM3eYp4KQ&amp;t=12">look back</a> now<br />
+    Will our jokes still be funny?<br />
+    </p>
+  transcript: |
+    Negligent Lop, Brown Rabbit, and Tort Bunny with graduation caps and orange tassles.
+revision: 158

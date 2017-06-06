@@ -1,0 +1,52 @@
+revision: 1
+globals:
+  last: c1
+includes:
+- from: c1.png
+  to: images/c1.png
+pages:
+- _id: c1
+  _path: 1.html
+  _template: page.html
+  name: Intentional Touching
+  datetime: 2009-10-05 00:00:00
+  src: images/c1.png
+  alt: In which we establish that Brown Rabbit is male
+  next: c2
+  height: 627
+  disqus_url: http://static.lawlag.com/1.html
+  width: 902
+  transcript: |
+    BATTERY! ; 
+    Tort Bunny kicks Brown Rabbit between the legs ;
+    -----
+    Brown Rabbit: Liability! Liability for the harm to my balls! ;
+    Tort Bunny: But battery requires intent!
+                I knew not of your balls and
+                thus could not have
+                intended them harm. ;
+    -----
+    Brown Rabbit: But to prove battery, I need
+                  only to show intent of harmful
+                  touching, not the
+                  actual harm itself! ;
+    Tort Bunny: I am thwarted! ;
+    -----
+    Brown Rabbit: I have been wronged and
+                  demand justice!
+                  Compensatory damages
+                  for my suffering! And
+                  punitive damages as well! ;
+    -----
+    Brown Rabbit: My lawyers will feast
+                  upon your assets
+                  today Tort Bunny! ;
+    Tort Bunny: Nay! For I have
+                neither money
+                nor tort insurance! ;
+    -----
+    Brown Rabbit: I am thwarted! ;
+
+  notes: |
+    <p><b><date></b>. See <a href="http://en.wikipedia.org/wiki/Garratt_v._Dailey"><i>Garratt v. Dailey</i>, 46 Wash.2d 19, 279 P.2d 1091 (1955)</a>. I suppose you could point to other battery / intent cases as well, but this was the first case I read in law school, so it gets to be the inspiration for the first strip. The case is interesting because it shows that (1) the relevant intent is that of offensive contact (or "touching" as Professor Levy puts it) and (2) you can sue a 5-year-old kid. Why sue a 5-year-old kid? Because he has money. Clearly.</p>
+  description: Tort Bunny kicks Brown Rabbit in the balls.

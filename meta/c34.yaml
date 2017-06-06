@@ -1,0 +1,49 @@
+globals:
+  last: c34
+includes:
+- from: c34.png
+  to: images/c34.png
+pages:
+- _id: c34
+  _path: 34.html
+  _template: page.html
+  prev: c33
+  next: c35
+  alt: "Reading the F.R.C.P. is more fun when you selectively add the words 'in bed'"
+  datetime: 2010-05-17 05:00:00
+  width: 900
+  height: 400
+  name: Rule 34
+  notes: |
+    <p><b><date></b>. I'm curious what percentage of the Internet will get this without having to search / click on links.</p>
+    <p>Nevertheless, links there are: See <a href="http://xkcd.com/305/">Rule 34 of the Internet</a>, <a href="http://www.law.cornell.edu/rules/frcp/Rule34.htm">F.R.C.P. 34</a>, and <a href="http://www.latimes.com/news/local/la-me-kozinski12-2008jun12,0,6220192.story">Judge Alex Kozinski's cows</a>.</p>
+  src: images/c34.png
+  description: Discovery meets porn.
+  transcript: |
+    Caption: Rule 34 of the Internet ;
+    Randall Munroe: If you can imagine it,
+                    there is porn of it. ;
+    Randall Munroe, creator of xkcd
+    and expert on the Internet,
+    is depicted as a stick figure. ;
+    -----
+    Caption: Rule 34 of the Federal Rules
+             of Civil Procedure ;
+    Brown Rabbit reads from his (new) laptop. ;
+    Brown Rabbit: A rule about discovery,
+                  producing documents,
+                  electronically stored
+                  information, and
+                  tangible things. ;
+    -----
+    Caption: Understandably, there is some
+             confusion between the two. ;
+    Judge (off-panel): I need you to perform
+                       some discovery for me. ;
+    Tort Bunny: Your Honor, you must
+                describe with reasonable
+                particularity what you're
+                looking for. ;
+    Judge (off-panel): Right. How about ... um ...
+                       Cows. Something with cows. ;
+revision: 34

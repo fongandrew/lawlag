@@ -1,0 +1,34 @@
+globals:
+  last: c139
+includes:
+- from: c139.png
+  to: images/c139.png
+- from: t139.png
+  to: images/t139.png
+pages:
+- _id: c139
+  _path: 139.html
+  _template: page.html
+  _post_to_facebook: Happy New Year!
+  prev: c138
+  next: c140
+  datetime: 2012-01-02 05:00:00
+  src: images/c139.png
+  thumbnail: images/t139.png
+  width: 900
+  height: 340
+  name: Resolutions
+  facebook: 1
+  description: Words to live by
+  alt: Be grateful promises aren't contracts.
+  notes: |
+    <p><b><date></b>. This year, I resolve to break my resolutions.</p>
+  transcript: |
+    Tort Bunny: This year, I resolve to commit
+                fewer random acts of violence. ;
+    -----
+    BATTERY! ;
+    Tort Bunny kicks Brown Rabbit in the nads. ;
+    -----
+    Tort Bunny: The diet starts tomorrow! ;
+revision: 139

@@ -1,0 +1,5 @@
+revision: 1
+pages:
+- _id: sitemap
+  _path: sitemap.xml
+  _template: sitemap.xml

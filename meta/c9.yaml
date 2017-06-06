@@ -1,0 +1,55 @@
+globals:
+  last: c9
+includes:
+- from: c9.png
+  to: images/c9.png
+pages:
+- _id: c9
+  _path: 9.html
+  _template: page.html
+  alt: Tort punnies!
+  datetime: 2009-11-23 10:00:00
+  height: 660
+  name: Mr. and Mrs. Carrot
+  description: A punny tangent on talking carrots
+  next: c10
+  disqus_url: http://share.tortbunnies.com/9.html
+  notes: '<p><b><date></b>. Is Tort Bunny strictly liable for the harm caused by a
+    hot air balloon? She is if you consider hot air ballooning to be an abnormally
+    dangerous activity. See <a href="http://scholar.google.com/scholar_case?about=3432986104184970929&amp;q=guille+v.+swan&amp;hl=en&amp;as_sdt=2002"><i>Guille
+    v. Swan</i></a>, 19. Johns. (N.Y.) 381 (1822). Can Mr. Carrot sue for negligent
+    infliction of emotional distress, especially given his close relationship to Mrs.
+    Carrot and contemporaneous observance of the injury? No, he''s a carrot.</p>
+
+    <p>Some notes on general comic stuff: although I''m releasing this about 5 hours
+    later than I normally do because of other unforeseen things I had to do (normal
+    release date is Monday at 5AM, UTC), this one actually didn''t take that long,
+    mostly because I elected not to put facial expressions on the carrots. Also, if
+    you don''t get this comic, that might be because I''m relying pretty heavily on
+    an inside joke for my Torts class. I''ll try to keep that to a minimum in the
+    future. Thanks to Prof. Levy for the joke and to Chad for the prompt.</p>
+
+    <p>Oh, and yes, Tort Bunny is keeping her pink bow.</p>
+
+    '
+  prev: c8
+  src: images/c9.png
+  transcript: "Tort Bunny: Mr. and Mrs. Carrot lived happily\n            in a garden\
+    \ together. ;\nCut to two carrots. One of them has a pink bow on.\nThis, presumably,\
+    \ is Mrs. Carrot. ;\nMrs. Carrot: I love you Carl. ;\nMr. Carrot: I love more\
+    \ Carrie. ;\n-----\nTort Bunny: Until one day ...\nMr. Carrot: Is that a ... hot\
+    \ air balloon?\n            Oh God, it's heading towards\n            us. Run\
+    \ Carrie run! ;\nMrs. Carrot: I can't! I'm rooted to the ground! ;\n-----\nTort\
+    \ Bunny lands in a balloon. ;\nA loud CRUNCH! is heard. ;\n-----\nTort Bunny:\
+    \ Mr. Carrot survived, but Mrs. Carrot ... ;\nMr. Carrot: Carrie? Carrie?\n  \
+    \          Oh no, Carrie! ;\n-----\nWe are now in some sort of sterile green hospital\n\
+    environment with a carrot doctor ;\nWe know this carrot is a doctor because she\n\
+    has a white coat, stethescope, and head mirror. ;\nWe also know se's old school\
+    \ because he still has\na head mirror. ;\nMr. Carrot: How bad is it doc? ;\nDr.\
+    \ Carrot: I'm sorry. I'm afaid she's\n            going to be a vegetable\n  \
+    \          for the rest of her life. ;\n-----\nTort Bunny is talking to Brown\
+    \ Rabbit. ;\nShe is munching on a carrot. ;\nTort Bunny: And that's why I munched\
+    \ your carrot. ;\nBrown Rabbit: To put it out of its misery? ;\nTort Bunny: No,\
+    \ because I hate puns. ;\n"
+  width: 900
+revision: 9

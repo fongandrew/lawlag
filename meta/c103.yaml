@@ -1,0 +1,42 @@
+globals:
+  last: c103
+includes:
+- from: c103.png
+  to: images/c103.png
+- from: t103.png
+  to: images/t103.png
+pages:
+- _id: c103
+  _path: 103.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c102
+  next: c104
+  datetime: 2011-06-13 05:00:00
+  src: images/c103.png
+  thumbnail: images/t103.png
+  width: 635
+  height: 900
+  name: Training
+  facebook: 1
+  description: Brown Rabbit causes a breach of an ethical wall.
+  alt: Should have asked his secretary for help
+  notes: |
+    <p><b><date></b>. Working at a large law firm seems to involve a lot of training. As far as I can tell, the purpose of this is to reiterate the many ways you can get yourself in trouble.</p>
+  transcript: |
+    Brown Rabbit and Negligent Lop attend a firm training session. ;
+    Law Firm Trainer (off-panel): The next part of our training
+                                  involves the CoffeeTron 3000. ;
+    Brown Rabbit: Seriously? ;
+    -----
+    Law Firm Trainer (off-panel): Yes, well-- ;
+    Brown Rabbit: It's just a coffee machine!
+                  How could I screw that up? ;
+    -----
+    Caption: Three hours later  ... ;
+    A robotic coffee machine is terrorizing the office as Brown Rabbit and Negligent Lop flee. ;
+    The coffee machine resembles a Dalek. ;
+    CoffeeTron 3000: CoffeeTron has detected a
+                     violation of office policy. ;
+    CoffeeTron 3000: EXTERMINATE! EXTERMINATE! ;
+revision: 103

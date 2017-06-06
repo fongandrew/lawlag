@@ -1,0 +1,10 @@
+revision: 1
+globals:
+  title: Tort Bunnies
+  domain: tortbunnies.com
+  first: c1
+  last: c1
+pages:
+- _id: index
+  _path: index.html
+  _template: index.html

@@ -1,0 +1,40 @@
+globals:
+  last: c137
+includes:
+- from: c137.png
+  to: images/c137.png
+- from: t137.png
+  to: images/t137.png
+pages:
+- _id: c137
+  _path: 137.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c136
+  next: c138
+  datetime: 2011-12-19 05:00:00
+  src: images/c137.png
+  thumbnail: images/t137.png
+  width: 900
+  height: 340
+  name: Twilight
+  facebook: 1
+  description: Brown Rabbit's loss is our gain.
+  alt: Or maybe he just Googled it.
+  notes: |
+    <p><b><date></b>. Writing in law school isn't exactly the same as writing a teenage vampire novel. One consists primarily of rote regurgitation of formulaic elements. The other involves legal research and writing.</p>
+  transcript: |
+    Brown Rabbit: If you add up all the words we've
+                  written this semester -- outlines,
+                  briefs, notes, memos, etcetera ... ;
+    Brown Rabbit: ... we've written enough to fill
+                  a novel in the Twilight series. ;
+    -----
+    Brown Rabbit: Think about it. Instead of
+                  studying law, we could've
+                  earned millions writing
+                  about sexy, sexy vampires. ;
+    -----
+    Negligent Lop: You read Twilight?
+    Brown Rabbit: Just to count the words. ;
+revision: 137

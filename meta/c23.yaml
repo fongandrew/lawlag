@@ -1,0 +1,55 @@
+globals:
+  last: c23
+includes:
+- from: c23.png
+  to: images/c23.png
+pages:
+- _id: c23
+  _path: 23.html
+  _template: page.html
+  prev: c22
+  next: c24
+  alt: "Oh, there goes gravity. Oh, there goes Rabbit."
+  datetime: 2010-03-01 06:25:00
+  width: 900
+  height: 1000
+  name: Cold Call
+  notes: |
+    <p><b><date></b>. See <a href="http://www.youtube.com/watch?v=TO68zwTXFWk">Ferris Bueller's Day Off</a>, <a href="http://en.wikipedia.org/wiki/Socratic_method#Law_school">cold calling</a>. My Torts professor once told a story about how a classmate of his, upon being called on, hid behind the desk. Unfortunately, the professor stayed in the room for the class after that, so the hiding classmate couldn't leave the room for another hour. Rabbits, however, are not content to hide. <a href="http://www.youtube.com/watch?v=ycQIiA7dnKQ">Rabbits dig</a>.</p>
+    <p><b>Update (February 24, 2010):</b> Now with more Buellering.</p>
+  src: images/c23.png
+  description: Brown Rabbit gets called on.
+  transcript: |
+    Professor (off-screen): Moving on, would anyone care to
+                            use a personal anecdote to provide
+                            a rationale for the defendant's
+                            impulsive behavior that I will then
+                            thoroughly decimate with magic
+                            words and basic economics? ;
+    -----
+    Professor (off-screen): How about Mr. Bueller? ;
+    -----
+    Professor (off-screen): Bueller? ;
+    -----
+    Professor (off-screen): Bueller? ;
+    -----
+    Professor (off-screen): Bueller? ;
+    -----
+    Tort Bunny: Um, he's sick. My best friend's sister's
+                boyfriend's brother's girlfriend heard
+                from this guy who knows this kid who's
+                going with the girl who saw Ferris pass
+                out at bar review last night. ;
+    -----
+    Tort Bunny: I guess it's pretty serious. ;
+    Professor (off-screen): Thank you Tortious. ;
+    Tort Bunny: No problem whatsoever! ;
+    -----
+    Professor (off-screen): Let's see then ... how about ...
+    Professor (off-screen): Mr. Rabbit?
+    -----
+    Brown Rabbit is digging a hole out of the classroom. ;
+    Tort Bunny looks on with her "um, this isn't good" face. ;
+    Professor (off-screen): Rabbit? ;
+    Professor (off-screen): Rabbit? ;
+revision: 23

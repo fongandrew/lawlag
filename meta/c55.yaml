@@ -1,0 +1,36 @@
+﻿globals:
+  last: c55
+includes:
+- from: c55.png
+  to: images/c55.png
+pages:
+- _id: c55
+  _path: 55.html
+  _template: page.html
+  prev: c54
+  next: c56
+  datetime: 2010-10-05 05:00:00
+  src: images/c55.png
+  width: 900
+  height: 340
+  name: Arbitrary
+  description: Tort Bunnies turns one year old!
+  alt: "Still single? Still single."
+  notes: |
+    <p><b><date></b>. Today marks the first anniversary of Tort Bunnies. Um ... I guess I should celebrate or something.</p>
+    <p><b>Update:</b> Thanks to <a href="http://abovethelaw.com/2010/10/non-sequiturs-10-06-10/">Above the Law</a> for the shout out!</p>
+  transcript: |
+    Tort Bunny and Brown Rabbit are at some sort of gathering, a birthday party perhaps. ;
+    Brown Rabbit holding a red balloon and wearing a party hat (or maybe a wizard hat). ;
+    Brown Rabbit: Well, another arbitrary length
+                  of time has passed, but I'm still
+                  the same rabbit I was before. ;
+    -----
+    Brown Rabbit: That's why I think it's important to
+                  focus on the here and now rather
+                  than on what may or may not come. ;
+    -----
+    Tort Bunny: Still no job? ;
+    Brown Rabbit: Still no job. ;
+revision: 55
+

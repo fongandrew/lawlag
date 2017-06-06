@@ -1,0 +1,46 @@
+globals:
+  last: c148
+includes:
+- from: c148.png
+  to: images/c148.png
+- from: t148.png
+  to: images/t148.png
+pages:
+- _id: c148
+  _path: 148.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c147
+  next: c149
+  datetime: 2012-03-05 05:00:00
+  src: images/c148.png
+  thumbnail: images/t148.png
+  width: 900
+  height: 660
+  name: Moral Character
+  facebook: 1
+  description: Tort Bunny asks Brown Rabbit for a favor.
+  alt: Tort Bunny could always ask her cousin Vinny.
+  notes: |
+    <p><b><date></b>. Applying to the bar requires a moral character determination. Apparently, lawyers aren't supposed to be unethical scumbags. Who knew?</p>
+    <p>Also, I suppose this is the <i>Tort Bunnies</i> equivalent <a href="http://<domain>/139.html">of</a> <a href="http://<domain>/121.html">a</a> <a href="http://<domain>/51.html">clip</a> <a href="http://<domain>/82.html">show</a>. I'll put in more effort next week.</p>
+  transcript: |
+    Tort Bunny: Hi Brown Rabbit! Will you serve
+                as a personal reference for my
+                moral character determination? ;
+    -----
+    Flashback to Tort Bunny kicking Brown Rabbit in the balls. ;
+    Caption: BATTERY! ;
+    -----
+    Flashback to Tort Bunny kicking Brown Rabbit in the balls at a baseball game. ;
+    Caption: BATTERY! ;
+    -----
+    Flashback to Tort Bunny punching Brown Rabbit in the face while fighting for a phone. ;
+    Caption: FACEPUNCH! ;
+    -----
+    Flashback to Tort Bunny shooting Brown Rabbit's chocolate heart. ;
+    Caption: BLAM! ;
+    -----
+    Brown Rabbit: Seriously? ;
+    Tort Bunny: What? ;
+revision: 148

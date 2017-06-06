@@ -1,0 +1,42 @@
+globals:
+  last: c99
+includes:
+- from: c99.png
+  to: images/c99.png
+- from: t99.png
+  to: images/t99.png
+pages:
+- _id: c99
+  _path: 99.html
+  _template: page.html
+  _post_to_facebook: Write on!
+  prev: c98
+  next: c100
+  datetime: 2011-05-19 05:00:00
+  src: images/c99.png
+  thumbnail: images/t99.png
+  width: 900
+  height: 340
+  name: Errors
+  facebook: 1
+  description: I'd say good luck to everyone writing on, but that would defeat the purpose of saying good luck.
+  alt: The alternative to this strip was something involving 99 red balloons, but I couldn't think of any lyrics that would work. Maybe later.
+  notes: |
+    <p><b><date></b>. I walked through the student center the other day, where various 1Ls (rising 2Ls) were frantically working on their write-on packets, all to enter that hallowed order called the Law Review. And I wondered, "Did it smell this bad when I was here last year?"</p>
+    <p>There's something to be said about people working extremely hard for the right to work even harder. But I'd be a jerk for saying it, so I'm going to stop now.</p>
+  transcript: |
+    Cue close-up of some law review-ish text. ;
+    The text says something to the effect of "Justice delayed is justice denied" and "But speed is not always a virtue". There are footnotes to "See, e.g., tortoise v. Hare" and "That's what she said." ; 
+    Brown Rabbit (off-panel, singing): 99 editing errors to find ... ;
+    Brown Rabbit (off-panel, singing): 99 errors to find! ;
+    -----
+    Brown Rabbit (off-panel, singing): Scribble in red what goes instead. ;
+    The "t" in "tortoise v. Hare" is capitalized. ;
+    A comma is circled and marked with "Do not ital". ;
+    Brown Rabbit (off-panel, singing): 98 editing errors to find! ;
+    -----
+    We see Brown Rabbit singing over Lucy Usagi. ;
+    Brown Rabbit (singing): 98 editing errors-- ;
+    Lucy Usagi: Tort Bunny's not the only one
+                who can get stabby, you know! ;
+revision: 99

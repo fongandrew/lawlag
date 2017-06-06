@@ -1,0 +1,75 @@
+globals:
+  last: c83
+includes:
+- from: c83.png
+  to: images/c83.png
+- from: t83.png
+  to: images/t83.png
+pages:
+- _id: c83
+  _path: 83.html
+  _template: page.html
+  prev: c82
+  next: c84
+  datetime: 2010-02-21 05:00:00
+  src: images/c83.png
+  thumbnail: images/t83.png
+  width: 900
+  height: 960
+  name: Ectoplasmic
+  facebook: 1
+  _post_to_facebook: 1
+  description: Brown Rabbit hangs out in the library at night.
+  alt: Bustin' makes me feel good!
+  notes: |
+    <p><b><date></b>. I'ma let you finish, but the <a href="http://www.youtube.com/watch?v=KvkKX035484"> Ghostbusters music video by Ray Parker Jr.</a> is one of the best videos of all time! Of all time!</p>
+    <p>For extra credit, interpret above video as commentary on race relations in America during the 1960s.</p>
+    <p>Additional commentary, in no particular order:</p>
+    <ul>
+    <li><a href="http://www.docstoc.com/docs/2052585/Ghostbusters-Theme---Piano-Sheet-Music">I used the sheet music here</a>. I omitted the rests in my notation, among other things, because the Ghostbusters never rest.</li>
+    <li><a href="http://www.law.berkeley.edu/10572.htm">My law school is haunted.</a></li>
+    <li>For those who don't recognize the ghost, she appeared during the <a href="http://<domain>/68.html"> Tort Bunnies Christmas special</a>.</li>
+    <li>A tip of the hat to <a href="http://drmcninja.com">Dr. McNinja</a> and <a href="http://drmcninja.com/archives/comic/20p67">this page in particular</a>.</li>
+    <li>They're making a <a href="http://collider.com/bill-murray-talks-ghostbusters-3-on-letterman/17978/">third Ghostbusters movie</a>!</li>
+    </ul>
+  transcript: |
+    The law school library, at two in the morning. ;
+    -----
+    Crrreeeaaaakkkkk ;
+    Brown Rabbit: Hello? Is someone there? ;
+    -----
+    Brown Rabbit stares around the empty library reading room. ;
+    Brown Rabbit: Hello? ;
+    WOOOOOHHHHH ;
+    -----
+    Dot dot dot.
+    -----
+    *CLICK* ;
+    Brown Rabbit plays some music off his laptop. ;
+    Note from the author - I apologize for my poor onomatopoeiazation of this song, but here it comes. ;
+    Dadadada dadadada dadadadada ;
+    -----
+    Bada BAHduh dadah! ;
+    Dadadada bap duh DUH! ;
+    Brown Rabbit's Laptop: If there's something strange
+                           in the neighborhood ... ;
+    -----
+    Brown Rabbit's Laptop: Who ya gonna call? ;
+    Brown Rabbit: GHOSTBUSTERS! ;
+    Baap DADA! ;
+    -----
+    Buhbuh dum dum ;
+    Brown Rabbit's Laptop: If there's something weird
+                           and it don't look good ;
+    Buhbuh dada dum. ;
+    Brown Rabbit's Laptop: Who ya gonna call? ;
+    Brown Rabbit: GHOSTBUSTERS! ;
+    -----
+    The Ghost of Mimi Vuvu: Do you mind?! I have a writing
+                            requirement to finish here! ;
+    Wewer weewer wewer weewer ... ;
+    Weet woot wadah BAAP. ;
+    Brown Rabbit's Laptop: I ain't afraid of no ghosts. ;
+    Bada BAHduh dadah! ;
+    Dadadada bap duh DUH! ;
+revision: 83

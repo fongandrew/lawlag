@@ -1,0 +1,65 @@
+﻿globals:
+  last: c46
+includes:
+- from: c46.png
+  to: images/c46.png
+pages:
+- _id: c46
+  _path: 46.html
+  _template: page.html
+  prev: c45
+  next: c47
+  datetime: 2010-08-09 05:00:00
+  src: images/c46.png
+  width: 900
+  height: 650
+  name: Perfect Tender
+  description: Tort Bunny gets a duck.
+  alt: "Why is François wanted? Why is Brown Rabbit distributing eggs? AND OTHER QUESTIONS I WILL FORGET TO ANSWER!"
+  notes: |
+    <p><b><date></b>. I came up with this one while talking to my Contracts professor.</p>
+    <p>Traditionally, a plaintiff in a suit at law (as opposed to a <a href="http://en.wikipedia.org/wiki/Equitable_remedies">suit in equity</a>) can only demand <a href="http://en.wikipedia.org/wiki/Damages">monetary damages</a>. For a <a href="http://en.wikipedia.org/wiki/Breach_of_contract">breach of contract</a>, a plaintiff normally receives <a href="http://en.wikipedia.org/wiki/Expectation_damages">expectation damages</a>, or enough money to restore the injured party to where they expected to be had the contract been performed. In this case however, because a duck is worth more than a carrot, the defendant's breach of contract has actually increased the plaintiff's monetary position. Suing for a breach of contract here would be like suing someone for giving you too much money.</p>
+    <p>Fortunately, under <a href="http://en.wikipedia.org/wiki/Perfect_tender_rule">Section 2-601 of the Uniform Commercial Code</a>, Tort Bunny should be able to reject François and demand the carrot she ordered. Failing that, she can leave François on the counter and ask for a refund.</p>
+    <p>That's not Tort Bunny's style though. She's going to take François home, gripe about it on Facebook, and then come back to this shop to open up a righteous can of whoop-ass.</p>
+    <p>Oh, and to all those about to criticize my French: "Fermez le fuc en haut." That's Duck for: "Thank you for your feedback, but the Duckish language bears only a superficial resemblance to French. Quack quack quack."</p>
+    <p><a href="http://www.youtube.com/watch?v=SMWi7CLoZ2Q">Om nom nom.</a></p>
+  transcript: |
+    Tort Bunny is in a fast food joint. ;
+    Counter Rabbit: Here you go Miss. ;
+    The counter rabbit hands Tort Bunny a red tray with fries and a duck on it. ;
+    The duck looks mildly bemused. ;
+    Tort Bunny: Um ... this isn't what I ordered. ;
+    Counter Rabbit: Oh, did you want onion
+                    rings instead of fries? ;
+    -----
+    Tort Bunny: No, I want the carrot I ordered. ;
+    Counter Rabbit: So you want me to add one
+                    on for an extra dollar? ;
+    Tort Bunny: Yes. No. I mean, this is a duck. ;
+    -----
+    Counter Rabbit: So? ;
+    Tort Bunny: So it's not a carrot. ;
+    Counter Rabbit: Oh, I know, but this duck is
+                    worth more than a carrot. ;
+    Tort Bunny: But I don't want a duck. ;
+    -----
+    Counter Rabbit: But you wanted a carrot. ;
+    Tort Bunny: Yes! ;
+    Counter Rabbit: Do you dispute that this duck
+                    is worth more than a carrot? ;
+    Tort Bunny: No, I-- ;
+    Counter Rabbit: Then I don't see what
+                    the problem is. ;
+    -----
+    The Duck: Bonjour. ;
+    The Duck: Je m'appelle François le Duc. ;
+    -----
+    Counter Rabbit: See, it's a talking duck too. ;
+    Tort Bunny: I DON'T SPEAK DUCK! ;
+    François le Duc eats some french fries. OM NOM NOM. ;
+    Also, in the background we see a bunch of random stuff happening. ;
+    Negligent Lop is wandering around drunk. ;
+    White Rabbit and Brown Rabbit are exchanging a large egg. ;
+    Brown Rabbit is examining a picture of a duck on a poster that says: WANTED. QUACKING OR OTHERWISE. REWARD. 9999 CARROTS. ;
+revision: 46
+

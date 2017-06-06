@@ -1,0 +1,11 @@
+Options -MultiViews +SymLinksIfOwnerMatch
+RewriteEngine on
+RewriteBase /
+RewriteRule ^(.*)\.htm$ $1.html [R=301,L]
+RewriteRule ^(.*)\.hmtl$ $1.html [R=301,L]
+RewriteRule ^([^/\.]+)$ $1.html [R=301,L]
+RewriteRule ^(.*)/([^/\.]+)$ $1/$2.html [R=301,L]
+RewriteCond %{HTTP_HOST} !^tortbunnies\.com
+RewriteRule ^(.*)$ http://tortbunnies.com%{REQUEST_URI} [R=301,L]
+
+

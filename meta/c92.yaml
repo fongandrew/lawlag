@@ -1,0 +1,58 @@
+globals:
+  last: c92
+includes:
+- from: c92.png
+  to: images/c92.png
+- from: t92.png
+  to: images/t92.png
+pages:
+- _id: c92
+  _path: 92.html
+  _template: page.html
+  _post_to_facebook: Da da da da da!
+  prev: c91
+  next: c93
+  datetime: 2011-04-25 05:00:00
+  src: images/c92.png
+  thumbnail: images/t92.png
+  width: 900
+  height: 650
+  name: Power Song
+  facebook: 1
+  description: Negligent Lop gets to work.
+  alt: And then I'll get a real beer.
+  notes: |
+    <p><b><date></b>. I like the <a href="http://www.youtube.com/watch?v=QkP8CgCPFbY">Jennifer Saunders</a> version in Shrek 2.</p>
+    <p>Thanks Lisa!</p>
+  transcript: |
+    Negligent Lop (off-panel): Alright, I got my caffeine. ;
+    Cue image of Red Bull. ;
+    MP3 Player (off-panel): Where have all the good men gone,
+                            and where are all the gods? ;
+    -----
+    Negligent Lop (off-panel): And my power song. ;
+    Cue image of MP3 Player. ;
+    MP3 Player: Where's the street-wise Hercules
+                to fight the rising odds? ;
+    -----
+    Negligent Lop (off-panel): And I've cleared my calendar
+                               for the rest of the school year. ;
+    There are a lot of Xs for the month of Smarch. ;
+    As well as a date circled in red and marked DOOM. ;
+    MP3 Player (off-panel): Isn't there a white knight
+                            upon a fiery steed? ;
+    -----
+    Negligent Lop: OK, I am going to kill this!
+                   Final paper, you're going down! ;
+    MP3 Player (off-panel): Late at night I toss and turn
+                            and dream of what I need! ;
+    -----
+    A blank Word document with "Introduction" and nothing else. ;
+    MP3 Player (off-panel): I need a hero! ;
+    -----
+    Negligent Lop: You know what? I haven't had
+                   some ginger beer in a while. ;
+    MP3 Player (off-panel): I'm holding out for a hero
+                            'til the end of the night ... ;
+    Negligent Lop: I should get some ginger beer. ;
+revision: 92

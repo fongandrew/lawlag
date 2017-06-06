@@ -1,0 +1,56 @@
+globals:
+  last: c123
+includes:
+- from: c123.png
+  to: images/c123.png
+- from: t123.png
+  to: images/t123.png
+pages:
+- _id: c123
+  _path: 123.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c122
+  next: c124
+  datetime: 2011-09-19 05:00:00
+  src: images/c123.png
+  thumbnail: images/t123.png
+  width: 900
+  height: 650
+  name: Gunnery
+  facebook: 1
+  description: Negligent Lop attempts to resolve the ambiguity in the Alien Tort Statute with a cannon of interpretation.
+  alt: ARRR, ye be served! IT BE ON!
+  notes: |
+    <p><b><date></b>. Kudos to Justin for reminding me that it's <a href="http://www.talklikeapirate.com/">International Talk Like a Pirate Day</a>!</p>
+    <p>For reference, the <a href="http://en.wikipedia.org/wiki/Alien_Tort_Statute">Alien Tort Statute</a>, also known as the Alien Tort Claims Act, grants federal courts jurisidction over "civil action[s] by an alien for a tort only, committed in violation of the law of nations or a treaty of the United States." The Supreme Court ruled that these actions were limited to claims such as "violation of safe conducts, infringement of the rights of ambassadors, and piracy." <a href="http://scholar.google.com/scholar_case?case=6103279683071618777"><i>Sosa v. Alvarez-Machain</i></a>, 542 U.S. 692, 724 (2004). Lower court cases have interpreted this to require that the defedant in an Alien Tort Statute claim be acting in concert with a state. <i>See</i> <a href="http://scholar.google.com/scholar_case?case=10755590652720519638"><i>Abdullahi v. Pfizer</i></a>, 562 F.3d 163 (2d Cir. 2009).</p>
+    <p>I apologize to everyone who wanted this comic to involve little green men instead of pirates. ARRR.</p>
+  transcript: |
+    Professor (off-panel): Ms. Bunny, can you tell me how
+                           courts have limited the scope
+                           of the Alien Tort Statute? ;
+    Tort Bunny: Um ... the 2d Circuit requires
+                state action, right? So courts-- ;
+    -----
+    Brown Rabbit: Professor, I disagree
+                  with the court here. ;
+    Brown Rabbit: The Alien Tort Statute was
+                  historically used to bring
+                  claims for acts of piracy. ;
+    -----
+    Brown Rabbit: And pirates are non-state actors! ;
+    Caption: Gunner. ;
+    -----
+    Blam! ;
+    A cannon ball flies over Brown Rabbit's head. ;
+    -----
+    Negligent Lop is wearing a pirate hat, an eyepatch, and a hook hand. ;
+    He also has a cannon. ;
+    Negligent Lop: Maties, this landlubber says pirates
+                   be nothing but bilge rats chasing
+                   grog. Actually, ye olde pirates were
+                   corsairs for the Barbary States an'
+                   privateers for the English Crown,
+                   a respectable state-sponsored lot! ;
+    Caption: GunnARRR. ;
+revision: 123

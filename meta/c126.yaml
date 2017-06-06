@@ -1,0 +1,28 @@
+globals:
+  last: c126
+includes:
+- from: c126.png
+  to: images/c126.png
+- from: t126.png
+  to: images/t126.png
+pages:
+- _id: c126
+  _path: 126.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c125
+  next: c127
+  datetime: 2011-10-05 23:00:00
+  src: images/c126.png
+  thumbnail: images/t126.png
+  width: 900
+  height: 500
+  name: Steve
+  facebook: 1
+  description: Tribute to Steve Jobs
+  alt: 1955-2011
+  notes: |
+    <p><b><date></b>. <a href="http://www.apple.com/stevejobs/">Rest in peace, Steve.</a></p>
+  transcript: |
+    A laptop with a carrot logo styled like the Apple computer logo.
+revision: 126

@@ -1,0 +1,35 @@
+﻿globals:
+  last: c76
+includes:
+- from: c76.png
+  to: images/c76.png
+- from: t76.png
+  to: images/t76.png
+pages:
+- _id: c76
+  _path: 76.html
+  _template: page.html
+  prev: c75
+  next: c77
+  datetime: 2011-01-10 05:00:00
+  src: images/c76.png
+  thumbnail: images/t76.png
+  width: 900
+  height: 500
+  name: Early
+  facebook: 1
+  description: The early bird gets the worm.
+  alt: François has been there throughout break. Duckland doesn't have winter. 
+  notes: |
+    <p><b><date></b>. Things have improved, but there's always a little bit of <a href="http://<domain>/17.html">seating chart madness</a> at the beginning of a semester.</p>
+    <p>Also, don't worry -- these one-off single panel strips aren't a permanent thing. We'll return to our regular six-panel format shortly.</p>
+    <p>And hey! Tort Bunnies underwent a small makeover during break! I've switched commenting over from Disqus to Facebook for new comics (the old ones haven't changed). I know this requires people to sign in with Facebook to comment, but it seems as if the majority of the comments is on Facebook anyway, so hopefully this'll actually make things easier. If anything seems broken to you, let me know.</p>
+  transcript: |
+    Setting is in a mostly empty classroom. ;
+    The clock reads a little before 6:30. ;
+    François le Duc sits in a chair in the middle. ;
+    Lucy Usagi and Brown Rabbit are in the lower right. ;
+    Brown Rabbit: You're here early. ;
+    Lucy Usagi: My seat! Mine! ;
+revision: 76
+

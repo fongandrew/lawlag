@@ -1,0 +1,59 @@
+﻿globals:
+  last: c58
+includes:
+- from: c58.png
+  to: images/c58.png
+pages:
+- _id: c58
+  _path: 58.html
+  _template: page.html
+  prev: c57
+  next: c59
+  datetime: 2010-10-25 05:00:00
+  src: images/c58.png
+  width: 900
+  height: 650
+  name: Well-heeled
+  description: Tort Bunny makes Brown Rabbit heel.
+  alt: Wait, you're a rabbit. Why are you wearing shoes to begin with?
+  notes: |
+    <p><b><date></b>. Fun fact: <a href="http://www.etymonline.com/index.php?l=h&amp;p=8">"Heeled"</a> once meant "furnished with a gun."</p>
+    <p>I've had variations of this conversation with many people, but this particular comic was inspired by Tracy.</p>
+  transcript: |
+    Tort Bunny walks past some buildings with graffiti and down a sidewalk. ;
+    CLOP CLOP CLOP. ;
+    She's wearing pink high-heels. ;
+    -----
+    Tort Bunny trips on a pothole. ;
+    TRIP! ;
+    Tort Bunny: AUGHHH!!!!! ;
+    -----
+    Brown Rabbit helps her up. ;
+    Tort Bunny: Brown, get your
+                car and give me
+                a ride to the
+                courthouse. ;
+    Brown Rabbit: What? But it's only
+                  three blocks away. ;
+    Tort Bunny: I'm wearing heels. ;
+    -----
+    Brown Rabbit: I really don't see why you
+                  have to wear those things. ;
+    Tort Bunny: It's because we live in
+                a patriarchal society. ;
+    -----
+    Brown Rabbit raises an eyebrow. His left eyebrow to be precise. ;
+    Brown Rabbit: The man is forcing you to wear heels? ;
+    Tort Bunny: No, the man is looking down on
+                me. Literally. Men are taller and 
+                thus more intimidating. Heels let
+                me close the height gap while
+                maintaining my feminity. ;
+    -----
+    Brown Rabbit: Surely there's another-- ;
+    Tort Bunny: I could also walk into court
+                carrying this pink handgun. ;
+    Tort Bunny points said pink handgun in Brown Rabbit's face. ;
+    Brown Rabbit: Right, heels it is. ;
+revision: 58
+

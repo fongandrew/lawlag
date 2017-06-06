@@ -1,0 +1,5 @@
+/* Hide the like box as it exists elsewhere already */
+div.like {display: none;}
+
+/* Fix annoying extra space at top in FB CSS */
+.comment_body .wallkit_form {padding-top: 0px;}

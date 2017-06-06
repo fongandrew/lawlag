@@ -1,0 +1,43 @@
+globals:
+  last: c31
+includes:
+- from: c31.png
+  to: images/c31.png
+pages:
+- _id: c31
+  _path: 31.html
+  _template: page.html
+  prev: c30
+  next: c32
+  alt: "Done at last! With studying? No, with this comic strip about studying!"
+  datetime: 2010-04-26 05:00:00
+  width: 900
+  height: 700
+  name: Murphy
+  notes: |
+    <p><b><date></b>. See <a href="http://en.wikipedia.org/wiki/Murphy's_law">Murphy's law</a>, <a href="http://gizmodo.com/182257/dell-laptop-explodes-in-flames">exploding laptops</a>, and <a href="http://<domain>/11.html">an earlier exam-related Tort Bunnies</a>.</p>
+    <p>Also, <a href="https://www.dropbox.com/referrals/NTM2MTU1NDk">see Dropbox</a>, an easy way to automatically back up your files so an exploding laptop won't doom your educational career. The first 2GB are free, and if you <a href="https://www.dropbox.com/referrals/NTM2MTU1NDk">use my referral code</a>, we'll both receive extra free space. Win!</p>
+  src: images/c31.png
+  description: Brown Rabbit tempts fate.
+  transcript: |
+    Brown Rabbit: Done at last! ;
+    Tort Bunny: With studying? ;
+    Brown Rabbit: No, with my study plan! ;
+    -----
+    Brown Rabbit: Using data from last semester, I
+                  have statistically modeled the
+                  optimal amount of time to spend
+                  studying for each exam. ;
+    Brown Rabbit: According to my calculations, I should
+                  be able to get six hours of sleep per day
+                  and still ace all of my classes! ;
+    -----
+    Brown Rabbit: Nothing could possibly go wrong! ;
+    -----
+    Brown Rabbit's computer starts to smoke. ;
+    -----
+    Fwoosh! ;
+    Brown Rabbit's computer catches on fire. ;
+    -----
+    Brown Rabbit is on fire! ;
+revision: 31

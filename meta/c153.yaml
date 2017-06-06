@@ -1,0 +1,41 @@
+globals:
+  last: c153
+includes:
+- from: c153.png
+  to: images/c153.png
+- from: t153.png
+  to: images/t153.png
+pages:
+- _id: c153
+  _path: 153.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c152
+  next: c154
+  datetime: 2011-04-09 08:00:00
+  src: images/c153.png
+  thumbnail: images/t153.png
+  width: 900
+  height: 340
+  name: Leap of Faith
+  facebook: 1
+  description: Negligent Lop discovers bunny bird wings.
+  alt: Pigs don't have the same power-to-lift ratio as bunnies.
+  notes: |
+    <p><b><date></b>. Inspired by <a href="http://www.sisterclaire.com/comic/happy-easter-2012/">Yamino</a>.</p>
+  transcript: |
+    Negligent Lop is hovering in the air, Dumbo-style.
+    Negligent Lop: Behold! Through sheer
+                   force of will, I can flap
+                   my ears hard enough
+                   to hover in the air! ;
+    Brown Rabbit: Amazing! ;
+    -----
+    Brown Rabbit: The power of the mind
+                  can conquer anything. ;
+    -----
+    Brown Rabbit: You know, maybe I
+                  could will myself out
+                  of student debt! ;
+    Negligent Lop: Psshhh, when PIGS fly. ;
+revision: 153

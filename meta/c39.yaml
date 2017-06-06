@@ -1,0 +1,55 @@
+globals:
+  last: c39
+includes:
+- from: c39.png
+  to: images/c39.png
+pages:
+- _id: c39
+  _path: 39.html
+  _template: page.html
+  prev: c38
+  next: c40
+  alt: "I could care less about proper grammar."
+  datetime: 2010-06-21 05:00:00
+  width: 900
+  height: 650
+  name: Ill Law Geek Cull
+  notes: |
+    <p><b><date></b>. See <a href="http://en.wikipedia.org/wiki/Exception_that_proves_the_rule">exceptions that prove the rule</a>.</p>
+    <p>Also, note that Tort Bunny technically gets it wrong in the fourth panel. Brown Rabbit's statement doesn't prove anything -- it's just an example of him doing things that piss Tort Bunny off.</p>
+  src: images/c39.png
+  description: Tort Bunny says what she means and means what she says.
+  transcript: |
+    Brown Rabbit: And so a motion to dismiss is proper
+                  only if the plaintiff can prove no set
+                  of facts to support her claim. ;
+    Tort Bunny: What about Iqbal v. Ashcroft? ;
+    -----
+    Brown Rabbit: Well, that's the exception
+                  that proves the rule. ;
+    Tort Bunny: Not it isn't. ;
+    Brown Rabbit: Come again? ;
+    -----
+    Tort Bunny: No, it is not the exception that proves
+                the rule. It's just an exception. ;
+    -----
+    Tort Bunny: The only thing it proves is that you're
+                trying to refute something you can't
+                explain with a misused idiom instead
+                of logical reasoning. ;
+    Brown Rabbit: Perhaps ... ;
+    -----
+    Brown Rabbit: But irregardless, for all intensive
+                  purposes, that just begs the
+                  question of why you're literally
+                  hoeing this formalistic line. ;
+    Tort Bunny sputters. ;
+    Tort Bunny: No it doesn't--
+                You can't--
+                That's not-- ;
+    -----
+    Tort Bunny: Stop it! ;
+    Brown Rabbit: Exactly! ;
+    Tort Bunny: Don't make me get stabby. ;
+    Brown Rabbit: I know. That's what I was just saying. ;
+revision: 39

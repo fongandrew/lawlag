@@ -1,0 +1,63 @@
+globals:
+  last: c41
+includes:
+- from: c41.png
+  to: images/c41.png
+pages:
+- _id: c41
+  _path: 41.html
+  _template: page.html
+  prev: c40
+  next: c42
+  alt: "On the plus side, we offer free life insurance to all new hires."
+  datetime: 2010-07-05 05:00:00
+  width: 900
+  height: 650
+  name: Professional Responsibility
+  notes: |
+    <p><b><date></b>. I've always wondered why law firms bill by the hour. It's a huge moral hazard. I have yet to work at a firm, so I don't know exactly what the justification is, but I can think of a few off the top of my head:</p>
+    <ul>
+      <li>Lawsuits involve substantial uncertainty. What seems like a simple legal problem may end up being much more complicated as new facts are discovered. With hourly billing, the cost of this uncertainty is passed on to clients, who, in theory, are better able to mitigiate it. That might make sense for some litigation, but I imagine that most transactional work is fairly routine.</li>
+      <li>Competition among firms will drive lawyers to minimize costs and bill fewer hours. However, while this is true for the market over the long term, it's not true for firms in the short term. There are plenty of examples where managers choose short term payoffs at the expense of long term benefits. Having a system which makes such behavior possible seems like a bad idea.</li>
+      <li>Lawyers have an ethical responsibility to not cheat their clients (that's the reason given in the comic). Two responses: (1) The problem is not that lawyers are consciously choosing to overbill their clients but that they're making subconscious calculations to not work as efficiently as possible. (2) Not all lawyers are ethical.</li>
+    </ul>
+    <p>Thoughts?</p>
+  src: images/c41.png
+  description: Brown Rabbit is incentivized to not piss off his firm.
+  transcript: |
+    Bushy Dough Lop stands in front of a Powerpoint presentation. ;
+    He looks like Negligent Lop with a Colonel Sanders mustache. ;
+    Bushy Dough Lop: Here at Hare, Hop, & Lop, we
+                     look after not only our clients'
+                     legal interests, but their
+                     financial interests as well. ;
+    -----
+    Bushy Dough Lop: That's  why it's important that
+                     you, as summer associates, work
+                     quickly to minimize the number
+                     of hours we bill our clients. ;
+    Bushy Dough Lop: Yes, question? ;
+    -----
+    Brown Rabbit: If we're trying to save our clients
+                  money, then why are we billing
+                  them by the hour to begin with?
+                  Doesn't that create an incentive
+                  to waste time and money? ;
+    -----
+    Bushy Dough Lop: Good question. The answer is no,
+                     because we require all associates
+                     to live by a strict code of honor. ;
+    Bushy Dough Lop: We expect any associate
+                     caught billing more hours
+                     than necessary to commit
+                     ritual suicide rather than
+                     dishonor the firm. ;
+    -----
+    The slide changes to an image of a knife-like object. ;
+    Bushy Dough Lop: The preferred method is
+                     disembowelment with this
+                     rusty letter opener. ;
+    -----
+    Brown Rabbit: That seems excess-- ;
+    Bushy Dough Lop: DEATH BEFORE DISHONOR! ;
+revision: 41

@@ -1,0 +1,51 @@
+globals:
+  last: c135
+includes:
+- from: c135.png
+  to: images/c135.png
+- from: t135.png
+  to: images/t135.png
+pages:
+- _id: c135
+  _path: 135.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c134
+  next: c136
+  datetime: 2011-12-05 05:00:00
+  src: images/c135.png
+  thumbnail: images/t135.png
+  width: 900
+  height: 660
+  name: Proximate Cause
+  facebook: 1
+  description: In which I kvetch
+  alt: We should create a club dedicated to baby seals.
+  notes: |
+    <p><b><date></b>. I don't know if global warming actually kills baby seals. But it seems plausible enough.</p>
+    <p><a href="http://www.flickr.com/photos/carola-/4736281050/">Attribution.</a></p>
+  transcript: |
+    Caption: Dear Professors ;
+    Caption: Exams that are "open book
+             but printed material only"
+             force students to print stuff. ;
+    -----
+    Caption: Lots of stuff. ;
+    Tort Bunny confronts a printer with a baseball bat. ;
+    Tort Bunny: Paper jam?! I'll show
+                you a **** paper jam! ;
+    -----
+    Caption: That kills trees. ;
+    Image of sheets of paper with images of trees on them. ;
+    -----
+    Caption: Lots of trees. ;
+    Brown Rabbit pokes his head out behind a 5 volume stack of outlines. ;
+    Caption: Trees that absorb carbon dioxide. ;
+    -----
+    Caption: Which causes global warming. ;
+    Image of a red hot earth. ;
+    Caption: And kills baby seals. ;
+    -----
+    Cue image of baby seal. ;
+    Caption: I hope you're happy. ;
+revision: 135

@@ -1,0 +1,49 @@
+globals:
+  last: c96
+includes:
+- from: c96.png
+  to: images/c96.png
+- from: t96.png
+  to: images/t96.png
+pages:
+- _id: c96
+  _path: 96.html
+  _template: page.html
+  _post_to_facebook: It burns!
+  prev: c95
+  next: c97
+  datetime: 2011-05-09 05:00:00
+  src: images/c96.png
+  thumbnail: images/t96.png
+  width: 900
+  height: 650
+  name: Epic III
+  facebook: 1
+  description: The roof the roof the roof is on fire
+  alt: It doesn't feel like finals until I've inflicted serious injury upon Brown Rabbit.
+  continuation: c93
+  notes: |
+    <p><b><date></b>. If you're lost, <a href="http://<domain>/93.html">start here.</a> <a href="http://<domain>/67.html">Other</a> <a href="http://<domain>/31.html">references</a>.</p>
+    <p><a href="http://www.youtube.com/watch?v=44kBN340vd4">This is one of my favorite LOTR scenes by the way.</a> Kudos to Dash for predicting how today's comic would turn out.</p>
+    <p>Check back Thursday!</p>
+  transcript: |
+    Brown Rabbit points a sword at the dragon. ;
+    -----
+    The dragon lets loose some fiery "Part two had a question on comparative negligence." ;
+    -----
+    Negligent Lop tries to put out a flaming mast with some tequila. ;
+    -----
+    Lucy Usagi is asleep at the crow's nest somehow. ;
+    Lucy Usagi: zzzzzz ... ;
+    -----
+    Amid the flaming wreckage, Tort Bunny stands. ;
+    Tort Bunny: You cannot pass dragon! ;
+    -----
+    Tort Bunny: You shall not-- ;
+    A flaming Brown Rabbit leaps into the panel. ;
+    Brown Rabbit: No you fool!
+                  Let it pass! ;
+    Brown Rabbit: Passing is good!
+                  Passing is good! ;
+    Caption: to be continued ... ;
+revision: 96

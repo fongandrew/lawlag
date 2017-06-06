@@ -1,0 +1,52 @@
+﻿globals:
+  last: c56
+includes:
+- from: c56.png
+  to: images/c56.png
+pages:
+- _id: c56
+  _path: 56.html
+  _template: page.html
+  prev: c55
+  next: c57
+  datetime: 2010-10-11 05:00:00
+  src: images/c56.png
+  width: 900
+  height: 650
+  name: Help
+  description: Stop asking.
+  alt: The campaign slogan was 'family benefits we can believe in'.
+  notes: |
+    <p><b><date></b>. In case it's unclear, the image in the third panel is a fighter jet. And the bottom panels depict the White House.</p>
+    <p>And yes, there may have been a little more copying and pasting than usual today.</p>
+  transcript: |
+    Tort Bunny is on her red phone. ;
+    Tort Bunny: Hey mom. I ... no, I don't
+                know if you can do that. ;
+    Tort Bunny: Yes, I'm a law student, but no,
+                I can't give you legal advice. ;
+    -----
+    Cut to Brown Rabbit talking on his phone outside. ;
+    Brown Rabbit: Have you tried ... look, it's really
+                  hard doing this over the phone. ;
+    Brown Rabbit: No, I don't know why
+                  your laptop is beeping! ;
+    -----
+    Cut to an F-16 fighter jet up in the sky somewhere. ;
+    Pilot: Have you -- Dad, hey, I don't care
+           what the neighbors said. I'm not
+           dropping a bomb on their house. ;
+    Pilot: No, not even a small one! ;
+    -----
+    Cut to the White House. ;
+    President Obunny: Hey sis, what's up? I-- ;
+    President Obunny: Yeah, I know I said that, but
+                      there's the filibuster and-- ;
+    President Obunny: Okay, okay, I'll look
+                      into it. Okay? Okay. ;
+    -----
+    President Obunny: Sigh. ;
+    -----
+    President Obunny: ******* campaign slogan. ;
+revision: 56
+

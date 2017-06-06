@@ -1,0 +1,41 @@
+globals:
+  last: c98
+includes:
+- from: c98.png
+  to: images/c98.png
+- from: t98.png
+  to: images/t98.png
+pages:
+- _id: c98
+  _path: 98.html
+  _template: page.html
+  _post_to_facebook: The end of our little story arc
+  prev: c97
+  next: c99
+  datetime: 2011-05-16 05:00:00
+  src: images/c98.png
+  thumbnail: images/t98.png
+  width: 900
+  height: 340
+  name: Epic V
+  facebook: 1
+  continuation: c93
+  description: Tort Bunny finishes her exam.
+  alt: Shank! Yes, yes, I saw that.
+  notes: |
+    <p><b><date></b>. And that's the end of our story arc. Thanks for reading, and I hope no one <a href="http://<domain>/67.html">missed any questions</a> on their exams. And congrats to all the graduates! You're done! <a href="http://www.barbri.com/">Sorta.</a></p>
+  transcript: |
+    Proctor (off-panel): Time's up! Please stop
+                         working on your exams. ;
+    Tort Bunny finishes up her exam. ;
+    -----
+    Brown Rabbit: Well, that wasn't too bad,
+                  except for part two of course. ;
+    Brown Rabbit: Part two had that question
+                  on comparative negligence. ;
+    -----
+    Brown Rabbit: It was real sneaky, but
+                  I bet you got it anyway. ;
+    Tort Bunny leaps into the air with a sword. ;
+    Brown Rabbit: You saw it, right? ;
+revision: 98

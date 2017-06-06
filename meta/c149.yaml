@@ -1,0 +1,60 @@
+globals:
+  last: c149
+includes:
+- from: c149.png
+  to: images/c149.png
+- from: t149.png
+  to: images/t149.png
+pages:
+- _id: c149
+  _path: 149.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c148
+  next: c150
+  datetime: 2012-03-12 05:00:00
+  src: images/c149.png
+  thumbnail: images/t149.png
+  width: 900
+  height: 660
+  name: Friends with Secrets
+  facebook: 1
+  description: Brown Rabbit helps Tort Bunny study for the MPRE.
+  alt: Insert 'Yo Momma is unethical' joke here.
+  notes: |
+    <p><b><date></b>. Some previous <a href="http://<domain>/41.html">professional</a> <a href="http://<domain>/102.html">responsibility</a> strips.</p>
+    <p>The <a href="http://www.ncbex.org/multistate-tests/mpre/">MPRE</a> is a weird little test. Someone once suggested to me that, when in doubt, pick the second most ethical answer, where "ethical" means "what feels right". That seems like an accurate description of how the MPRE works.</p>
+    <p>In case you're wondering, Brown Rabbit is asking about <a href="http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_8_3_reporting_professional_misconduct.html">ABA Rule 8.3</a>. According to Rule 8.3, "[a] lawyer who knows that another lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial question as to that lawyer's honesty, trustworthiness or fitness as a lawyer in other respects, shall inform the appropriate professional authority."</p>
+    <p>Threatening your clients would raise a substantial question as to your fitness as a lawyer, so it sounds like Attorney A would have to report Attorney B. But the key word in the rule is "knows". Attorney A has "received information" about Attorney B, but it could be just hearsay. So suppose the choices on the MPRE are ...</p>
+    <p>A. Yes, A must always report wrongdoing by other lawyers<br />B. Yes, but only if A has actual knowledge of B's conduct.</p>
+    <p>Pick B.  It's the second most ethical choice.</p>
+    <p>Insert disclaimer that you shouldn't rely solely on a webcomic for passing any exam.</p>
+    <p>Good luck to everyone taking the MPRE on Saturday! And thanks to Ted for suggesting this.</p>
+  transcript: |
+    Tort Bunny: Thanks for helping me study
+                for the MPRE Brown Rabbit. ;
+    Brown Rabbit: Sure thing. Let's start with
+                  some practice questions. ;
+    Brown Rabbit opens up an orange MPRE practice book. ;
+    -----
+    Brown Rabbit (reading): Question one. ;
+    Brown Rabbit (reading): Attorney A receives information that
+                            Attorney B threatens her clients with
+                            physical violence to collect payment
+                            owed for non-legal services rendered.
+                            Must Attorney A report Attorney B? ;
+    -----
+    Brown Rabbit (reading): A. Yes, A must always report
+                            wrongdoing by other lawyers. ;
+    Brown Rabbit (reading): B. Yes, but only-- ;
+    Tort Bunny: This one here. ;
+    Tort Bunny points to a choice in the book. ;
+    -----
+    Brown Rabbit (reading): D. No snitches. ;
+    -----
+    Tort Bunny: What? ;
+    -----
+    Tort Bunny: Snitching is unethical! ;
+    Brown Rabbit: If we're both admitted to the bar,
+                  being your friend'll be unethical. ;
+revision: 149

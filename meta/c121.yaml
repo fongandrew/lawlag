@@ -1,0 +1,45 @@
+globals:
+  last: c121
+includes:
+- from: c121.png
+  to: images/c121.png
+- from: t121.png
+  to: images/t121.png
+pages:
+- _id: c121
+  _path: 121.html
+  _template: page.html
+  _post_to_facebook: 1
+  prev: c120
+  next: c122
+  datetime: 2011-09-05 05:00:00
+  src: images/c121.png
+  thumbnail: images/t121.png
+  width: 900
+  height: 650
+  name: Equitable
+  facebook: 1
+  description: Justice!
+  alt: All this over a fly ball
+  notes: |
+    <p><b><date></b>. I think this is a pretty accurate metaphor for our justice system in general.</p>
+    <p>See <a href="http://news.findlaw.com/hdocs/docs/bonds/popovhayashi121802dec.pdf"><i>Popov v. Hayashi</i></a> [PDF]. Alex Popov caught Barry Bond's seventy-third home run. Or rather, he almost did, because as soon as the ball hit his glove, he was swarmed by a "band of wrongdoers", causing him to lose control of the ball. In the ensuing mayhem, Dennis Hayashi picked up the ball and refused to give it back to Popov, precipitating a lawsuit over who owned said ball. Unable to determine whether Popov would have maintained possession of the ball had he not been assaulted, the judge decided to do the <a href="http://en.wikipedia.org/wiki/Judgment_of_Solomon">Solomonic</a> thing: Sell the ball and split the proceeds.</p>
+    <p>On an unrelated note, I still have some <a href="http://<domain>/images/merch/notaduck/green.png">duck</a> <a href="http://<domain>/images/merch/notaduck/navyblue.png">shirts</a> on sale at $15 per shirt. E-mail andrew AT tortbunnies DOT com if you're interested.</p>
+  transcript: |
+    Brown Rabbit catches a baseball at a game. ;
+    -----
+    BATTERY!
+    Tort Bunny kicks Brown Rabbit in the base of his balls. ;
+    Brown Rabbit inadvertently relinquishes his ball in hand to Lucy Usagi. ;
+    -----
+    Brown Rabbit and Lucy Usagi argue about who gets the ball. ;
+    Lucy Usagi: Mine! ;
+    -----
+    Negligent Lop brandishes a knife. ;
+    Lucy Usagi: Yours! ;
+    -----
+    CHOP ;
+    -----
+    Negligent Lop walks off with his "woot" face on. ;
+    Brown Rabbit and Lucy Usagi each hold half a ball. ;
+revision: 121

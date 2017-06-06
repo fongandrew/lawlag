@@ -1,0 +1,58 @@
+﻿globals:
+  last: c53
+includes:
+- from: c53.png
+  to: images/c53.png
+pages:
+- _id: c53
+  _path: 53.html
+  _template: page.html
+  prev: c52
+  next: c54
+  datetime: 2010-09-27 05:00:00
+  src: images/c53.png
+  width: 900
+  height: 650
+  name: Hellspawn
+  description: Negligent Lop takes a phone call from someone looking to hire.
+  alt: "Patent trolling is in there because it starts with the letter 'p'."
+  notes: |
+    <p><b><date></b>. A reminder: The views of the characters in this comic strip remain their own and do not in any way reflect upon the author or any of his potential employers.</p> 
+    <p>Also, note that the citation format has changed somewhat now that I've actually consulted the newest edition of the Bluebook.</p>
+  transcript: |
+    Negligent Lop is in a coffee shop with a phone and laptop. ;
+    In the back, Brown Rabbit is talking to someone behind the counter. ;
+    A Phone: Quack Quack Quack. ;
+    -----
+    Negligent Lop picks up the phone. ;
+    Negligent Lop: Hello? ;
+    Negligent Lop: Yes, that's me. ;
+    Negligent Lop: Oh, a job offer? Well, I can give
+                   you my response right now. ;
+    -----
+    Negligent Lop: After minimal consideration, I
+                   have decided not to sell my soul to
+                   your little cabal of planet killing,
+                   people poisoning, politician bribing,
+                   patent trolling corporate whores. ;
+    -----
+    Negligent Lop: So crawl back to your hellspawn
+                   overlords and tell them that the
+                   next time we meet, I won't be
+                   looking for a job. ;
+    Negligent Lop: I'll be looking for their heads. ;
+    Negligent Lop: Good day sir. ;
+    -----
+    Negligent Lop: I said GOOD DAY SIR. ;
+    *CLICK* ;
+    Negligent Lop hangs up. ;
+    -----
+    Brown Rabbit is back with some coffee. Or some other brown drink. ;
+    Brown Rabbit: Thanks for watching my
+                  stuff. Did I get any calls? ;
+    Negligent Lop: Uh ... just some multi-
+                   level marketing scam. ;
+    Brown Rabbit: Oh man, I hate those! ;
+    Negligent Lop: I know! ;
+revision: 53
+

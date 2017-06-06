@@ -1,0 +1,65 @@
+﻿globals:
+  last: c49
+includes:
+- from: c49.png
+  to: images/c49.png
+pages:
+- _id: c49
+  _path: 49.html
+  _template: page.html
+  prev: c48
+  next: c50
+  datetime: 2010-08-30 05:00:00
+  src: images/c49.png
+  width: 900
+  height: 650
+  name: U-S-A! U-S-A!
+  description: Tort Bunny and François le Duc butcher the English language.
+  alt: "In Soviet Russia, duck quacks you."
+  notes: |
+    <p><b><date></b>. Thanks to Phil for suggesting this comic. <a href="http://en.wikipedia.org/wiki/Master_of_Laws">LL.M. students</a> attend many of the same classes J.D. students do, but tend to be practicing lawyers from outside the U.S. The clash of legal traditions is often interesting. There is, at any rate, a deep-seated antipathy among American jurists to anything Europeean. See David Sklansky, <i><a href="http://www.harvardlawreview.org/issues/122/april09/sklansky.pdf">Anti-Inquisitorialism</a></i> [PDF], 122 Harv. L. Rev. 1634 (2008).</p>
+    <p>In addition, see <a href="http://en.wikipedia.org/wiki/Seventh_Amendment_to_the_United_States_Constitution">the Seventh Amendment</a>. See also <a href="http://en.wikipedia.org/wiki/Foie_gras">foie gras</a>.</p>
+    <p>Another thing: Not that I'm one to talk, but did any of you notice that <a href="http://www.scoutsongs.com/lyrics/proudtobeamerican.html">Lee Greenwood's lyrics</a> are grammatically incorrect?</p>
+    <p>Finally, note that I've changed the citation prefix at the bottom of the comic from "cite to" to "cite as:". Apparently, <a href="http://lawprose.org/interviews/supreme_court.php?vid=scalia_part_1&amp;vidtitle=Associate_Justice_Antonin_Scalia_Part_1">Justice Scalia hates "cite to"</a> (jump to 1:40 in the video).</p>
+  transcript: |
+    Professor Cottontail (off-panel): So the case now goes to a jury to
+                                      determine whether the patent is-- ;
+    François le Duc: Excuse me Professor, but I do not
+                     see why Americans insist upon
+                     jury in such technical case. ;
+    -----
+    François le Duc: For example, in my country,
+                     whether duckling is swan or
+                     just ugly is hard question for
+                     jury. ;
+    François le Duc: Many factors must balance. ;
+    François le Duc: So we appoint special drake,
+                     use science measure ugliness,
+                     throw jury out tall window. ;
+    -----
+    François le Duc: That is metaphor. ;
+    Professor Cottontail (off-panel): I, uh -- Ms. Bunny, do you
+                                      want to say something? ;
+    Tort Bunny: Yes I do. ;
+    -----
+    Tort Bunny: Unlike you continentals, we Americans
+                inherited from the British a common
+                law right to a jury trial and a healthy
+                distrust of tyrannical governments. ;
+    Tort Bunny: The right to a jury in civil cases is what
+                keeps activist judges from imposing
+                European-style socialism upon us. ;
+    -----
+    Tort Bunny: And I'm proud to be an American,
+                where at least I know I'm free. ;
+    Cue American flag waving in the background. ;
+    Tort Bunny: GOD BLESS THE USA! ;
+    -----
+    François le Duc: This is same America
+                     that approve torture? ;
+    Tort Bunny: This is same America that's gonna shove a 
+                tube down your throat and stuff you until
+                your liver explodes if you don't shut up. ;
+    Tort Bunny: That is not metaphor. ;
+revision: 49
+

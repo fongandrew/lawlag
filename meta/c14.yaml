@@ -1,0 +1,39 @@
+globals:
+  last: c14
+includes:
+- from: c14.png
+  to: images/c14.png
+pages:
+- _id: c14
+  _path: 14.html
+  _template: page.html
+  alt: Is it slurpee or slurpie?
+  datetime: 2009-12-28 05:00:00
+  height: 700
+  name: Irony
+  next: c15
+  notes: '<p><b><date></b>. A PSA for New Year''s Eve. Do not drive drunk.</p>
+
+    <p>Also, if you take away someone''s keys, make sure they get home safely. See
+    <a href="http://scholar.google.com/scholar_case?case=15016094375983030108"><i>Nelson
+    v. Driscoll</i></a>, 295 Mont. 363 (1999), where the plaintiff''s wife was pulled
+    over by a police officer on suspicion of drunk driving. The officer could not
+    establish that she was actually intoxicated and therefore did not believe he had
+    grounds to arrest her on a DUI. However, given admissions by both the plaintiff
+    and his wife that they had been drinking earlier, the officer forbade the two
+    from further driving that night. The two decided to walk home instead, and the
+    wife was killed when she was hit by a drunk driver. The court held that whether
+    or not the officer should be held liable for her death was a valid jury question.</p>
+
+    '
+  prev: c13
+  src: images/c14.png
+  transcript: "Brown Rabbit is teetering around with a bottle. ;\nNegligent Lop: Whoa\
+    \ there, looks like you took one\n               too many rides on the slurpee\
+    \ train!;\nNegligent Lop: Driving would be inadvisable. ;\n-----\nBrown Rabbit:\
+    \ Guess what's *hic* my\n              favorite train to ride? ;\nNegligent Lop:\
+    \ Keys. Now. ;\nBrown Rabbit: Your mother. ;\n-----\nBrown Rabbit: Tee hee ...\
+    \ his mother. ;\n-----\nA drunk Tort Bunny plows into Brown Rabbit in her red\
+    \ car-shaped box. ;\n"
+  width: 900
+revision: 14

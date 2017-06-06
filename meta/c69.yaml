@@ -1,0 +1,45 @@
+﻿globals:
+  last: c69
+includes:
+- from: c69.png
+  to: images/c69.png
+pages:
+- _id: c69
+  _path: 69.html
+  _template: page.html
+  prev: c68
+  next: c70
+  datetime: 2010-12-21 05:00:00
+  src: images/c69.png
+  width: 900
+  height: 650
+  continuation: c67
+  name: The Ghost of Law School Past
+  description: We meet Brown Rabbit's ex.
+  alt: The question is whether this is before or after Brown Rabbit started law school.
+  notes: |
+    <p><b><date></b>. For those just joining us, this story arc <a href="http://<domain>/67.html">starts here</a>.</p>
+    <p>For those not in the know, Chemerinsky writes <a href="http://www.amazon.com/Constitutional-Law-Principles-Policies-Introduction/dp/0735524289">a mean Con Law supplement</a> that everyone reads. Well, maybe not me, but everyone else does.</p>
+  transcript: |
+    Brown Rabbit: Where are we? ;
+    The Ghost of Law School Past: The question is when. ;
+    -----
+    Brown Rabbit spies his past self in a coffee shop with a purple bunny. ;
+    Brown Rabbit: Hey, I know that-- ;
+    Purple Bunny: This isn't working Brown. ;
+    -----
+    Purple Bunny: You're going to school a thousand
+                  miles away. I have to to let you go. ;
+    Purple Bunny: I release you. May you
+                  be happy in the life ... ;
+    -----
+    Past Brown Rabbit is reading a textbook of some sort. ;
+    Purple Bunny: ... you have chosen. ;
+    -----
+    Brown Rabbit: What? It's Chemerinsky. ;
+    -----
+    The Ghost of Law School Past: Come. There is more to see. ;
+    Brown Rabbit: Everyone reads Chemerinsky! ;
+    The past vanishes in a flash of green. ;
+revision: 69
+

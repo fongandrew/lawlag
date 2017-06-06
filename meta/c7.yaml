@@ -1,0 +1,40 @@
+globals:
+  last: c7
+includes:
+- from: c7.png
+  to: images/c7.png
+pages:
+- _id: c7
+  _path: 7.html
+  _template: page.html
+  alt: The warning is defective because it fails to say 'may yield offspring that
+    you have a horrific desire to eat'.
+  datetime: 2009-11-09 05:00:00
+  description: Three kinds of defects as applied to rabbit sperm
+  height: 535
+  name: Defects
+  next: c8
+  disqus_url: http://share.tortbunnies.com/7.html
+  notes: '<p><b><date></b>. See <a href="http://en.wikipedia.org/wiki/Product_liability#Types_of_liability">product
+    liability</a> and <a href="http://www.altlaw.org/v1/cases/510620"><i>Two Rivers
+    Co. v. Curtiss Breeding Serv.</i></a>, 624 F.2d 1242 (5th Cir. 1980). The warning
+    defect is in the title-text (hover over the image). See <a href="http://www.discourse.net/archives/2003/10/why_lawyers_fear_minks.html"><i>Foster
+    v. Preston Mill Co.</i></a>, 268 P.2d 645 (Wash. 1954) and <a href="http://www.debmark.com/rabbits/faq/eatyoung.htm">this</a>.</p>
+
+    <p>Memo-writing hangover means this is still a little short, but it''s longer
+    than last week''s. Also, thanks to Judith for the prompting.</p>
+
+    '
+  prev: c6
+  src: images/c7.png
+  transcript: "Caption: Manufacturing Defects ; \nSeveral rabbit sperms (spermatozoons?)\
+    \ are swimming right. ; \nOne blue-ish / purple sperm is swimmng left upside down.\
+    \ ; \n-----\nCaption: Design Defects ; \nMultiple sperms are swimming around in\
+    \ random directions. ;\nOne sperm is trying to make sense of a sign. ;\nThe top\
+    \ part of the sign points right saying \"This way\". ;\nThe bottom part of the\
+    \ sign points left saying \"No, this way\". ;\n-----\nCaptain: Warning Defects\
+    \ ;\nMultiple sperm are swimming downward with yellow warning signs on them ;\n\
+    Warning Sign: Warning\n              May cause\n              emotional distress,\n\
+    \              economic losses,\n              and moral dilemmas\n"
+  width: 900
+revision: 7
